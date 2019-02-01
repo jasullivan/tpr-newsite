@@ -1,0 +1,39 @@
+body {
+    font-family: 'Amiri', serif;
+}
+h1 {
+    color: $tpr-color-primary;
+    font-size: 6rem;
+}
+h2 {
+    font-size: 5rem;
+}
+
+.paragraph {
+    font-size: $default-font-size;
+    color: $tpr-color-primary;
+    // &:not(:last-child) {
+    //     margin-bottom: 1.6rem;
+    // }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.tester-color {
+    color: green;
+}
+.col-change {color: red;}

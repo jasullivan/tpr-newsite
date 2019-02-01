@@ -19,3 +19,15 @@ html {
 body {
     box-sizing: border-box; 
 }
+
+.tpr-nav {
+    &--mx-width {
+        max-width:1200px;
+        margin: 0 auto;
+    }
+    &__link {
+        font-size: 2.2rem;
+        font-family: 'Amiri', serif;
+    }
+
+}

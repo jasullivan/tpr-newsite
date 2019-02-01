@@ -2,9 +2,9 @@
   "name": "tpr-newsite",
   "version": "1.0.0",
   "description": "new tpr media site",
-  "main": "index.js",
+  "main": "assets/js/script.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "compile:sass": "node-sass assets/styles/sass/main.scss assets/styles/css/style.css -w"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,3 @@
     "live-server": "^1.2.1"
   }
 }
-
-
