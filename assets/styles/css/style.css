@@ -19,16 +19,24 @@ html {
 body {
   box-sizing: border-box; }
 
-.tpr-nav--mx-width {
+.tpr-nav {
   max-width: 1200px;
   margin: 0 auto; }
-
-.tpr-nav__link {
-  font-size: 2.2rem;
-  font-family: 'Amiri', serif; }
+  .tpr-nav__link {
+    font-size: 2.2rem;
+    font-family: 'Amiri', serif; }
+  .tpr-nav__social-icons {
+    position: absolute;
+    top: 61px;
+    right: 10rem;
+    /* these absolute measurements are based on the parent */
+    /* transform:translate measurements are based on the element itself */ }
+    @media (min-width: 62em) {
+      .tpr-nav__social-icons {
+        right: 3rem; } }
 
 body {
-  font-family: 'Amiri', serif; }
+  font-family: 'Open Sans', Arial, sans-serif; }
 
 h1 {
   color: #333333;
@@ -46,3 +54,12 @@ h2 {
 
 .col-change {
   color: red; }
+
+.bgred {
+  background-color: red !important; }
+
+.bgblue {
+  background-color: blue !important; }
+
+.bggreen {
+  background-color: green !important; }

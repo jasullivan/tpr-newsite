@@ -5,3 +5,18 @@
         clear: both;
     }
 }
+
+@mixin responsivebp($breakpoint) {
+  @if $breakpoint == sl {
+    @media (min-width: 36em) { @content }; //576px
+  }
+  @if $breakpoint == md {
+    @media (min-width: 48em) { @content }; //768px
+  }
+  @if $breakpoint == lg {
+    @media (min-width: 62em) { @content }; //992px
+  }
+  @if $breakpoint == xll {
+    @media (min-width: 75em) { @content }; //1200px
+  }
+}

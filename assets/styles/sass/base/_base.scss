@@ -21,13 +21,24 @@ body {
 }
 
 .tpr-nav {
-    &--mx-width {
-        max-width:1200px;
-        margin: 0 auto;
-    }
+    max-width:1200px;
+    margin: 0 auto;
     &__link {
         font-size: 2.2rem;
         font-family: 'Amiri', serif;
     }
-
+    &__social-icons {
+        position: absolute;
+        top: 61px;
+        right: 10rem;
+        @include responsivebp(lg) {
+            right: 3rem;
+        }
+        // position: fixed;
+        /* these absolute measurements are based on the parent */
+        // top: 54%;
+        // right: 0;
+        /* transform:translate measurements are based on the element itself */
+        // transform: translate(-50%, -50%);
+    }
 }
