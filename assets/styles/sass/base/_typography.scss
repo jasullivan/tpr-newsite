@@ -12,9 +12,10 @@ h2 {
 .paragraph {
     font-size: $default-font-size;
     color: $tpr-color-primary;
-    // &:not(:last-child) {
-    //     margin-bottom: 1.6rem;
-    // }
+}
+
+.nav-link:hover {
+    color: $tpr-light-blue!important;
 }
 
 

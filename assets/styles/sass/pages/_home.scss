@@ -1,0 +1,10 @@
+.tpr-slider {
+    @include tpr-max-width();
+}
+
+.tpr-statement {
+    font-size: 2.4rem;
+    &--highlight {
+        color: $tpr-blue;
+    }
+}

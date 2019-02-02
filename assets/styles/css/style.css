@@ -20,20 +20,35 @@ body {
   box-sizing: border-box; }
 
 .tpr-nav {
-  max-width: 1200px;
+  max-width: 120rem;
   margin: 0 auto; }
   .tpr-nav__link {
     font-size: 2.2rem;
-    font-family: 'Amiri', serif; }
+    font-family: 'Amiri', serif;
+    color: #333333;
+    text-decoration: none !important; }
+    .tpr-nav__link:hover {
+      color: #92d4e9; }
   .tpr-nav__social-icons {
     position: absolute;
-    top: 61px;
-    right: 10rem;
-    /* these absolute measurements are based on the parent */
-    /* transform:translate measurements are based on the element itself */ }
+    top: 5.4rem;
+    right: 10rem; }
     @media (min-width: 62em) {
       .tpr-nav__social-icons {
         right: 3rem; } }
+
+.tpr-footer {
+  max-width: 120rem;
+  margin: 0 auto;
+  color: #fff; }
+  .tpr-footer__content {
+    text-align: center; }
+    .tpr-footer__content--left {
+      text-align: left; }
+  .tpr-footer__logo-main {
+    max-width: 5rem; }
+  .tpr-footer__tel-link {
+    color: #fff; }
 
 body {
   font-family: 'Open Sans', Arial, sans-serif; }
@@ -49,11 +64,56 @@ h2 {
   font-size: 1.6rem;
   color: #333333; }
 
+.nav-link:hover {
+  color: #92d4e9 !important; }
+
 .tester-color {
   color: green; }
 
 .col-change {
   color: red; }
+
+.tpr-blue-bar {
+  background-color: #92d4e9;
+  color: #333333; }
+  .tpr-blue-bar__content {
+    max-width: 100rem;
+    font-size: 2rem;
+    margin: 0 auto;
+    text-align: center; }
+
+.tpr-team-section__member {
+  position: relative; }
+  .tpr-team-section__member:hover .tpr-team-section--overlay {
+    opacity: 0.5; }
+
+.tpr-team-section__picture {
+  width: 100%; }
+
+.tpr-team-section--overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: #007397;
+  opacity: 0;
+  transition: all .5s; }
+
+.tpr-team-section__details {
+  color: #fff;
+  position: absolute;
+  bottom: 1rem;
+  left: 2rem; }
+
+.tpr-slider {
+  max-width: 120rem;
+  margin: 0 auto; }
+
+.tpr-statement {
+  font-size: 2.4rem; }
+  .tpr-statement--highlight {
+    color: #007397; }
 
 .bgred {
   background-color: red !important; }

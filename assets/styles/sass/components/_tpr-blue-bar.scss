@@ -1,0 +1,10 @@
+.tpr-blue-bar {
+    background-color: $tpr-light-blue;
+    color: $tpr-color-primary;
+    &__content {
+        max-width:100rem;
+        font-size: 2rem;
+        margin: 0 auto; 
+        text-align: center;
+    }
+}

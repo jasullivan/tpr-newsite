@@ -1,0 +1,27 @@
+.tpr-team-section {
+    &__member {
+        position: relative;
+        &:hover .tpr-team-section--overlay {
+            opacity: 0.5;
+        }
+    }
+    &__picture {
+        width: 100%;
+    }
+    &--overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;   
+        background-color: $tpr-dark-blue;
+        opacity: 0;
+        transition: all .5s;
+    }
+    &__details {
+        color: $color-white;
+        position: absolute;
+        bottom: 1rem;
+        left: 2rem;
+    }
+}

@@ -21,24 +21,45 @@ body {
 }
 
 .tpr-nav {
-    max-width:1200px;
+    max-width:120rem;
     margin: 0 auto;
     &__link {
         font-size: 2.2rem;
         font-family: 'Amiri', serif;
+        color: $tpr-color-primary;
+        text-decoration: none!important;
+        &:hover {
+            // replacing bootstrap in-built hover color
+            color: $tpr-light-blue;
+        }
     }
     &__social-icons {
         position: absolute;
-        top: 61px;
+        top: 5.4rem;
         right: 10rem;
         @include responsivebp(lg) {
             right: 3rem;
         }
-        // position: fixed;
-        /* these absolute measurements are based on the parent */
-        // top: 54%;
-        // right: 0;
-        /* transform:translate measurements are based on the element itself */
-        // transform: translate(-50%, -50%);
     }
 }
+
+.tpr-footer {
+    @include tpr-max-width();
+    color: $color-white;
+    &__content {
+        text-align: center;
+        &--left {
+            text-align: left;
+        }
+    }
+    &__logo-main {
+        max-width: 5rem;
+    }
+    &__tel-link {
+        color: $color-white;
+    }
+}
+
+
+
+
