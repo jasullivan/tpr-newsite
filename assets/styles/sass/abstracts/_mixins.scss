@@ -6,7 +6,7 @@
     }
 }
 
-@mixin responsivebp($breakpoint) {
+@mixin respond($breakpoint) {
   @if $breakpoint == sl {
     @media (min-width: 36em) { @content }; //576px
   }

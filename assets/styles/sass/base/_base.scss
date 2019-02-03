@@ -37,7 +37,7 @@ body {
         position: absolute;
         top: 5.4rem;
         right: 10rem;
-        @include responsivebp(lg) {
+        @include respond(lg) {
             right: 3rem;
         }
     }

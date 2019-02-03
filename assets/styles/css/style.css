@@ -64,14 +64,8 @@ h2 {
   font-size: 1.6rem;
   color: #333333; }
 
-.nav-link:hover {
-  color: #92d4e9 !important; }
-
-.tester-color {
-  color: green; }
-
-.col-change {
-  color: red; }
+ul {
+  list-style: none; }
 
 .tpr-blue-bar {
   background-color: #92d4e9;
@@ -83,7 +77,9 @@ h2 {
     text-align: center; }
 
 .tpr-team-section__member {
-  position: relative; }
+  position: relative;
+  margin-bottom: 3rem;
+  cursor: pointer; }
   .tpr-team-section__member:hover .tpr-team-section--overlay {
     opacity: 0.5; }
 
@@ -103,8 +99,18 @@ h2 {
 .tpr-team-section__details {
   color: #fff;
   position: absolute;
-  bottom: 1rem;
-  left: 2rem; }
+  bottom: 0rem;
+  left: 1rem; }
+
+.tpr-team-modal__header {
+  border-bottom: 1px solid #92d4e9; }
+
+.tpr-team-modal__close {
+  font-size: 2.5rem; }
+
+.tpr-team-modal__picture {
+  max-width: 80%;
+  margin: 0 auto; }
 
 .tpr-slider {
   max-width: 120rem;

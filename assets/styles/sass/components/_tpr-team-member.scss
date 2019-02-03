@@ -1,6 +1,11 @@
 .tpr-team-section {
     &__member {
         position: relative;
+        margin-bottom: 3rem;
+        cursor: pointer;
+        @include respond(sm) {
+            margin-bottom: 0rem;
+        }
         &:hover .tpr-team-section--overlay {
             opacity: 0.5;
         }
@@ -21,7 +26,21 @@
     &__details {
         color: $color-white;
         position: absolute;
-        bottom: 1rem;
-        left: 2rem;
+        bottom: 0rem;
+        left: 1rem;
     }
 }
+.tpr-team-modal {
+    &__header {
+        border-bottom: 1px solid $tpr-light-blue;
+    }
+    &__close {
+        font-size: 2.5rem;
+    }
+    &__picture {
+        max-width: 80%;
+        margin: 0 auto;
+        // text-align: center;
+    }
+}
+
