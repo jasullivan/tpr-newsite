@@ -51,10 +51,10 @@ body {
     color: #fff; }
 
 body {
-  font-family: 'Open Sans', Arial, sans-serif; }
+  font-family: 'Open Sans', Arial, sans-serif;
+  color: #333333; }
 
 h1 {
-  color: #333333;
   font-size: 6rem; }
 
 h2 {
@@ -62,10 +62,14 @@ h2 {
 
 .paragraph {
   font-size: 1.6rem;
-  color: #333333; }
+  text-align: center; }
 
 ul {
   list-style: none; }
+
+.tpr-approach-content__title {
+  font-size: 1.8rem;
+  text-align: center; }
 
 .tpr-blue-bar {
   background-color: #92d4e9;
@@ -111,6 +115,11 @@ ul {
 .tpr-team-modal__picture {
   max-width: 80%;
   margin: 0 auto; }
+
+.tpr-clients {
+  text-align: center; }
+  .tpr-clients__client {
+    width: 80%; }
 
 .tpr-slider {
   max-width: 120rem;

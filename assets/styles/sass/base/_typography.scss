@@ -1,17 +1,19 @@
 body {
     font-family: 'Open Sans', Arial, sans-serif;
+    color: $tpr-color-primary;
 }
 h1 {
-    color: $tpr-color-primary;
     font-size: 6rem;
 }
 h2 {
     font-size: 5rem;
 }
 
+
+
 .paragraph {
     font-size: $default-font-size;
-    color: $tpr-color-primary;
+    text-align: center;
 }
 
 ul {
