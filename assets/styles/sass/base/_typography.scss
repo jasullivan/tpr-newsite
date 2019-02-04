@@ -9,7 +9,11 @@ h2 {
     font-size: 5rem;
 }
 
+p {font-size: $default-font-size;}
 
+button {
+   font-family: 'Open Sans', Arial, sans-serif; 
+}
 
 .paragraph {
     font-size: $default-font-size;

@@ -60,12 +60,32 @@ h1 {
 h2 {
   font-size: 5rem; }
 
+p {
+  font-size: 1.6rem; }
+
+button {
+  font-family: 'Open Sans', Arial, sans-serif; }
+
 .paragraph {
   font-size: 1.6rem;
   text-align: center; }
 
 ul {
   list-style: none; }
+
+.tpr-news-row__content {
+  background-color: #92d4e9;
+  height: 100%; }
+
+.tpr-news-row__title {
+  font-size: 2rem;
+  font-family: 'Amiri', serif; }
+
+.tpr-news-row__paragraph {
+  font-size: 1.4rem; }
+
+.tpr-news-row__image {
+  width: 100%; }
 
 .tpr-approach-content__title {
   font-size: 1.8rem;
@@ -96,7 +116,7 @@ ul {
   left: 0;
   bottom: 0;
   right: 0;
-  background-color: #007397;
+  background-color: #004459;
   opacity: 0;
   transition: all .5s; }
 
@@ -120,6 +140,17 @@ ul {
   text-align: center; }
   .tpr-clients__client {
     width: 80%; }
+
+.tpr-button {
+  font-size: 1.4rem;
+  background-color: #007397;
+  color: #fff;
+  width: 15rem;
+  text-transform: uppercase;
+  font-family: 'Open Sans', Arial, sans-serif; }
+  .tpr-button:hover {
+    background-color: #004459;
+    color: #fff; }
 
 .tpr-slider {
   max-width: 120rem;
