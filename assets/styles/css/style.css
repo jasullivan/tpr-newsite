@@ -50,6 +50,10 @@ body {
   .tpr-footer__tel-link {
     color: #fff; }
 
+.google-map {
+  width: 100%;
+  height: 400px; }
+
 body {
   font-family: 'Open Sans', Arial, sans-serif;
   color: #333333; }
@@ -68,6 +72,9 @@ button {
 
 ul {
   list-style: none; }
+
+a:hover {
+  text-decoration: none; }
 
 .tpr-news-row__content {
   background-color: #92d4e9;
@@ -152,10 +159,16 @@ ul {
   max-width: 120rem;
   margin: 0 auto; }
 
-.tpr-statement {
+.tpr-statement-text {
   font-size: 2.4rem; }
-  .tpr-statement--highlight {
+  .tpr-statement-text--highlight {
     color: #007397; }
+  .tpr-statement-text__tel {
+    color: #747474; }
+  .tpr-statement-text__link {
+    color: #333333; }
+    .tpr-statement-text__link:hover {
+      color: #92d4e9; }
 
 .bgred {
   background-color: red !important; }
