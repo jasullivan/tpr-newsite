@@ -9,16 +9,16 @@ h2 {
     font-size: 5rem;
 }
 
-p {font-size: $default-font-size;}
+p, ul {font-size: $default-font-size;}
 
 button {
    font-family: 'Open Sans', Arial, sans-serif; 
 }
 
-.paragraph {
-    font-size: $default-font-size;
-    text-align: center;
-}
+// .paragraph {
+//     font-size: $default-font-size;
+//     text-align: center;
+// }
 
 ul {
     list-style: none;

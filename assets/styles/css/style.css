@@ -60,15 +60,11 @@ h1 {
 h2 {
   font-size: 5rem; }
 
-p {
+p, ul {
   font-size: 1.6rem; }
 
 button {
   font-family: 'Open Sans', Arial, sans-serif; }
-
-.paragraph {
-  font-size: 1.6rem;
-  text-align: center; }
 
 ul {
   list-style: none; }
