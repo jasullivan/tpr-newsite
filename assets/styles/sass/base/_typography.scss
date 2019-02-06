@@ -14,7 +14,12 @@ p, ul {font-size: $default-font-size;}
 button {
    font-family: 'Open Sans', Arial, sans-serif; 
 }
-
+a {
+    color: $tpr-color-primary;
+    &:hover {
+        color: $tpr-light-blue;
+    }
+}
 ul {
     list-style: none;
 }
