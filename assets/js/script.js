@@ -1,14 +1,10 @@
-// console.log('test');
-// $(document).ready(function () {
-    $(".btn-primary:first").click(function () {
-        // $(this).button('toggle');
-        $("p").toggleClass("tester-color");
-    });
-// });
-
 /******************************* 
-// gallery
+// GALLERY
 ********************************/
+
+/*******************************
+// changes the filter of images
+// *******************************/
 filterSelection("all");
 
 function filterSelection(c) {
@@ -65,16 +61,30 @@ function w3RemoveClass(element, name) {
     element.className = arr1.join(" ");
     
 }
+
+/*******************************
+// Changes button appearance on click
+// /*******************************/
+
 // Add active class to the current button (highlight it)
 var btnContainer = document.getElementById("myBtnContainer");
+
+// creates an array of all elements with btn2 class in
 var btns = btnContainer.getElementsByClassName("btn2");
+
 for (var i = 0; i < btns.length; i++) {
+    // gives an eventlistener to each item and says, do this...
     btns[i].addEventListener("click", function () {
+        // finds the btns[i] which have active2 class and puts into var current
         var current = document.getElementsByClassName("active2");
+        
+        // there's only 1 item in current array, so current[0] is the item with active2 class. It replaces classname active2 with nothing. i.e. its removed!!
         current[0].className = current[0].className.replace(" active2", "");
+
+        // the btns[i] that's clicked on has active2 class added
         this.className += " active2";
     });
 }
 /******************************* 
-// gallery  ends
+// GALLERY ENDS
 ********************************/
