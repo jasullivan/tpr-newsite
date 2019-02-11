@@ -1,73 +1,39 @@
-/* Center website */
-.main2 {
-    max-width: 1000px;
-    margin: auto;
+.gallery-nav {
+    border-top: 1px solid $color-vlight-grey;
+    border-bottom:  1px solid $color-vlight-grey;
+    text-align: center;
+    &__button {
+        padding: 10px 18px;
+        cursor: pointer;
+        background: none;
+        border: none;
+    }
+    @include clearfix();
+}
+/* ---- gallery-nav ---- */
+
+/* ---- isotope ---- */
+.grid {
+    @include clearfix();
+    width: 100%;
+    margin: 0 auto;
 }
 
-h1 {
-    font-size: 50px;
-    word-break: break-all;
+/* ---- .element-item ---- */
+.element-item {
+  position: relative;
+  width: 98%;
+  margin: 1%;
+//   padding: 10px;
+  background: #888;
+  color: #262524;
+  @include respond(md) {
+    width: 48%;
+    margin: 1%;
+  }
 }
 
-.row2 {
-    margin: 10px -16px;
-}
-
-/* Add padding BETWEEN each column */
-.row2,
-.row2>.column2 {
-    padding: 8px;
-}
-
-/* Create three equal columns that floats next to each other */
-.column2 {
-    float: left;
-    width: 33.33%;
-    // display: none;
-    height: 0;
-    opacity: 0;
-    position: absolute;
-
-    // transition: all 0.5s;
-    /* Hide all elements by default */
-}
-
-/* Clear floats after rows */
-.row2:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-/* Content */
-.content {
-    background-color: white;
-    padding: 10px;
-}
-
-/* The "show" class is added to the filtered elements */
-.show {
-    // display: block;
-    height: 100%;
-    opacity: 1;
-    position: static;
-
-}
-
-/* Style the buttons */
-.btn2 {
-    border: none;
-    outline: none;
-    padding: 12px 16px;
-    background-color: white;
-    cursor: pointer;
-}
-
-.btn2:hover {
-    background-color: red;
-}
-
-.btn2.active2 {
-    background-color: green;
-    color: white;
+.element-item img {
+  width: 100%;
+  display: inline-block;
 }

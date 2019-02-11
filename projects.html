@@ -72,96 +72,69 @@
     <!-- blue header bar -->
 
     <!-- team section -->
-    <div class="container">
+    <!-- <div class="container">
         <div class="row tpr-team-section p-5">
             <div class="col-md-4">
                 
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- team section -->
     
     <!-- MAIN (Center website) -->
-    <div class="main2">
-        
-        <div id="myBtnContainer">
-            <button class="btn2 active2" onclick="filterSelection('all')"> Show all</button>
-            <button class="btn2" onclick="filterSelection('nature')"> Nature</button>
-            <button class="btn2" onclick="filterSelection('cars')"> Cars</button>
-            <button class="btn2" onclick="filterSelection('people')"> People</button>
+    
+    <div class="container">
+        <div class="row px-md-5 pt-5">
+            <div class="col-md-12">
+                <div class="gallery-nav gallery-nav-filter">
+                    <button class="gallery-nav__button is-checked" data-filter="*">All</button>
+                    <button class="gallery-nav__button" data-filter=".metal">Case Studies</button>
+                    <button class="gallery-nav__button" data-filter=".transition">TV & Film</button>
+                    <button class="gallery-nav__button" data-filter=".alkali, .alkaline-earth">Arts & Culture</button>
+                    <button class="gallery-nav__button" data-filter=".alkali, .alkaline-earth">Technology</button>
+                    <button class="gallery-nav__button" data-filter=".alkali, .alkaline-earth">Awards & Festivals</button>
+                    <button class="gallery-nav__button" data-filter=".alkali, .alkaline-earth">Social Impact</button>
+                </div>
+            </div>
         </div>
-
-        <!-- Portfolio Gallery Grid -->
-        <div class="row2">
-            <div class="column2 nature">
-                <div class="content">
-                    <img src="./assets/images/gallery/mountains.jpg" alt="Mountains" style="width:100%">
-                    <h4>Mountains</h4>
-                    <p>Lorem ipsum dolor..</p>
-                </div>
+    </div>
+    
+    <div class="container">
+        <div class="grid mb-5 mt-3">
+            <div class="element-item transition metal" data-category="transition">
+                <img src="./assets/images/gallery/accidental-anarchist-thumbnail.jpg" alt="">
             </div>
-            <div class="column2 nature">
-                <div class="content">
-                    <img src="./assets/images/gallery/lights.jpg" alt="Lights" style="width:100%">
-                    <h4>Lights</h4>
-                    <p>Lorem ipsum dolor..</p>
-                </div>
+            <div class="element-item post-transition metal" data-category="post-transition">
+                <img src="./assets/images/gallery/dementia-peer-support-thumbnail.jpg" alt="">
             </div>
-            <div class="column2 nature">
-                <div class="content">
-                    <img src="./assets/images/gallery/nature.jpg" alt="Nature" style="width:100%">
-                    <h4>Forest</h4>
-                    <p>Lorem ipsum dolor..</p>
-                </div>
+            <div class="element-item post-transition metal" data-category="post-transition">
+                <img src="./assets/images/gallery/inside-the-freemasons-thumbnail.jpg" alt="">
             </div>
-
-            <div class="column2 cars">
-                <div class="content">
-                    <img src="./assets/images/gallery/cars1.jpg" alt="Car" style="width:100%">
-                    <h4>Retro</h4>
-                    <p>Lorem ipsum dolor..</p>
-                </div>
+            <div class="element-item transition" data-category="transition">
+                <img src="./assets/images/gallery/never-ending-man-thumbnail.jpg" alt="">
             </div>
-            <div class="column2 cars">
-                <div class="content">
-                    <img src="./assets/images/gallery/cars2.jpg" alt="Car" style="width:100%">
-                    <h4>Fast</h4>
-                    <p>Lorem ipsum dolor..</p>
-                </div>
+            <div class="element-item alkali" data-category="alkali">
+                <img src="./assets/images/gallery/out-of-thin-air-thumbnail.jpg" alt="">
             </div>
-            <div class="column2 cars">
-                <div class="content">
-                    <img src="./assets/images/gallery/cars3.jpg" alt="Car" style="width:100%">
-                    <h4>Classic</h4>
-                    <p>Lorem ipsum dolor..</p>
-                </div>
+            <div class="element-item alkali metal" data-category="alkali">
+                <img src="./assets/images/gallery/remember-baghdad-thumbnail.jpg" alt="">
             </div>
-
-            <div class="column2 people">
-                <div class="content">
-                    <img src="./assets/images/gallery/people1.jpg" alt="Car" style="width:100%">
-                    <h4>Girl</h4>
-                    <p>Lorem ipsum dolor..</p>
-                </div>
+            <div class="element-item transition metal" data-category="transition">
+                <img src="./assets/images/gallery/what-you-taught-me-about-my-son-thumbnail.jpg" alt="">
             </div>
-            <div class="column2 people">
-                <div class="content">
-                    <img src="./assets/images/gallery/people2.jpg" alt="Car" style="width:100%">
-                    <h4>Man</h4>
-                    <p>Lorem ipsum dolor..</p>
-                </div>
+            <div class="element-item post-transition metal" data-category="post-transition">
+                <img src="./assets/images/gallery/accidental-anarchist-thumbnail.jpg" alt="">
             </div>
-            <div class="column2 people">
-                <div class="content">
-                    <img src="./assets/images/gallery/people3.jpg" alt="Car" style="width:100%">
-                    <h4>Woman</h4>
-                    <p>Lorem ipsum dolor..</p>
-                </div>
+            <div class="element-item lanthanoid metal inner-transition" data-category="lanthanoid">
+                <img src="./assets/images/gallery/accidental-anarchist-thumbnail.jpg" alt="">
             </div>
-            <!-- END GRID -->
+            <div class="element-item actinoid metal inner-transition" data-category="actinoid">
+                <img src="./assets/images/gallery/accidental-anarchist-thumbnail.jpg" alt="">
+            </div>
+            <div class="element-item actinoid metal inner-transition" data-category="actinoid">
+                <img src="./assets/images/gallery/accidental-anarchist-thumbnail.jpg" alt="">
+            </div>
         </div>
-
-        <!-- END MAIN -->
     </div>
     
         
@@ -186,8 +159,10 @@
         </div>
     </div>
     <!-- footer -->
-    
-    <script src="./assets/js/script.js"></script>
+    <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+    <script 
+    src="./assets/js/script.js"></script>
 
 </body>
 </html>

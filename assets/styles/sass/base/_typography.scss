@@ -13,10 +13,17 @@ p, ul {font-size: $default-font-size;}
 
 button {
    font-family: 'Open Sans', Arial, sans-serif; 
+   font-size: 1.6rem;
 }
-a {
+a, button {
     color: $tpr-color-primary;
     &:hover {
+        color: $tpr-light-blue;
+    }
+    &:active {
+        color: $tpr-light-blue;
+    }
+    &.is-checked {
         color: $tpr-light-blue;
     }
 }
