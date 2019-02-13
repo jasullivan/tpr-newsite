@@ -29,6 +29,8 @@ body {
     text-decoration: none !important; }
     .tpr-nav__link:hover {
       color: #92d4e9; }
+  .tpr-nav .active {
+    color: #92d4e9; }
   .tpr-nav__social-icons {
     position: absolute;
     top: 5.4rem;
@@ -198,7 +200,31 @@ a:hover {
   width: 98%;
   margin: 1%;
   background: #888;
-  color: #262524; }
+  color: #262524;
+  cursor: pointer; }
+  .element-item:hover .element-item__details {
+    opacity: 1; }
+  .element-item__details {
+    opacity: 0;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: none;
+    transition: all .5s; }
+    .element-item__details p {
+      position: absolute;
+      z-index: 2;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%); }
+  .element-item--overlay {
+    width: 100%;
+    height: 100%;
+    background-color: #004459;
+    opacity: 0.5; }
   @media (min-width: 48em) {
     .element-item {
       width: 48%;
