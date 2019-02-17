@@ -109,7 +109,6 @@ a.progressive img {
 
 a.progressive img.preview {
   filter: blur(2vw);
-  opacity: 0.2;
   transform: scale(1.05); }
 
 a.progressive img.reveal {
