@@ -2,6 +2,9 @@
     &__content {
         background-color: $tpr-light-blue;
         height: 100%;
+        &--grey {
+            background-color: $color-vlight-grey;
+        }
     }
     &__title {
         font-size: 2rem;

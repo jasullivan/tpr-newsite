@@ -19,6 +19,9 @@ html {
 body {
   box-sizing: border-box; }
 
+figure {
+  margin: 0 0 0rem; }
+
 .tpr-nav {
   max-width: 120rem;
   margin: 0 auto; }
@@ -72,7 +75,7 @@ h2 {
 p, ul {
   font-size: 1.6rem; }
 
-button {
+button, .button {
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 1.6rem; }
 
@@ -91,26 +94,26 @@ ul {
 a:hover {
   text-decoration: none; }
 
-a.progressive {
+figure.progressive {
   position: relative;
   display: block;
   overflow: hidden;
   outline: none; }
 
-a.progressive:not(.replace) {
+figure.progressive:not(.replace) {
   cursor: default; }
 
-a.progressive img {
+figure.progressive img {
   display: block;
   width: 100%;
   max-width: none;
   height: auto;
   border: 0 none; }
 
-a.progressive img.filter-item {
+figure.progressive img.filter-item {
   filter: blur(2vw); }
 
-a.progressive img.reveal {
+figure.progressive img.reveal {
   position: absolute;
   left: 0;
   top: 0;
@@ -128,6 +131,8 @@ a.progressive img.reveal {
 .tpr-news-row__content {
   background-color: #92d4e9;
   height: 100%; }
+  .tpr-news-row__content--grey {
+    background-color: #dddddd; }
 
 .tpr-news-row__title {
   font-size: 2rem;
@@ -139,7 +144,7 @@ a.progressive img.reveal {
 .tpr-news-row__image {
   width: 100%; }
 
-.tpr-approach-content__title {
+.tpr-article-content__title {
   font-size: 1.8rem;
   text-align: center; }
 
