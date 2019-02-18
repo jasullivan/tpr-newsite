@@ -16,8 +16,11 @@ a.progressive img {
   border: 0 none;
 }
 a.progressive img.preview {
-    filter: blur(2vw);
-    transform: scale(1.05);
+    // filter: blur(2vw);
+    // transform: scale(1.05);
+}
+a.progressive img.filter-item {
+  filter: blur(2vw);
 }
 a.progressive img.reveal {
   position: absolute;
@@ -28,6 +31,7 @@ a.progressive img.reveal {
 }
 
 @keyframes reveal {
-  0% {transform: scale(1.05); opacity: 0;}
+  // 0% {transform: scale(1.05); opacity: 0;}
+  0% {transform: scale(1); opacity: 0;}
   100% {transform: scale(1); opacity: 1;}
 }
