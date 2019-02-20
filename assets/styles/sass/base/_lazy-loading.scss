@@ -1,28 +1,28 @@
 // test code for lazy loading
-figure.progressive {
+picture.progressive {
   position: relative;
   display: block;
   overflow: hidden;
   outline: none;
 }
-figure.progressive:not(.replace) {
+picture.progressive:not(.replace) {
   cursor: default;
 }
-figure.progressive img {
+picture.progressive img {
   display: block;
   width: 100%;
   max-width: none;
   height: auto;
   border: 0 none;
 }
-figure.progressive img.preview {
+picture.progressive img.preview {
     // filter: blur(2vw);
     // transform: scale(1.05);
 }
-figure.progressive img.filter-item {
+picture.progressive img.filter-item {
   filter: blur(2vw);
 }
-figure.progressive img.reveal {
+picture.progressive img.reveal {
   position: absolute;
   left: 0;
   top: 0;
