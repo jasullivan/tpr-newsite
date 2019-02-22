@@ -125,6 +125,14 @@ picture.progressive img.reveal {
     transform: scale(1);
     opacity: 1; } }
 
+.tpr-article__paragraph {
+  text-align: center; }
+
+.tpr-article__link {
+  color: #004459; }
+  .tpr-article__link:hover {
+    color: #92d4e9; }
+
 .tpr-news-row__content {
   background-color: #92d4e9;
   height: 100%; }
