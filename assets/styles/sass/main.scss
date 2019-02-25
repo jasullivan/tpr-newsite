@@ -15,7 +15,7 @@
 @import "components/tpr-blue-bar";
 @import "components/tpr-button";
 @import "components/tpr-clients";
-@import "components/tpr-gallery";
+@import "components/tpr-gallery-item";
 @import "components/tpr-news-row";
 @import "components/tpr-team-member";
 @import "components/tpr-team-modal";
@@ -24,7 +24,9 @@
 // @import "layout/grid";
 // @import "layout/header";
 
+@import "pages/clients";
 @import "pages/home";
+@import "pages/projects";
 
 
 .bgred {

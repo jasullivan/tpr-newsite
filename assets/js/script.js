@@ -119,7 +119,7 @@ if (window.addEventListener && window.requestAnimationFrame && document.getEleme
 ********************************/
 // $(window).on('load', function () {
 var $grid = $('.grid').isotope({
-    itemSelector: '.element-item',
+    itemSelector: '.gallery-item',
     layoutMode: 'fitRows'
 });
 $grid.imagesLoaded().progress(function () {
@@ -140,7 +140,7 @@ var filterFns = {
     }
 };
 // bind filter button click
-$('.gallery-nav-filter').on('click', 'button', function () {
+$('.gallery-nav').on('click', 'button', function () {
     var filterValue = $(this).attr('data-filter');
     // use filterFn if matches value
     filterValue = filterFns[filterValue] || filterValue;
