@@ -59,38 +59,6 @@ body {
     .google-map {
       height: 500px; } }
 
-body {
-  font-family: 'Open Sans', Arial, sans-serif;
-  color: #333333; }
-
-h1 {
-  font-size: 6rem; }
-
-h2 {
-  font-size: 5rem; }
-
-p, ul {
-  font-size: 1.6rem; }
-
-button, .button {
-  font-family: 'Open Sans', Arial, sans-serif;
-  font-size: 1.6rem; }
-
-a, button {
-  color: #333333; }
-  a:hover, button:hover {
-    color: #92d4e9; }
-  a:active, button:active {
-    color: #92d4e9; }
-  a.is-checked, button.is-checked {
-    color: #92d4e9; }
-
-ul {
-  list-style: none; }
-
-a:hover {
-  text-decoration: none; }
-
 picture.progressive {
   position: relative;
   display: block;
@@ -125,29 +93,46 @@ picture.progressive img.reveal {
     transform: scale(1);
     opacity: 1; } }
 
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  color: #333333; }
+
+h1 {
+  font-size: 6rem; }
+
+h2 {
+  font-size: 5rem; }
+
+p, ul {
+  font-size: 1.6rem; }
+
+button, .button {
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-size: 1.6rem; }
+
+a, button {
+  color: #333333; }
+  a:hover, button:hover {
+    color: #92d4e9; }
+  a:active, button:active {
+    color: #92d4e9; }
+  a.is-checked, button.is-checked {
+    color: #92d4e9; }
+
+ul {
+  list-style: none; }
+
+a:hover {
+  text-decoration: none; }
+
 .tpr-article__paragraph {
-  text-align: center; }
+  text-align: center;
+  padding: 3px 0; }
 
 .tpr-article__link {
   color: #004459; }
   .tpr-article__link:hover {
     color: #92d4e9; }
-
-.tpr-news-row__content {
-  background-color: #92d4e9;
-  height: 100%; }
-  .tpr-news-row__content--grey {
-    background-color: #dddddd; }
-
-.tpr-news-row__title {
-  font-size: 2rem;
-  font-family: 'Amiri', serif; }
-
-.tpr-news-row__paragraph {
-  font-size: 1.4rem; }
-
-.tpr-news-row__image {
-  width: 100%; }
 
 .tpr-article-content__title {
   font-size: 1.8rem;
@@ -162,47 +147,6 @@ picture.progressive img.reveal {
     margin: 0 auto;
     text-align: center; }
 
-.tpr-team-section__member {
-  position: relative;
-  margin-bottom: 3rem;
-  cursor: pointer; }
-  .tpr-team-section__member:hover .tpr-team-section--overlay {
-    opacity: 0.5; }
-
-.tpr-team-section__picture {
-  width: 100%; }
-
-.tpr-team-section--overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  background-color: #004459;
-  opacity: 0;
-  transition: all .5s; }
-
-.tpr-team-section__details {
-  color: #fff;
-  position: absolute;
-  bottom: 0rem;
-  left: 1rem; }
-
-.tpr-team-modal__header {
-  border-bottom: 1px solid #92d4e9; }
-
-.tpr-team-modal__close {
-  font-size: 2.5rem; }
-
-.tpr-team-modal__picture {
-  max-width: 80%;
-  margin: 0 auto; }
-
-.tpr-clients {
-  text-align: center; }
-  .tpr-clients__client {
-    width: 80%; }
-
 .tpr-button {
   font-size: 1.4rem;
   background-color: #007397;
@@ -213,6 +157,11 @@ picture.progressive img.reveal {
   .tpr-button:hover {
     background-color: #004459;
     color: #fff; }
+
+.tpr-clients {
+  text-align: center; }
+  .tpr-clients__client {
+    width: 80%; }
 
 .gallery-nav {
   border-top: 1px solid #dddddd;
@@ -281,6 +230,55 @@ picture.progressive img.reveal {
 .element-item img {
   width: 100%;
   display: inline-block; }
+
+.tpr-news-row__content {
+  background-color: #92d4e9;
+  height: 100%; }
+  .tpr-news-row__content--grey {
+    background-color: #dddddd; }
+
+.tpr-news-row__title {
+  font-size: 2rem;
+  font-family: 'Amiri', serif; }
+
+.tpr-news-row__paragraph {
+  font-size: 1.4rem; }
+
+.tpr-news-row__image {
+  width: 100%; }
+
+.tpr-team-member {
+  position: relative;
+  margin-bottom: 3rem;
+  cursor: pointer; }
+  .tpr-team-member:hover .tpr-team-member__overlay {
+    opacity: 0.5; }
+  .tpr-team-member__picture {
+    width: 100%; }
+  .tpr-team-member__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: #004459;
+    opacity: 0;
+    transition: all .5s; }
+  .tpr-team-member__details {
+    color: #fff;
+    position: absolute;
+    bottom: 0rem;
+    left: 1rem; }
+
+.tpr-team-modal__header {
+  border-bottom: 1px solid #92d4e9; }
+
+.tpr-team-modal__close {
+  font-size: 2.5rem; }
+
+.tpr-team-modal__picture {
+  max-width: 80%;
+  margin: 0 auto; }
 
 .tpr-slider {
   max-width: 120rem;

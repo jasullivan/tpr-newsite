@@ -1,19 +1,17 @@
-.tpr-team-section {
-    &__member {
-        position: relative;
-        margin-bottom: 3rem;
-        cursor: pointer;
-        @include respond(sm) {
-            margin-bottom: 0rem;
-        }
-        &:hover .tpr-team-section--overlay {
-            opacity: 0.5;
-        }
+.tpr-team-member {
+    position: relative;
+    margin-bottom: 3rem;
+    cursor: pointer;
+    @include respond(sm) {
+        margin-bottom: 0rem;
+    }
+    &:hover .tpr-team-member__overlay {
+        opacity: 0.5;
     }
     &__picture {
         width: 100%;
     }
-    &--overlay {
+    &__overlay {
         position: absolute;
         top: 0;
         left: 0;
@@ -30,17 +28,5 @@
         left: 1rem;
     }
 }
-.tpr-team-modal {
-    &__header {
-        border-bottom: 1px solid $tpr-light-blue;
-    }
-    &__close {
-        font-size: 2.5rem;
-    }
-    &__picture {
-        max-width: 80%;
-        margin: 0 auto;
-        // text-align: center;
-    }
-}
+
 

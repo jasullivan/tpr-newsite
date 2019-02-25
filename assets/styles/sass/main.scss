@@ -7,17 +7,18 @@
 
 // @import "base/animations";
 @import "base/base";
-@import "base/typography";
 @import "base/lazy-loading";
+@import "base/typography";
 
 @import "components/tpr-article";
-@import "components/tpr-news-row";
 @import "components/tpr-approach-content";
 @import "components/tpr-blue-bar";
-@import "components/tpr-team-member";
-@import "components/tpr-clients";
 @import "components/tpr-button";
+@import "components/tpr-clients";
 @import "components/tpr-gallery";
+@import "components/tpr-news-row";
+@import "components/tpr-team-member";
+@import "components/tpr-team-modal";
 
 
 // @import "layout/grid";
