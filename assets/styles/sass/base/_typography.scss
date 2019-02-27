@@ -34,4 +34,21 @@ a:hover {
     text-decoration: none;
 }
 
+.tpr-article {
+    &__title {
+        font-size: 1.8rem;
+        text-align: center;
+    }
+    &__paragraph {
+        text-align: center;
+        padding: 3px 0;
+    }
+    &__link {
+        color: $tpr-dark-blue;
+        &:hover {
+            color: $tpr-light-blue;  
+        }
+    }
+}
+
 

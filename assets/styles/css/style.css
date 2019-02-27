@@ -125,6 +125,10 @@ ul {
 a:hover {
   text-decoration: none; }
 
+.tpr-article__title {
+  font-size: 1.8rem;
+  text-align: center; }
+
 .tpr-article__paragraph {
   text-align: center;
   padding: 3px 0; }
@@ -146,17 +150,6 @@ a:hover {
     font-size: 2rem;
     margin: 0 auto;
     text-align: center; }
-
-.tpr-button {
-  font-size: 1.4rem;
-  background-color: #007397;
-  color: #fff;
-  width: 15rem;
-  text-transform: uppercase;
-  font-family: 'Open Sans', Arial, sans-serif; }
-  .tpr-button:hover {
-    background-color: #004459;
-    color: #fff; }
 
 .tpr-clients {
   text-align: center; }
@@ -251,6 +244,11 @@ a:hover {
 .tpr-team-modal__picture {
   max-width: 80%;
   margin: 0 auto; }
+
+.tpr-clients {
+  text-align: center; }
+  .tpr-clients__client {
+    width: 80%; }
 
 .tpr-slider {
   max-width: 120rem;
