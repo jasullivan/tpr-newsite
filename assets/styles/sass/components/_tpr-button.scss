@@ -1,0 +1,12 @@
+.tpr-button {
+    font-size: 1.4rem;
+    background-color: $tpr-blue;
+    color: $color-white;
+    width: 15rem;
+    text-transform: uppercase;
+    font-family: 'Open Sans', Arial, sans-serif;
+    &:hover {
+        background-color: $tpr-dark-blue;
+        color: $color-white;
+    }
+}

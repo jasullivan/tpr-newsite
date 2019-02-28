@@ -1,12 +1,12 @@
-// .tpr-article {
-//     &__paragraph {
-//         text-align: center;
-//         padding: 3px 0;
-//     }
-//     &__link {
-//         color: $tpr-dark-blue;
-//         &:hover {
-//             color: $tpr-light-blue;  
-//         }
-//     }
-// }
+.tpr-article {
+    &__paragraph {
+        text-align: center;
+        padding: 3px 0;
+    }
+    &__link {
+        color: $tpr-dark-blue;
+        &:hover {
+            color: $tpr-light-blue;  
+        }
+    }
+}

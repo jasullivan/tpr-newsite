@@ -138,9 +138,14 @@ a:hover {
   .tpr-article__link:hover {
     color: #92d4e9; }
 
-.tpr-article-content__title {
-  font-size: 1.8rem;
-  text-align: center; }
+.tpr-article__paragraph {
+  text-align: center;
+  padding: 3px 0; }
+
+.tpr-article__link {
+  color: #004459; }
+  .tpr-article__link:hover {
+    color: #92d4e9; }
 
 .tpr-blue-bar {
   background-color: #92d4e9;
@@ -151,10 +156,16 @@ a:hover {
     margin: 0 auto;
     text-align: center; }
 
-.tpr-clients {
-  text-align: center; }
-  .tpr-clients__client {
-    width: 80%; }
+.tpr-button {
+  font-size: 1.4rem;
+  background-color: #007397;
+  color: #fff;
+  width: 15rem;
+  text-transform: uppercase;
+  font-family: 'Open Sans', Arial, sans-serif; }
+  .tpr-button:hover {
+    background-color: #004459;
+    color: #fff; }
 
 /* ---- .gallery-item ---- */
 .gallery-item {
