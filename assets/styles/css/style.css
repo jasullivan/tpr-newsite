@@ -138,22 +138,28 @@ a:hover {
   .tpr-article__link:hover {
     color: #92d4e9; }
 
-.tpr-article__paragraph {
-  text-align: center;
-  padding: 3px 0; }
-
-.tpr-article__link {
-  color: #004459; }
-  .tpr-article__link:hover {
-    color: #92d4e9; }
+.tpr-article-content {
+  padding: 3rem 0 3rem; }
+  .tpr-article-content picture {
+    padding-bottom: 1rem; }
+  .tpr-article-content__paragraph {
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 1rem; }
+  .tpr-article-content__link {
+    color: #004459; }
+    .tpr-article-content__link:hover {
+      color: #92d4e9; }
 
 .tpr-blue-bar {
   background-color: #92d4e9;
-  color: #333333; }
+  color: #333333;
+  margin: 0 -1.5rem; }
   .tpr-blue-bar__content {
     max-width: 100rem;
     font-size: 2rem;
     margin: 0 auto;
+    padding: 3rem;
     text-align: center; }
 
 .tpr-button {

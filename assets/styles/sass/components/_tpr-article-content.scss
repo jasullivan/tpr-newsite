@@ -1,7 +1,12 @@
-.tpr-article {
+.tpr-article-content {
+    padding: 3rem 0 3rem;
+    picture {
+        padding-bottom: 1rem;
+    }
     &__paragraph {
         text-align: center;
-        padding: 3px 0;
+        margin-bottom: 0;
+        padding-bottom: 1rem;
     }
     &__link {
         color: $tpr-dark-blue;
