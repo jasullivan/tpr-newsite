@@ -147,18 +147,23 @@ a:hover {
     margin-bottom: 0;
     padding-bottom: 1rem; }
   .tpr-article-content__link {
-    color: #004459; }
+    color: #007397; }
     .tpr-article-content__link:hover {
       color: #92d4e9; }
+  .tpr-article-content__subtitle {
+    font-size: 2rem;
+    padding-top: 1rem;
+    text-align: center; }
 
 .tpr-blue-bar {
   background-color: #92d4e9;
   color: #333333;
   margin: 0 -1.5rem; }
   .tpr-blue-bar__content {
-    max-width: 100rem;
     font-size: 2rem;
+    line-height: 1.4;
     margin: 0 auto;
+    max-width: 100rem;
     padding: 3rem;
     text-align: center; }
 

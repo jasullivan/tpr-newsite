@@ -9,9 +9,14 @@
         padding-bottom: 1rem;
     }
     &__link {
-        color: $tpr-dark-blue;
+        color: $tpr-blue;
         &:hover {
             color: $tpr-light-blue;  
         }
+    }
+    &__subtitle {
+        font-size: 2rem;
+        padding-top: 1rem;
+        text-align: center;
     }
 }
