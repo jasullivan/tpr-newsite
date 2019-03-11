@@ -206,6 +206,12 @@ a:hover {
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%); }
+  .gallery-item img {
+    display: block;
+    width: 100%;
+    max-width: none;
+    height: auto;
+    border: 0 none; }
   .gallery-item--overlay {
     position: absolute;
     z-index: 20;

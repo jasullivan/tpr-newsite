@@ -1,5 +1,23 @@
 /*******************************
-// test code for lazy loading
+// slider lazy loading
+********************************/
+$(function () {
+    return $("#carouselExampleSlidesOnly").on("slide.bs.carousel", function (
+        ev
+    ) {
+        var lazy;
+        lazy = $(ev.relatedTarget).find("img[data-src]");
+        lazy.attr("src", lazy.data("src"));
+        lazy.removeAttr("data-src");
+    });
+});
+/*******************************
+// slider lazy loading ends
+********************************/
+
+
+/*******************************
+// gallery, news and clients lazy loading
 ********************************/
 if (window.addEventListener && window.requestAnimationFrame && document.getElementsByClassName) window.addEventListener('load', function () {
 
@@ -113,6 +131,9 @@ if (window.addEventListener && window.requestAnimationFrame && document.getEleme
     }
 
 }, false);
+/*******************************
+// gallery, news and clients lazy loading ends
+********************************/
 
 /******************************* 
 // GALLERY
