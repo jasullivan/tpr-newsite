@@ -1,3 +1,4 @@
+// lazysizes
 var lazy = function lazy() {
     document.addEventListener('lazyloaded', function (e) {
         e.target.parentNode.classList.add('image-loaded');
@@ -6,7 +7,7 @@ var lazy = function lazy() {
 }
 
 lazy();
-
+// lazysizes
 
 /*******************************
 // slider lazy loading
