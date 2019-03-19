@@ -327,6 +327,12 @@ a:hover {
   max-width: 120rem;
   margin: 0 auto; }
 
+.carousel-caption h2 {
+  font-size: 1.8rem;
+  position: absolute;
+  left: -15.5rem;
+  bottom: -0.5rem; }
+
 .tpr-statement-text {
   font-size: 2.4rem; }
   .tpr-statement-text--highlight {
