@@ -10,7 +10,7 @@ lazy();
 // lazysizes
 
 /*******************************
-// slider lazy loading
+// carousel lazy loading
 ********************************/
 $(function () {
     return $("#carouselExampleSlidesOnly").on("slide.bs.carousel", function (
@@ -23,7 +23,7 @@ $(function () {
     });
 });
 /*******************************
-// slider lazy loading ends
+// carousel lazy loading ends
 ********************************/
 
 
@@ -147,7 +147,7 @@ if (window.addEventListener && window.requestAnimationFrame && document.getEleme
 ********************************/
 
 /******************************* 
-// GALLERY
+// GALLERY ISOTOPE
 ********************************/
 // $(window).on('load', function () {
 var $grid = $('.grid').isotope({
@@ -188,7 +188,7 @@ $('.gallery-nav').each(function (i, buttonGroup) {
 });
 // });
 /******************************* 
-// GALLERY ENDS
+// GALLERY ISOTOPE ENDS
 ********************************/
 
 
