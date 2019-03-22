@@ -187,6 +187,14 @@ a:hover {
 .tpr-article-content {
   padding: 3rem 0 3rem; }
   .tpr-article-content picture {
+    padding-bottom: 2rem; }
+  .tpr-article-content__subtitle {
+    font-size: 2rem;
+    padding-top: 1rem;
+    text-align: center; }
+  .tpr-article-content__details {
+    font-size: 1.6rem;
+    text-align: center;
     padding-bottom: 1rem; }
   .tpr-article-content__paragraph {
     text-align: center;
@@ -196,10 +204,6 @@ a:hover {
     color: #007397; }
     .tpr-article-content__link:hover {
       color: #92d4e9; }
-  .tpr-article-content__subtitle {
-    font-size: 2rem;
-    padding-top: 1rem;
-    text-align: center; }
 
 .tpr-blue-bar {
   background-color: #92d4e9;
