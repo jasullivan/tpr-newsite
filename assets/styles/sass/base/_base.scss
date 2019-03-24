@@ -52,7 +52,12 @@ body {
     &__content {
         text-align: center;
         &--left {
-            text-align: left;
+            text-align: center;
+            padding-top: 0;
+            @include respond(md) {
+                text-align: left;
+                padding-top: 14.4rem;
+            }
         }
     }
     &__logo-main {
@@ -60,6 +65,7 @@ body {
     }
     &__tel-link {
         color: $color-white;
+        font-size: $default-font-size;;
     }
 }
 
@@ -70,3 +76,7 @@ body {
         height: 500px;
     }
 }
+
+.red {background: red;}
+.green {background: green;}
+.blue {background: blue;}

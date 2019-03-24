@@ -46,11 +46,17 @@ body {
   .tpr-footer__content {
     text-align: center; }
     .tpr-footer__content--left {
-      text-align: left; }
+      text-align: center;
+      padding-top: 0; }
+      @media (min-width: 48em) {
+        .tpr-footer__content--left {
+          text-align: left;
+          padding-top: 14.4rem; } }
   .tpr-footer__logo-main {
     max-width: 5rem; }
   .tpr-footer__tel-link {
-    color: #fff; }
+    color: #fff;
+    font-size: 1.6rem; }
 
 .google-map {
   width: 100%;
@@ -58,6 +64,15 @@ body {
   @media (min-width: 62em) {
     .google-map {
       height: 500px; } }
+
+.red {
+  background: red; }
+
+.green {
+  background: green; }
+
+.blue {
+  background: blue; }
 
 .lazyload {
   background: #f7f7f7; }
