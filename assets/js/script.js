@@ -13,7 +13,7 @@ lazy();
 // carousel lazy loading
 ********************************/
 $(function () {
-    return $("#carouselExampleSlidesOnly").on("slide.bs.carousel", function (
+    return $("#tpr-carousel").on("slide.bs.carousel", function (
         ev
     ) {
         var lazy;

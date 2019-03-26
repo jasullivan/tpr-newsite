@@ -1,16 +1,34 @@
 .tpr-slider {
     @include tpr-max-width();
 }
+// .carousel-control-prev {
+//     &:hover .back {
+//         opacity: 0.7;
+//     }
+//     .back {
+//         position: absolute;
+//         left: 0;
+//         background: black;
+//         opacity: 0.4;
+//         padding: 3rem;
+//         .carousel-control-prev-icon {
+
+//         }
+//     }
+    
+// }
 
 .carousel-caption {
+    position: absolute;
+    left: 2rem;
+    bottom: 1rem;
     h2 {
         font-size: 1.8rem;
         position: absolute;
-        left: -15.5rem;
-        bottom: -0.5rem;
+        left: 0rem;
+        bottom: 0rem;
     }
 }
-
 .tpr-statement-text {
     font-size: 2.4rem;
     &--highlight {
