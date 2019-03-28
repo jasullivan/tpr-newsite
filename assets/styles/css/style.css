@@ -39,6 +39,28 @@ body {
       .tpr-nav__social-icons {
         right: 3rem; } }
 
+.tpr-article__title {
+  font-size: 1.8rem;
+  text-align: center; }
+
+.tpr-article__paragraph {
+  text-align: center;
+  padding: 3px 0; }
+
+.tpr-article__link {
+  color: #004459; }
+  .tpr-article__link:hover {
+    color: #92d4e9; }
+
+.tpr-statement-text {
+  font-size: 2.4rem;
+  text-align: center; }
+  .tpr-statement-text--highlight {
+    color: #007397; }
+  .tpr-statement-text__tel {
+    padding-top: 1rem;
+    color: #747474; }
+
 .tpr-footer {
   max-width: 120rem;
   margin: 0 auto;
@@ -147,23 +169,26 @@ ul {
 a:hover {
   text-decoration: none; }
 
-.tpr-article__title {
-  font-size: 1.8rem;
-  text-align: center; }
-
-.tpr-article__paragraph {
-  text-align: center;
-  padding: 3px 0; }
-
-.tpr-article__link {
-  color: #004459; }
-  .tpr-article__link:hover {
-    color: #92d4e9; }
+.icon {
+  font-size: 2rem; }
+  .icon__carousel {
+    color: #fff;
+    background: rgba(0, 0, 0, 0.6);
+    width: 6rem;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute; }
+    .icon__carousel--left {
+      left: 0; }
+    .icon__carousel--right {
+      right: 0; }
 
 @font-face {
   font-family: 'icomoon';
-  src: url("../fonts/icons/icomoon.eot?lgf7zk");
-  src: url("../fonts/icons/icomoon.eot?lgf7zk#iefix") format("embedded-opentype"), url("../fonts/icons/icomoon.ttf?lgf7zk") format("truetype"), url("../fonts/icons/icomoon.woff?lgf7zk") format("woff"), url("../fonts/icons/icomoon.svg?lgf7zk#icomoon") format("svg");
+  src: url("../../fonts/icons/icomoon.eot?lgf7zk");
+  src: url("../../fonts/icons/icomoon.eot?lgf7zk#iefix") format("embedded-opentype"), url("../../fonts/icons/icomoon.ttf?lgf7zk") format("truetype"), url("../../fonts/icons/icomoon.woff?lgf7zk") format("woff"), url("../../fonts/icons/icomoon.svg?lgf7zk#icomoon") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -348,13 +373,6 @@ a:hover {
     position: absolute;
     left: 0rem;
     bottom: 0rem; }
-
-.tpr-statement-text {
-  font-size: 2.4rem; }
-  .tpr-statement-text--highlight {
-    color: #007397; }
-  .tpr-statement-text__tel {
-    color: #747474; }
 
 /* ---- gallery-nav ---- */
 .gallery-nav {

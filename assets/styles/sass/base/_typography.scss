@@ -1,3 +1,4 @@
+// general typography styling
 body {
     font-family: 'Open Sans', Arial, sans-serif;
     color: $tpr-color-primary;
@@ -32,21 +33,23 @@ a:hover {
     text-decoration: none;
 }
 
-.tpr-article {
-    &__title {
-        font-size: 1.8rem;
-        text-align: center;
-    }
-    &__paragraph {
-        text-align: center;
-        padding: 3px 0;
-    }
-    &__link {
-        color: $tpr-dark-blue;
-        &:hover {
-            color: $tpr-light-blue;  
-        }
+.icon {
+    font-size: 2rem;
+    &__carousel {
+        color: $color-white;
+        background: rgba(0,0,0,0.6);
+        width: 6rem;
+        height: 6rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        &--left {left: 0;}
+        &--right {right: 0;}
     }
 }
+// general typography styling
+
+
 
 

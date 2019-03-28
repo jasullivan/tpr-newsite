@@ -45,7 +45,36 @@ body {
         }
     }
 }
+// news/project styling
+.tpr-article {
+    &__title {
+        font-size: 1.8rem;
+        text-align: center;
+    }
+    &__paragraph {
+        text-align: center;
+        padding: 3px 0;
+    }
+    &__link {
+        color: $tpr-dark-blue;
+        &:hover {
+            color: $tpr-light-blue;  
+        }
+    }
+}
+// news/project typography styling
 
+.tpr-statement-text {
+    font-size: 2.4rem;
+    text-align: center;
+    &--highlight {
+        color: $tpr-blue;
+    }
+    &__tel {
+        padding-top: 1rem;
+        color: $color-light-grey;
+    }
+}
 .tpr-footer {
     @include tpr-max-width();
     color: $color-white;
