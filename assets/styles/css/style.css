@@ -19,6 +19,12 @@ html {
 body {
   box-sizing: border-box; }
 
+.navbar-light .navbar-toggler {
+  border: none; }
+  .navbar-light .navbar-toggler:hover, .navbar-light .navbar-toggler:active, .navbar-light .navbar-toggler:focus {
+    border: none;
+    outline: none; }
+
 .tpr-nav {
   max-width: 120rem;
   margin: 0 auto; }
@@ -171,6 +177,10 @@ a:hover {
 
 .icon {
   font-size: 2rem; }
+  .icon__hamburger {
+    color: #111; }
+  .icon__cross {
+    color: #111; }
   .icon__carousel {
     color: #fff;
     background: rgba(0, 0, 0, 0.6);
@@ -216,6 +226,24 @@ a:hover {
 
 .icon-hamburger:before {
   content: "\e917"; }
+
+.u-center-text {
+  text-align: center; }
+
+.u-margin-bottom-small {
+  margin-bottom: 1.5rem; }
+
+.u-margin-bottom-medium {
+  margin-bottom: 4rem; }
+
+.u-margin-bottom-large {
+  margin-bottom: 8rem; }
+
+.u-margin-top-large {
+  margin-top: 8rem; }
+
+.u-margin-top-huge {
+  margin-top: 10rem; }
 
 .tpr-article-content {
   padding: 3rem 0 3rem; }

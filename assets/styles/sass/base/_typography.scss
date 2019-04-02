@@ -35,6 +35,12 @@ a:hover {
 
 .icon {
     font-size: 2rem;
+    &__hamburger {
+        color: $color-vdark-grey;
+    }
+    &__cross {
+        color: $color-vdark-grey;
+    }
     &__carousel {
         color: $color-white;
         background: rgba(0,0,0,0.6);
@@ -44,8 +50,12 @@ a:hover {
         align-items: center;
         justify-content: center;
         position: absolute;
-        &--left {left: 0;}
-        &--right {right: 0;}
+        &--left {
+            left: 0;
+        }
+        &--right {
+            right: 0;
+        }
     }
 }
 // general typography styling

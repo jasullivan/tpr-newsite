@@ -20,6 +20,14 @@ body {
     box-sizing: border-box; 
 }
 
+// nav
+.navbar-light .navbar-toggler {
+    border: none;
+    &:hover, &:active, &:focus {
+       border: none; 
+       outline: none;
+    }
+}
 .tpr-nav {
     max-width:120rem;
     margin: 0 auto;
@@ -45,6 +53,7 @@ body {
         }
     }
 }
+// nav ends
 // news/project styling
 .tpr-article {
     &__title {

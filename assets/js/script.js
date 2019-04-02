@@ -1,3 +1,23 @@
+// mob nav button
+const navButton = document.querySelector(".navbar-toggler");
+const hamburger = document.querySelector(".icon-hamburger");
+const cross = document.querySelector(".icon-cross");
+
+navButton.addEventListener("click", () => {
+    if (hamburger.classList.contains("show")) {
+        hamburger.classList.add("hide");
+        hamburger.classList.remove("show");
+        cross.classList.add("show");
+        cross.classList.remove("hide");
+    } else {
+        hamburger.classList.add("show");
+        hamburger.classList.remove("hide");
+        cross.classList.add("hide");
+        cross.classList.remove("show");
+    }
+});
+// mob nav button ends
+
 // lazysizes
 var lazy = function lazy() {
     document.addEventListener('lazyloaded', function (e) {
