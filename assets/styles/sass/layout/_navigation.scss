@@ -1,0 +1,34 @@
+// nav
+.navbar-light .navbar-toggler {
+    border: none;
+    &:hover, &:active, &:focus {
+       border: none; 
+       outline: none;
+    }
+}
+.tpr-nav {
+    max-width:120rem;
+    margin: 0 auto;
+    &__link {
+        font-size: 2.2rem;
+        font-family: 'Amiri', serif;
+        color: $tpr-color-primary;
+        text-decoration: none!important;
+        &:hover {
+            // replacing bootstrap in-built hover color
+            color: $tpr-light-blue;
+        }
+    }
+    .active {
+        color: $tpr-light-blue;
+    }
+    &__social-icons {
+        position: absolute;
+        top: 5.4rem;
+        right: 10rem;
+        @include respond(lg) {
+            right: 3rem;
+        }
+    }
+}
+// nav ends

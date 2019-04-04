@@ -12,23 +12,23 @@
 @import "base/fonts";
 @import "base/utilities";
 
-@import "components/tpr-article-content";
-// @import "components/tpr-approach-content";
-@import "components/tpr-blue-bar";
-@import "components/tpr-button";
-// @import "components/tpr-clients";
-@import "components/tpr-gallery-item";
-@import "components/tpr-news-row";
-@import "components/tpr-team-member";
-@import "components/tpr-team-modal";
+@import "components/article-content";
+@import "components/blue-bar";
+@import "components/button";
+@import "components/statement-text";
+@import "components/gallery-item";
+@import "components/news-row";
+@import "components/team-member";
+@import "components/team-modal";
+@import "components/testimonials";
 
-
-// @import "layout/grid";
-// @import "layout/header";
+@import "layout/navigation";
+@import "layout/footer";
 
 @import "pages/clients";
 @import "pages/home";
 @import "pages/projects";
+@import "pages/contact";
 
 
 .bgred {

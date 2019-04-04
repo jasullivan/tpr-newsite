@@ -1,0 +1,22 @@
+.testimonials {
+    background: $color-vlight-grey;
+    width: 100%;
+    transition:max-height 1.3s ease-out;
+    height: auto;
+    max-height:200px;
+}
+.testimonial {
+    opacity: 1;
+    transition: opacity 0.5s;
+    text-align: center;
+    width: 100%;
+    max-width: 80rem;
+    margin: 0 auto;
+    font-size: 2rem;
+    span {
+        color: $tpr-blue;
+    }
+}
+.testimonial--hide {
+    opacity: 0;
+}
