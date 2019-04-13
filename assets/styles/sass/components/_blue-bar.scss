@@ -1,13 +1,22 @@
 .tpr-blue-bar {
     background-color: $tpr-light-blue;
-    color: $tpr-color-primary;
     margin: 0 -1.5rem;
-    &__content {
+    &__title {
+        color: $color-vdark-grey;
         font-size: 2rem;
         line-height: 1.4;
         margin: 0 auto; 
         max-width: 100rem;
-        padding: 3rem;
+        padding: 3rem 0 0;
+        text-align: center;
+    }
+    &__content {
+        color: $tpr-color-primary;
+        font-size: 2rem;
+        line-height: 1.4;
+        margin: 0 auto; 
+        max-width: 100rem;
+        padding: 0 0 3rem;
         text-align: center;
     }
 }

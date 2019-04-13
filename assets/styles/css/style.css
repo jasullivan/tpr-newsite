@@ -242,14 +242,22 @@ a:hover {
 
 .tpr-blue-bar {
   background-color: #92d4e9;
-  color: #333333;
   margin: 0 -1.5rem; }
-  .tpr-blue-bar__content {
+  .tpr-blue-bar__title {
+    color: #111;
     font-size: 2rem;
     line-height: 1.4;
     margin: 0 auto;
     max-width: 100rem;
-    padding: 3rem;
+    padding: 3rem 0 0;
+    text-align: center; }
+  .tpr-blue-bar__content {
+    color: #333333;
+    font-size: 2rem;
+    line-height: 1.4;
+    margin: 0 auto;
+    max-width: 100rem;
+    padding: 0 0 3rem;
     text-align: center; }
 
 .tpr-button {
