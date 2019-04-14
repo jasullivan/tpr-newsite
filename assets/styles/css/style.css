@@ -47,13 +47,6 @@ body {
 .show {
   display: block; }
 
-.lazyload {
-  background: #f7f7f7; }
-
-.lazyloading {
-  background: #f7f7f7 url(//afarkas.github.io/lazysizes/assets/imgs/loader.gif) no-repeat center;
-  min-height: 60px; }
-
 picture.progressive {
   position: relative;
   display: block;
@@ -78,7 +71,7 @@ picture.progressive img.reveal {
   left: 0;
   top: 0;
   will-change: transform, opacity;
-  animation: reveal 1s ease-out; }
+  animation: reveal 0.5s ease-out; }
 
 @keyframes reveal {
   0% {
@@ -242,9 +235,9 @@ a:hover {
 
 .tpr-blue-bar {
   background-color: #92d4e9;
-  margin: 0 -1.5rem; }
+  margin: 0 -1.5rem;
+  color: #333333; }
   .tpr-blue-bar__title {
-    color: #111;
     font-size: 2rem;
     line-height: 1.4;
     margin: 0 auto;
@@ -252,7 +245,6 @@ a:hover {
     padding: 3rem 0 0;
     text-align: center; }
   .tpr-blue-bar__content {
-    color: #333333;
     font-size: 2rem;
     line-height: 1.4;
     margin: 0 auto;
@@ -344,7 +336,8 @@ a:hover {
 .tpr-team-member {
   position: relative;
   margin-bottom: 3rem;
-  cursor: pointer; }
+  cursor: pointer;
+  color: #fff; }
   .tpr-team-member:hover .tpr-team-member__overlay {
     opacity: 0.5; }
   .tpr-team-member__picture {
@@ -358,14 +351,22 @@ a:hover {
     background-color: #004459;
     opacity: 0;
     transition: all .5s; }
-  .tpr-team-member__details {
-    color: #fff;
+  .tpr-team-member__title {
     position: absolute;
     bottom: 0rem;
-    left: 1rem; }
+    left: 1rem;
+    font-size: 1.6rem; }
+  .tpr-team-member__name {
+    position: absolute;
+    bottom: 2rem;
+    left: 1rem;
+    font-size: 1.6rem; }
 
 .tpr-team-modal__header {
   border-bottom: 1px solid #92d4e9; }
+
+.tpr-team-modal__title {
+  font-size: 2rem; }
 
 .tpr-team-modal__close {
   font-size: 2.5rem; }

@@ -1,7 +1,6 @@
-
-
-
+/*******************************
 // mob nav button
+*******************************/
 const navButton = document.querySelector(".navbar-toggler");
 const hamburger = document.querySelector(".icon-hamburger");
 const cross = document.querySelector(".icon-cross");
@@ -19,26 +18,15 @@ navButton.addEventListener("click", () => {
         cross.classList.remove("show");
     }
 });
+/*******************************
 // mob nav button ends
-
-// lazysizes
-var lazy = function lazy() {
-    document.addEventListener('lazyloaded', function (e) {
-        e.target.parentNode.classList.add('image-loaded');
-        e.target.parentNode.classList.remove('loading');
-    });
-}
-
-lazy();
-// lazysizes
+*******************************/
 
 /*******************************
 // carousel lazy loading
 ********************************/
 $(function () {
-    return $("#tpr-carousel").on("slide.bs.carousel", function (
-        ev
-    ) {
+    return $("#tpr-carousel").on("slide.bs.carousel", function (ev) {
         var lazy;
         lazy = $(ev.relatedTarget).find("img[data-src]");
         lazy.attr("src", lazy.data("src"));

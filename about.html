@@ -15,8 +15,8 @@
 </head>
 <body>
     <!-- navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-white p-4 tpr-nav">
-        <a class="navbar-brand" href="index.html"><img src="./assets/images/logos/logo.png" alt=""></a>
+    <nav role="navigation" aria-label="Main navigation" class="navbar navbar-expand-lg navbar-light bg-white p-4 tpr-nav">
+        <a class="navbar-brand" href="index.html"><img src="./assets/images/logos/logo.png" alt="tpr media logo"></a>
         <button class="navbar-toggler mt-5 mr-3" type="button" data-toggle="collapse" data-target="#navbarText"
             aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <!-- <span class="navbar-toggler-icon"></span> -->
@@ -53,38 +53,39 @@
         </span>
     </nav>
     <!-- navbar -->
-
+    
     <!-- blue header bar -->
-    <section class="container-fluid pt-4">
-        <div class="row tpr-blue-bar">
-            <div class="col-12">
-                <h1 class="tpr-blue-bar__title">Media relations, event management and strategic consultancy to branding.</h1> <p class="tpr-blue-bar__content">tpr media is a London-based communications agency committed to creating intelligent campaigns for the creative industries and projects with a social impact. We are passionate about compelling story telling and love to stimulate conversation and debate, offering profile and positioning that sets our clients apart from the crowd.</p>
-            </div>  
+    <div class="container-fluid pt-4">
+        <div class="tpr-blue-bar">
+            <h1 class="tpr-blue-bar__title">Media relations, event management and strategic consultancy to branding.</h1> <p class="tpr-blue-bar__content">tpr media is a London-based communications agency committed to creating intelligent campaigns for the creative industries and projects with a social impact. We are passionate about compelling story telling and love to stimulate conversation and debate, offering profile and positioning that sets our clients apart from the crowd.</p>
         </div>
-    </section>
+    </div>
     <!-- blue header bar -->
 
     <!-- team gallery section -->
-    <section class="container">
+    <main class="container" role="main">
         <div class="row px-5 pt-5">
             <div class="col-md-4">
                 <div class="tpr-team-member" data-toggle="modal" data-target="#teammember-sophie">
                     <div class="tpr-team-member__overlay"></div>
-                    <h3 class="tpr-team-member__details">Sophie Toumazis<br>Director</h3>
+                    <h2 class="tpr-team-member__name">Sophie Toumazis</h2>
+                    <h3 class="tpr-team-member__title">Director</h3>
                     <img src="./assets/images/team/portrait_sophie.jpg" alt="" class="tpr-team-member__picture">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="tpr-team-member" data-toggle="modal" data-target="#teammember-eleanor">
                     <div class="tpr-team-member__overlay"></div>
-                    <h3 class="tpr-team-member__details">Eleanor Robertson<br>Senior Account Manager</h3>
+                    <h2 class="tpr-team-member__name">Eleanor Robertson</h2>
+                    <h3 class="tpr-team-member__title">Senior Account Manager</h3>
                     <img src="./assets/images/team/portrait_eleanor.jpg" alt="" class="tpr-team-member__picture">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="tpr-team-member" data-toggle="modal" data-target="#teammember-frankie">
                     <div class="tpr-team-member__overlay"></div>
-                    <h3 class="tpr-team-member__details">Francesca Chater<br>Account Manager</h3>
+                    <h2 class="tpr-team-member__name">Francesca Chater</h2>
+                    <h3 class="tpr-team-member__title">Account Manager</h3>
                     <img src="./assets/images/team/portrait_frankie.jpg" alt="" class="tpr-team-member__picture">
                 </div>
             </div>
@@ -93,20 +94,21 @@
             <div class="col-md-4 mr-auto">
                 <div class="tpr-team-member" data-toggle="modal" data-target="#teammember-hannah">
                     <div class="tpr-team-member__overlay"></div>
-                    <h3 class="tpr-team-member__details">Hannah Maule-Finch<br>Photographer</h3>
+                    <h2 class="tpr-team-member__name">Hannah Maule-Finch</h2>
+                    <h3 class="tpr-team-member__title">Photographer</h3>
                     <img src="./assets/images/team/portrait_hannah.jpg" alt="" class="tpr-team-member__picture">
                 </div>
             </div>
         </div>
-    </section>
+    </main>
 
     <!-- modals -->
     <div class="modal fade tpr-team-modal" id="teammember-sophie" tabindex="-1" role="dialog" aria-labelledby="tprTeamMemberModal"
         aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
-            <div class="modal-content">
+            <section class="modal-content">
                 <div class="modal-header tpr-team-modal__header">
-                    <h3 class="modal-title tpr-team-modal__title">Sophie Toumazis</h3>
+                    <h2 class="modal-title tpr-team-modal__title">Sophie Toumazis</h2>
                     <button type="button" class="close tpr-team-modal__close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
@@ -119,15 +121,15 @@
                     Associated Press, Reuters, RSA, BRITDOC, dozens of production companies and Raindance, Europe’s foremost independent
                     film festival. tpr has a strong track-record in running campaigns that engage in the cultural and news agenda.</p>
                 </div>
-            </div>
+            </section>
         </div>
     </div>
     <div class="modal fade tpr-team-modal" id="teammember-eleanor" tabindex="-1" role="dialog" aria-labelledby="tprTeamMemberModal"
         aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
-            <div class="modal-content">
+            <section class="modal-content">
                 <div class="modal-header tpr-team-modal__header">
-                    <h3 class="modal-title tpr-team-modal__title">Eleanor Robertson</h3>
+                    <h2 class="modal-title tpr-team-modal__title">Eleanor Robertson</h2>
                     <button type="button" class="close tpr-team-modal__close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
@@ -140,15 +142,15 @@
                     Public Service broadcaster NHK WORLD TV who are seeking to raise the profile of their documentaries in the UK. She is a
                     talented writer and passionate communications expert.</p>
                 </div>
-            </div>
+            </section>
         </div>
     </div>
     <div class="modal fade tpr-team-modal" id="teammember-frankie" tabindex="-1" role="dialog" aria-labelledby="tprTeamMemberModal"
         aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
-            <div class="modal-content">
+            <section class="modal-content">
                 <div class="modal-header tpr-team-modal__header">
-                    <h3 class="modal-title tpr-team-modal__title">Francesca Chater</h3>
+                    <h2 class="modal-title tpr-team-modal__title">Francesca Chater</h2>
                     <button type="button" class="close tpr-team-modal__close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
@@ -163,15 +165,15 @@
                     doctors which challenged Jeremy Hunt’s imposition of a contract on junior doctors through a judicial review. Francesca
                     studied at Sussex University and has an MA in Human Rights.</p>
                 </div>
-            </div>
+            </section>
         </div>
     </div>
     <div class="modal fade tpr-team-modal" id="teammember-hannah" tabindex="-1" role="dialog" aria-labelledby="tprTeamMemberModal"
         aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
-            <div class="modal-content">
+            <section class="modal-content">
                 <div class="modal-header tpr-team-modal__header">
-                    <h3 class="modal-title tpr-team-modal__title">Hannah Maule-Finch</h3>
+                    <h2 class="modal-title tpr-team-modal__title">Hannah Maule-Finch</h2>
                     <button type="button" class="close tpr-team-modal__close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
@@ -180,14 +182,14 @@
                 <div class="modal-body text-center">
                     <p class="text-center px-5 py-4">Hannah Maule-Finch is an award-winning freelance photographer. Her varied career began in graphic design before an expedition to Colombia inspired her to pursue photography. She later trained as a photojournalist and having become established as an experienced and versatile photographer, she executed a wide range of commissions; her work has taken her from tiny Liberian villages to celebrity photo shoots where she has photographed the likes of Sir Bob Geldof, Rhys Ifans, and Kevin Bacon. Hannah exhibits her work in both London and New York.</p>
                 </div>
-            </div>
+            </section>
         </div>
     </div>
     <!-- modals -->
     <!-- team gallery section -->
 
     <!-- team info -->
-    <section class="container">
+    <div class="container">
         <div class="row">
             <div class="col-11 mx-auto">
                 <p class="text-center">Our contacts book is our strongest asset. We have extensive knowledge of the media industries and strong, meaningful
@@ -227,18 +229,17 @@
                 </ul>
             </div>
         </div>
-    </section>
+    </div>
     <!-- team info -->
 
     <!-- testimonials -->
-    <section class="testimonials p-5">
+    <div class="testimonials p-5">
         <p class="testimonial">
             <span>David Brindley, Head of Popular Factual and Factual Entertainment, BBC</span> <br>"I’ve worked with Sophie on
             several big series. She and her team provide attention to detail and you feel your films are very carefully and looked
             after in her hands. I’m looking forward to continuing to work with tpr media on many future projects."
         </p>
-    </section>
-
+    </div>
     <!-- testimonials -->
 
     <!-- footer -->

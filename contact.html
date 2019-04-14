@@ -8,19 +8,14 @@
     
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
         crossorigin="anonymous">
-
-    
-    
-
-
     <link rel="stylesheet" type="text/css" media="screen" href="./assets/styles/css/style.css" />
 
     
 </head>
 <body>
     <!-- navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-white p-4 tpr-nav">
-        <a class="navbar-brand" href="index.html"><img src="./assets/images/logos/logo.png" alt=""></a>
+    <nav role="navigation" aria-label="Main navigation" class="navbar navbar-expand-lg navbar-light bg-white p-4 tpr-nav">
+        <a class="navbar-brand" href="index.html"><img src="./assets/images/logos/logo.png" alt="tpr media logo"></a>
         <button class="navbar-toggler mt-5 mr-3" type="button" data-toggle="collapse" data-target="#navbarText"
             aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <!-- <span class="navbar-toggler-icon"></span> -->
@@ -59,13 +54,12 @@
     <!-- navbar -->
 
     <!-- blue header bar -->
-    <section class="container-fluid pt-4">
-        <div class="row tpr-blue-bar">
-            <div class="col-12">
-                <p class="tpr-blue-bar__content">We want to help you amplify your message so get in touch if you’ve got a project that we could help with. We enjoy meeting new people and we’re always happy to chat ideas through over a coffee.</p>
-            </div>  
-        </div>
-    </section>
+    <div class="container-fluid pt-4">
+        <div class="tpr-blue-bar">
+            <h1 class="tpr-blue-bar__title">We want to help you amplify your message.</h1>
+            <p class="tpr-blue-bar__content">So get in touch if you’ve got a project that we could help with. We enjoy meeting new people and we’re always happy to chat ideas through over a coffee.</p>
+        </div>  
+    </div>
     <!-- blue header bar -->
 
     <!-- contact details section -->
@@ -86,15 +80,22 @@
     <!--  contact details  section -->
 
     <!-- google map section -->
-    <div class="container">
-        <div class="row pb-5">
-            <div class="col-12">
-                <iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2479.4570235687374!2d-0.1499237842274235!3d51.578186779646856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761a360290a221%3A0x1a4baafb37a0e7ae!2sMuswell+Hill+Rd%2C+Highgate%2C+London+N6+5FJ!5e0!3m2!1sen!2suk!4v1549378501510" frameborder="0" style="border:0" allowfullscreen></iframe>
-                    
-            </div>
-        </div>
+    <div class="container pb-5">
+        <iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2479.4570235687374!2d-0.1499237842274235!3d51.578186779646856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761a360290a221%3A0x1a4baafb37a0e7ae!2sMuswell+Hill+Rd%2C+Highgate%2C+London+N6+5FJ!5e0!3m2!1sen!2suk!4v1549378501510" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
     <!--  google map section -->
+
+    <!-- testimonials -->
+    <div class="testimonials p-5">
+        <p class="testimonial">
+            <span>David Brindley, Head of Popular Factual and Factual Entertainment, BBC</span> <br>"I’ve worked with
+            Sophie on
+            several big series. She and her team provide attention to detail and you feel your films are very carefully and
+            looked
+            after in her hands. I’m looking forward to continuing to work with tpr media on many future projects."
+        </p>
+    </div>
+    <!-- testimonials -->
 
     <!-- footer -->
     <footer class="container-fluid px-0">
