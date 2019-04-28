@@ -41,6 +41,9 @@ a:hover {
     &__cross {
         color: $color-vdark-grey;
     }
+    &__issuu {
+        font-size: 4rem;
+    }
     &__carousel {
         color: $color-white;
         background: rgba(0,0,0,0.6);

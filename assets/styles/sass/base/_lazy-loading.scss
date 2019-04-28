@@ -1,5 +1,5 @@
 //*******************************
-// gallery, news and clients lazy loading
+// news and clients lazy loading (not gallery)
 //*******************************
 picture.progressive {
   position: relative;
@@ -38,5 +38,5 @@ picture.progressive img.reveal {
   100% {transform: scale(1); opacity: 1;}
 }
 //*******************************
-// gallery, news and clients lazy loading ends
+// news and clients lazy loading (not gallery) ends
 //*******************************

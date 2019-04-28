@@ -47,40 +47,6 @@ body {
 .show {
   display: block; }
 
-picture.progressive {
-  position: relative;
-  display: block;
-  overflow: hidden;
-  outline: none; }
-
-picture.progressive:not(.replace) {
-  cursor: default; }
-
-picture.progressive img {
-  display: block;
-  width: 100%;
-  max-width: none;
-  height: auto;
-  border: 0 none; }
-
-picture.progressive img.filter-item {
-  filter: blur(2vw); }
-
-picture.progressive img.reveal {
-  position: absolute;
-  left: 0;
-  top: 0;
-  will-change: transform, opacity;
-  animation: reveal 0.5s ease-out; }
-
-@keyframes reveal {
-  0% {
-    transform: scale(1);
-    opacity: 0; }
-  100% {
-    transform: scale(1);
-    opacity: 1; } }
-
 body {
   font-family: 'Open Sans', Arial, sans-serif;
   color: #333333; }
@@ -119,6 +85,8 @@ a:hover {
     color: #111; }
   .icon__cross {
     color: #111; }
+  .icon__issuu {
+    font-size: 4rem; }
   .icon__carousel {
     color: #fff;
     background: rgba(0, 0, 0, 0.6);
@@ -152,6 +120,15 @@ a:hover {
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
+
+.icon-ISSUU:before {
+  content: "\e900"; }
+
+.icon-LinkedIn-black:before {
+  content: "\e901"; }
+
+.icon-Twitter-black:before {
+  content: "\e902"; }
 
 .icon-arrowLeft:before {
   content: "\e906"; }
@@ -416,7 +393,6 @@ a:hover {
     color: #92d4e9; }
   .tpr-nav__social-icons {
     position: absolute;
-    top: 5.4rem;
     right: 10rem; }
     @media (min-width: 62em) {
       .tpr-nav__social-icons {

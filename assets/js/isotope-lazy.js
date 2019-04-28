@@ -1,5 +1,4 @@
 // external js: isotope.pkgd.js, imagesloaded.pkgd.js
-
 var $grid = $('.grid').isotope({
   itemSelector: '.grid-item',
   masonry: {
