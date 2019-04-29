@@ -1,6 +1,7 @@
 // nav
 .navbar-light .navbar-toggler {
     border: none;
+    position: relative;
     &:hover, &:active, &:focus {
        border: none; 
        outline: none;
@@ -24,10 +25,17 @@
     }
     &__social-icons {
         position: absolute;
-        // top: 5.4rem;
-        right: 10rem;
+        right: 8rem;
+        top: 2.5rem;
         @include respond(lg) {
-            right: 3rem;
+            right: 2rem;
+        }
+        .icon {
+            padding: 0 4px;
+            &:hover {
+                color: $tpr-light-blue;
+                cursor: pointer;
+            }
         }
     }
 }

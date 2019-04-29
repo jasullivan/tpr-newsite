@@ -374,7 +374,8 @@ a:hover {
   opacity: 0; }
 
 .navbar-light .navbar-toggler {
-  border: none; }
+  border: none;
+  position: relative; }
   .navbar-light .navbar-toggler:hover, .navbar-light .navbar-toggler:active, .navbar-light .navbar-toggler:focus {
     border: none;
     outline: none; }
@@ -393,10 +394,16 @@ a:hover {
     color: #92d4e9; }
   .tpr-nav__social-icons {
     position: absolute;
-    right: 10rem; }
+    right: 8rem;
+    top: 2.5rem; }
     @media (min-width: 62em) {
       .tpr-nav__social-icons {
-        right: 3rem; } }
+        right: 2rem; } }
+    .tpr-nav__social-icons .icon {
+      padding: 0 4px; }
+      .tpr-nav__social-icons .icon:hover {
+        color: #92d4e9;
+        cursor: pointer; }
 
 .tpr-footer {
   max-width: 120rem;
