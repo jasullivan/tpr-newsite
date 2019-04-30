@@ -3,19 +3,29 @@
     margin: 0 -1.5rem;
     color: $tpr-color-primary;
     &__title {
-        font-size: 2rem;
+        font-size: 2rem;  
         line-height: 1.4;
         margin: 0 auto; 
-        max-width: 100rem;
-        padding: 3rem 0 0;
         text-align: center;
+        padding: 3rem;
+        @include respond(xlg) {
+            max-width: 110rem;
+            padding: 3rem 0 0;
+        }
+        &--no-content {
+            padding: 3rem 0;
+        }
     }
     &__content {
-        font-size: 2rem;
-        line-height: 1.4;
-        margin: 0 auto; 
-        max-width: 100rem;
-        padding: 0 0 3rem;
-        text-align: center;
+        display: none;
+        @include respond(xlg) {
+            display: block;
+            font-size: 2rem;  
+            line-height: 1.4;
+            margin: 0 auto; 
+            max-width: 110rem;
+            padding: 0 0 3rem;
+            text-align: center;
+        }
     }
 }

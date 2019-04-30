@@ -218,16 +218,25 @@ a:hover {
     font-size: 2rem;
     line-height: 1.4;
     margin: 0 auto;
-    max-width: 100rem;
-    padding: 3rem 0 0;
-    text-align: center; }
+    text-align: center;
+    padding: 3rem; }
+    @media (min-width: 75em) {
+      .tpr-blue-bar__title {
+        max-width: 110rem;
+        padding: 3rem 0 0; } }
+    .tpr-blue-bar__title--no-content {
+      padding: 3rem 0; }
   .tpr-blue-bar__content {
-    font-size: 2rem;
-    line-height: 1.4;
-    margin: 0 auto;
-    max-width: 100rem;
-    padding: 0 0 3rem;
-    text-align: center; }
+    display: none; }
+    @media (min-width: 75em) {
+      .tpr-blue-bar__content {
+        display: block;
+        font-size: 2rem;
+        line-height: 1.4;
+        margin: 0 auto;
+        max-width: 110rem;
+        padding: 0 0 3rem;
+        text-align: center; } }
 
 .tpr-button {
   font-size: 1.4rem;
