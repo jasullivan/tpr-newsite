@@ -1,3 +1,16 @@
+// potentially needed for lazysizes see iamsteve blog
+
+// var lazy = function lazy() {
+//     document.addEventListener('lazyloaded', function (e) {
+//         e.target.parentNode.classList.add('image-loaded');
+//         e.target.parentNode.classList.remove('loading');
+//     });
+// }
+
+// lazy();
+
+// potentially needed for lazysizes see iamsteve blog
+
 /*******************************
 // mob nav button
 *******************************/
