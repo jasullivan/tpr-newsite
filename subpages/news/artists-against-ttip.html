@@ -9,6 +9,11 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
         crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" media="screen" href="../../assets/styles/css/style.css" />
+    <script>
+        // Picture element HTML5 shiv
+        document.createElement("picture");
+    </script>
+    <script src="../../assets/js/picturefill.min.js" async></script>
     <script src="../../assets/js/lazysizes.min.js"></script>
 </head>
 
@@ -65,7 +70,10 @@
             <div class="row">
                 <div class="col-9 mx-auto">
                     <div class="tpr-article-content">
-                        <img data-src="../../assets/images/news/artists-against-ttip-news.jpg" src="../../assets/images/news/artists-against-ttip-news-preview.jpg" alt="Artists against TTIP" class="lazyload tpr-article-content__image">
+
+                        <img data-sizes="auto" data-src="../../assets/images/news/artists-against-ttip-news.jpg" src="../../assets/images/news/artists-against-ttip-news-preview.jpg"
+                            data-srcset="../../assets/images/news/artists-against-ttip-news_400w.jpg 400w, ../../assets/images/news/artists-against-ttip-news.jpg 800w"
+                            alt="Artists against TTIP" class="lazyload tpr-article-content__image">
                     
                         <p class="tpr-article-content__paragraph">At tpr, it's really important for us to work on projects that make a difference and we feel very lucky when we have the opportunity to share powerful messages that help to influence real political change.</p>
 
