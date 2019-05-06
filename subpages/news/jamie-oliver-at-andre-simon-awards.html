@@ -9,6 +9,12 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
         crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" media="screen" href="../../assets/styles/css/style.css" />
+    <script>
+        // Picture element HTML5 shiv
+        document.createElement("picture");
+    </script>
+    <script src="../../assets/js/picturefill.min.js" async></script>
+    <script src="../../assets/js/lazysizes.min.js"></script>
 </head>
 
 <body>
@@ -54,13 +60,8 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Jamie Oliver says no reason why PM can't do right thing on childhood obesity at André Simon Awards</h1>
+                <h1 class="tpr-blue-bar__title">Jamie Oliver says no reason why PM can't do right thing on childhood obesity at André Simon Awards.</h1>
             </div>
-            <!-- <div class="row tpr-blue-bar">
-                <div class="col-12">
-                    <p class="tpr-blue-bar__content p-5">Jamie Oliver says no reason why PM can't do right thing on childhood obesity at André Simon Awards</p>
-                </div>
-            </div> -->
         </header>
         <!-- blue header bar -->
 
@@ -70,10 +71,14 @@
                 <div class="col-9 mx-auto">
                     <div class="tpr-article-content">
                         <p class="tpr-article-content__paragraph">Last Thursday night we had a great evening at the <a class="tpr-article-content__link" href="http://www.thegoring.com/" target="_blank" rel="nofollow noopener">Goring Hotel</a> celebrating the <a class="tpr-article-content__link" href="http://www.andresimon.co.uk/" target="_blank" rel="nofollow noopener">André Simon Food &amp; Drink Book Awards</a>, which <a class="tpr-article-content__link" href="http://www.countryandtownhouse.co.uk/features/andre-simon-jamie-oliver/" target="_blank" rel="nofollow noopener">showcase the best of contemporary food and drink writing</a>.</p>
-                    
-                        <picture data-href="../../assets/images/news/andre-simon-2018-news-2.jpg" class="progressive replace">
-                            <img src="../../assets/images/news/andre-simon-2018-news-2-preview.jpg" class="preview filter-item" alt="Jamie Oliver at Andre Simon Awards" />
-                        </picture>
+                        
+                        <img 
+                            data-sizes="auto" 
+                            data-src="../../assets/images/news/andre-simon-2018-news-2.jpg" 
+                            src="../../assets/images/news/andre-simon-2018-news-2-preview.jpg" 
+                            data-srcset="../../assets/images/news/andre-simon-2018-news-2_400w.jpg 400w, ../../assets/images/news/andre-simon-2018-news-2.jpg 800w" 
+                            alt="Jamie Oliver at Andre Simon Awards" 
+                            class="lazyload tpr-article-content__image">
                         
                         <p class="tpr-article-content__paragraph"><a class="tpr-article-content__link" href="https://twitter.com/jamieoliver"
                                 target="_blank" rel="nofollow noopener">Jamie Oliver</a> was among the winners, scooping the prestigious
@@ -99,9 +104,9 @@
                                 href="https://www.jamieoliver.com/the-fifteen-apprentice-programme/home" target="_blank" rel="nofollow noopener">Fifteen
                                 restaurant programme</a>.</p>
                                 
-                        <picture data-href="../../assets/images/news/andre-simon-2018-news-3.jpg" class="progressive replace">
-                            <img src="../../assets/images/news/andre-simon-2018-news-3-preview.jpg" class="preview filter-item" alt="Jamie Oliver at Andre Simon Awards" />
-                        </picture>
+                       <img data-sizes="auto" data-src="../../assets/images/news/andre-simon-2018-news-3.jpg" src="../../assets/images/news/andre-simon-2018-news-3-preview.jpg"
+                            data-srcset="../../assets/images/news/andre-simon-2018-news-3_400w.jpg 400w, ../../assets/images/news/andre-simon-2018-news-3.jpg 800w"
+                            alt="Jamie Oliver at Andre Simon Awards" class="lazyload tpr-article-content__image">
                         
                         <p class="tpr-article-content__paragraph">Blogger and author <a class="tpr-article-content__link" href="https://twitter.com/racheleats"
                                 target="_blank" rel="nofollow noopener">Rachel Roddy</a> won this year's <a class="tpr-article-content__link"
@@ -115,10 +120,10 @@
                             hints of nostalgia, memories of growing up in England. If you'd like to try some of Rachel's recipes at home
                             yourself, you might like to check out <a class="tpr-article-content__link" href="http://www.theguardian.com/lifeandstyle/2016/feb/02/ragu-alla-bolognese-recipe-rachel-roddy-kitchen-sink-tales"
                                 target="_blank" rel="nofollow noopener">this recent feature in the Guardian</a>.</p>
-                                
-                        <picture data-href="../../assets/images/news/andre-simon-2018-news-4.jpg" class="progressive replace">
-                            <img src="../../assets/images/news/andre-simon-2018-news-4-preview.jpg" class="preview filter-item" alt="Rachel Roddy at Andre Simon Awards" />
-                        </picture>
+
+                        <img data-sizes="auto" data-src="../../assets/images/news/andre-simon-2018-news-4.jpg" src="../../assets/images/news/andre-simon-2018-news-4-preview.jpg"
+                            data-srcset="../../assets/images/news/andre-simon-2018-news-4_400w.jpg 400w, ../../assets/images/news/andre-simon-2018-news-4.jpg 800w"
+                            alt="Rachel Roddy at Andre Simon Awards" class="lazyload tpr-article-content__image">
                         
                         <p class="tpr-article-content__paragraph">Meanwhile, investigative journalist <a class="tpr-article-content__link"
                                 href="https://twitter.com/smustacich" target="_blank" rel="nofollow noopener">Suzanne Mustacich</a> won
@@ -130,10 +135,10 @@
                             eloquent style and fascinating cultural analysis – a real life thriller. You can catch Suzanne speaking about
                             Thirsty Dragon on <a class="tpr-article-content__link" href="http://www.bbc.co.uk/programmes/b006qtl3" target="_blank"
                                 rel="nofollow noopener">BBC Radio 4's The World Tonight</a> this Friday.</p>
-                                
-                        <picture data-href="../../assets/images/news/andre-simon-2018-news-5.jpg" class="progressive replace">
-                            <img src="../../assets/images/news/andre-simon-2018-news-5-preview.jpg" class="preview filter-item" alt="Suzanne Mustacich at Andre Simon Awards" />
-                        </picture>
+                            
+                        <img data-sizes="auto" data-src="../../assets/images/news/andre-simon-2018-news-5.jpg" src="../../assets/images/news/andre-simon-2018-news-5-preview.jpg"
+                            data-srcset="../../assets/images/news/andre-simon-2018-news-5_400w.jpg 400w, ../../assets/images/news/andre-simon-2018-news-5.jpg 800w"
+                            alt="Suzanne Mustacich at Andre Simon Awards" class="lazyload tpr-article-content__image">
                         
                         <p class="tpr-article-content__paragraph"><a class="tpr-article-content__link" href="https://www.harpercollins.co.uk/9780007549702/first-bite"
                                 target="_blank" rel="nofollow noopener">First Bite</a> by food scholar <a class="tpr-article-content__link"
@@ -143,10 +148,10 @@
                             form our food preferences and how we may be able to change them. The investigation draws on the latest research
                             from food psychologists, neuroscientists and nutritionists to reveal how our food habits are shaped by family,
                             culture, memory, gender, hunger and love.</p>
-                            
-                        <picture data-href="../../assets/images/news/andre-simon-2018-news-6.jpg" class="progressive replace">
-                            <img src="../../assets/images/news/andre-simon-2018-news-6-preview.jpg" class="preview filter-item" alt="Bee Wilson at Andre Simon Awards" />
-                        </picture>
+
+                        <img data-sizes="auto" data-src="../../assets/images/news/andre-simon-2018-news-6.jpg" src="../../assets/images/news/andre-simon-2018-news-6-preview.jpg"
+                            data-srcset="../../assets/images/news/andre-simon-2018-news-6_400w.jpg 400w, ../../assets/images/news/andre-simon-2018-news-6.jpg 800w"
+                            alt="Bee Wilson at Andre Simon Awards" class="lazyload tpr-article-content__image">
                         
                         <p class="tpr-article-content__paragraph">This year's shortlisted authors – selected from over 150 entries – also
                             included <a class="tpr-article-content__link" href="https://twitter.com/CharlotteKDiary" target="_blank" rel="nofollow noopener">Charlotte
