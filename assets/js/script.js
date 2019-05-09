@@ -11,6 +11,25 @@
 
 // potentially needed for lazysizes see iamsteve blog
 
+/******************************* 
+// ARCHIVE DROPDOWN
+********************************/
+const archive = document.querySelector(".archive-button");
+const projects = document.querySelector(".archive-projects");
+archive.addEventListener("click", () => {
+  if (projects.style.maxHeight) {
+    projects.style.maxHeight = null;
+    archive.classList.remove("archive-active");
+  } else {
+    projects.style.maxHeight = projects.scrollHeight + "px";
+    console.log(projects.style.maxHeight);
+    archive.classList.add("archive-active");
+  }
+});
+/******************************* 
+// ARCHIVE DROPDOWN ENDS
+********************************/
+
 /*******************************
 // mob nav button
 *******************************/
@@ -36,18 +55,18 @@ navButton.addEventListener("click", () => {
 *******************************/
 
 /*******************************
-// carousel lazy loading
+// carousel lazy loading - LAZYSIZES SEEMS TO WORK OK
 ********************************/
-$(function () {
-    return $("#tpr-carousel").on("slide.bs.carousel", function (ev) {
-        var lazy;
-        lazy = $(ev.relatedTarget).find("img[data-src]");
-        lazy.attr("src", lazy.data("src"));
-        lazy.removeAttr("data-src");
-    });
-});
+// $(function () {
+//     return $("#tpr-carousel").on("slide.bs.carousel", function (ev) {
+//         var lazy;
+//         lazy = $(ev.relatedTarget).find("img[data-src]");
+//         lazy.attr("src", lazy.data("src"));
+//         lazy.removeAttr("data-src");
+//     });
+// });
 /*******************************
-// carousel lazy loading ends
+// carousel lazy loading ends - LAZYSIZES SEEMS TO WORK OK
 ********************************/
 
 /******************************* 
