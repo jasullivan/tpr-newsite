@@ -9,6 +9,12 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
         crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" media="screen" href="../../assets/styles/css/style.css" />
+    <script>
+        // Picture element HTML5 shiv
+        document.createElement("picture");
+    </script>
+    <script src="../../assets/js/picturefill.min.js" async></script>
+    <script src="../../assets/js/lazysizes.min.js"></script>
 </head>
 
 <body>
@@ -67,9 +73,9 @@
             <div class="row">
                 <div class="col-9 mx-auto">
                     <div class="tpr-article-content">
-                        <picture data-href="../../assets/images/news/catherine-allen-news.jpg" class="progressive replace">
-                            <img src="../../assets/images/news/catherine-allen-news-preview.jpg" class="preview" alt="Catherine Allen CEO Limina Immersive" />
-                        </picture>
+                        <img data-sizes="auto" data-src="../../assets/images/projects/out-of-thin-air.jpg" src="../../assets/images/projects/out-of-thin-air-preview.jpg"
+                            data-srcset="../../assets/images/projects/out-of-thin-air_400w.jpg 400w, ../../assets/images/projects/out-of-thin-air.jpg 800w"
+                            alt="Black and white reconstruction of Icelandic crime scene" class="lazyload tpr-article-content__image">
 
                         <h3 class="tpr-article-content__details">Production Company: Mosaic Films</h3>
                         <h3 class="tpr-article-content__details">Channel: BBC Storyville, Netflix</h3>
