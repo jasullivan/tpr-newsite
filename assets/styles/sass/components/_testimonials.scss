@@ -1,22 +1,34 @@
-.testimonials {
+.testimonial-wrapper {
     background: $color-vlight-grey;
     width: 100%;
-    transition:max-height 1.3s ease-out;
-    height: auto;
-    max-height:200px;
+
+}
+.testimonials {
+    width: 90%;
+    margin: 0 auto;
+    // height: auto;
+    transition: height 0.4s linear;
 }
 .testimonial {
-    opacity: 1;
-    transition: opacity 0.5s;
+    vertical-align: middle;
     text-align: center;
-    width: 100%;
-    max-width: 80rem;
-    margin: 0 auto;
     font-size: 2rem;
     span {
         color: $tpr-blue;
     }
 }
-.testimonial--hide {
-    opacity: 0;
+// .testimonial .slick-active {
+//     height
+// }
+// .testimonial--hide {
+//     opacity: 0;
+// }
+.height-200 {
+    height: 200px;
+}
+.height-300 {
+    height: 300px;
+}
+.height-400 {
+    height: 400px;
 }

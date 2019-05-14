@@ -359,26 +359,30 @@ a:hover {
   max-width: 80%;
   margin: 0 auto; }
 
-.testimonials {
+.testimonial-wrapper {
   background: #E9E9E9;
-  width: 100%;
-  transition: max-height 1.3s ease-out;
-  height: auto;
-  max-height: 200px; }
+  width: 100%; }
+
+.testimonials {
+  width: 90%;
+  margin: 0 auto;
+  transition: height 0.4s linear; }
 
 .testimonial {
-  opacity: 1;
-  transition: opacity 0.5s;
+  vertical-align: middle;
   text-align: center;
-  width: 100%;
-  max-width: 80rem;
-  margin: 0 auto;
   font-size: 2rem; }
   .testimonial span {
     color: #007397; }
 
-.testimonial--hide {
-  opacity: 0; }
+.height-200 {
+  height: 200px; }
+
+.height-300 {
+  height: 300px; }
+
+.height-400 {
+  height: 400px; }
 
 .navbar-light .navbar-toggler {
   border: none;
