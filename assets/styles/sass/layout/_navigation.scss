@@ -1,4 +1,8 @@
 // nav
+// ul.home li.home { font-weight:bold; }
+ul.nav-about a.nav-about, ul.nav-approach a.nav-approach, ul.nav-clients a.nav-clients, ul.nav-contact a.nav-contact, ul.nav-projects a.nav-projects, ul.nav-news a.nav-news
+ { color: $tpr-light-blue; }
+
 .navbar-light .navbar-toggler {
     border: none;
     position: relative;
@@ -20,9 +24,12 @@
             color: $tpr-light-blue;
         }
     }
-    .active {
-        color: $tpr-light-blue;
-    }
+    // .active, .nav-about, .nav-approach, .nav-clients, .nav-contact, .nav-projects, .nav-news {
+    //     color: $tpr-light-blue;
+    // }
+    // .nav-about, .nav-approach, .nav-clients, .nav-contact, .nav-projects, .nav-news {
+    //     color: $tpr-light-blue;
+    // }
     &__social-icons {
         position: absolute;
         right: 8rem;

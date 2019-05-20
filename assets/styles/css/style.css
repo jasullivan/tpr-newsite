@@ -384,6 +384,9 @@ a:hover {
 .height-400 {
   height: 400px; }
 
+ul.nav-about a.nav-about, ul.nav-approach a.nav-approach, ul.nav-clients a.nav-clients, ul.nav-contact a.nav-contact, ul.nav-projects a.nav-projects, ul.nav-news a.nav-news {
+  color: #92d4e9; }
+
 .navbar-light .navbar-toggler {
   border: none;
   position: relative; }
@@ -401,8 +404,6 @@ a:hover {
     text-decoration: none !important; }
     .tpr-nav__link:hover {
       color: #92d4e9; }
-  .tpr-nav .active {
-    color: #92d4e9; }
   .tpr-nav__social-icons {
     position: absolute;
     right: 8rem;

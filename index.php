@@ -1,3 +1,8 @@
+<?php
+	// CHANGE THE $NAV_CLASS VARIABLE TO HOME OR ABOUT AND SEE THAT IT CHANGES WHICH LI IS ACTIVE
+	$nav_class = 'index';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +18,8 @@
 </head>
 <body>
     <!-- navbar -->
-    <nav role="navigation" aria-label="Main navigation" class="navbar navbar-expand-lg navbar-light bg-white p-4 tpr-nav">
+    <?php include 'navigation.php'; ?>
+    <!-- <nav role="navigation" aria-label="Main navigation" class="navbar navbar-expand-lg navbar-light bg-white p-4 tpr-nav">
         <a class="navbar-brand" href="index.html">
             <img src="./assets/images/logos/logo.png" alt="tpr media logo">
         </a>
@@ -50,7 +56,7 @@
                 </li>
             </ul>
         </div>
-    </nav>
+    </nav> -->
     <!-- navbar -->
 
     <!-- carousel (bootstrap component)-->
