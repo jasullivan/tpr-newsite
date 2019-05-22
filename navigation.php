@@ -1,6 +1,6 @@
 <!-- navbar -->
     <nav role="navigation" aria-label="Main navigation" class="navbar navbar-expand-lg navbar-light bg-white p-4 tpr-nav">
-        <a class="navbar-brand" href="index.php">
+        <a class="navbar-brand" href="index">
             <img src="./assets/images/logos/logo.png" alt="tpr media logo">
         </a>
         <div class="tpr-nav__social-icons pt-5">
@@ -17,22 +17,22 @@
             <hr>
             <ul class="navbar-nav mr-auto pt-lg-5 <?= $nav_class; ?>">
                 <li class="nav-item text-center">
-                    <a class="pr-lg-5 pl-lg-5 tpr-nav__link nav-about" href="about.php">About</a>
+                    <a class="pr-lg-5 pl-lg-5 tpr-nav__link nav-about" href="about">About</a>
                 </li>
                 <li class="nav-item text-center nav-projects">
-                    <a class="pr-lg-5 tpr-nav__link nav-projects" href="projects.php">Projects</a>
+                    <a class="pr-lg-5 tpr-nav__link nav-projects" href="projects">Projects</a>
                 </li>
                 <li class="nav-item text-center nav-clients">
-                    <a class="pr-lg-5 tpr-nav__link nav-clients" href="clients.php">Clients</a>
+                    <a class="pr-lg-5 tpr-nav__link nav-clients" href="clients">Clients</a>
                 </li>
                 <li class="nav-item text-center nav-approach">
-                    <a class="pr-lg-5 tpr-nav__link nav-approach" href="approach.php">Approach</a>
+                    <a class="pr-lg-5 tpr-nav__link nav-approach" href="approach">Approach</a>
                 </li>
                 <li class="nav-item text-center nav-news">
-                    <a class="pr-lg-5 tpr-nav__link nav-news" href="news.php">News</a>
+                    <a class="pr-lg-5 tpr-nav__link nav-news" href="news">News</a>
                 </li>
                 <li class="nav-item text-center nav-contact">
-                    <a class="tpr-nav__link nav-contact" href="contact.php">Contact</a>
+                    <a class="tpr-nav__link nav-contact" href="contact">Contact</a>
                 </li>
             </ul>
         </div>
