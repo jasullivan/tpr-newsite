@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><link rel="shortcut icon" type="image/png" href="../../assets/images/tpr-favicon.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><link rel="shortcut icon" type="image/png" href="assets/images/tpr-favicon.png">
     <title>tpr media | Projects</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -24,7 +24,7 @@
     <!-- navbar -->
     <?php include 'navigation.php'; ?>
     <!-- <nav role="navigation" aria-label="Main navigation" class="navbar navbar-expand-lg navbar-light bg-white p-4 tpr-nav">
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="index">
             <img src="./assets/images/logos/logo.png" alt="tpr media logo">
         </a>
         <div class="tpr-nav__social-icons pt-5">
@@ -41,22 +41,22 @@
             <hr>
             <ul class="navbar-nav mr-auto pt-lg-5">
                 <li class="nav-item text-center">
-                    <a class="pr-lg-5 pl-lg-5 tpr-nav__link" href="about.html">About</a>
+                    <a class="pr-lg-5 pl-lg-5 tpr-nav__link" href="about">About</a>
                 </li>
                 <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link active" href="projects.html">Projects</a>
+                    <a class="pr-lg-5 tpr-nav__link active" href="projects">Projects</a>
                 </li>
                 <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="clients.html">Clients</a>
+                    <a class="pr-lg-5 tpr-nav__link" href="clients">Clients</a>
                 </li>
                 <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="approach.html">Approach</a>
+                    <a class="pr-lg-5 tpr-nav__link" href="approach">Approach</a>
                 </li>
                 <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="news.html">News</a>
+                    <a class="pr-lg-5 tpr-nav__link" href="news">News</a>
                 </li>
                 <li class="nav-item text-center">
-                    <a class="tpr-nav__link" href="contact.html">Contact</a>
+                    <a class="tpr-nav__link" href="contact">Contact</a>
                 </li>
             </ul>
         </div>
@@ -91,7 +91,7 @@
     <div class="container">
         <div class="grid mb-5 mt-3">
             <div class="gallery-item tvandfilm casestudies">
-                <a href="projects/case-study-out-of-thin-air.html" class="gallery-item__details">
+                <a href="project-articles/case-study-out-of-thin-air" class="gallery-item__details">
                     <p>Case Study: Out of Thin Air</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -101,7 +101,7 @@
                     alt="Black and white reconstruction of Icelandic crime scene" class="lazyload">
             </div>
             <div class="gallery-item socialimpact">
-                <a href="projects/remember-baghdad.html" class="gallery-item__details">
+                <a href="project-articles/remember-baghdad" class="gallery-item__details">
                     <p>Remember Baghdad</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -109,7 +109,7 @@
                     alt="Coloured tinted skyline of Baghdad in the 1950s" class="lazyload">
             </div>
             <div class="gallery-item awardsandfestivals technology">
-                <a href="projects/accidental-anarchist.html" class="gallery-item__details">
+                <a href="project-articles/accidental-anarchist" class="gallery-item__details">
                     <p>Accidental Anarchist</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -117,7 +117,7 @@
                     alt="Presenter Carne Ross standing in front of an anarchist mural" class="lazyload">
             </div>
             <div class="gallery-item tvandfilm casestudies">
-                <a href="projects/inside-the-freemasons.html" class="gallery-item__details">
+                <a href="project-articles/inside-the-freemasons" class="gallery-item__details">
                     <p>Inside the Freemasons</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -125,7 +125,7 @@
                     alt="Five freemasons dressed in full regalia and holding Masonic artefacts" class="lazyload">
             </div>
             <div class="gallery-item tvandfilm">
-                <a href="projects/dementia-peer-support.html" class="gallery-item__details">
+                <a href="project-articles/dementia-peer-support" class="gallery-item__details">
                     <p>Dementia Peer Support</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -133,7 +133,7 @@
                     alt="Older adult members holding hands and dancing in a circle" class="lazyload">
             </div>
             <div class="gallery-item technology">
-                <a href="projects/what-you-taught-me-about-my-son.html" class="gallery-item__details">
+                <a href="project-articles/what-you-taught-me-about-my-son" class="gallery-item__details">
                     <p>What You Taught Me About My Son</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -158,34 +158,8 @@
             </div>
 
             <div class="gallery-item tvandfilm casestudies">
-            <!-- <div class="image loading">
-                    <img data-src="./assets/images/gallery/inside-the-freemasons-thumbnail-preview.jpg" data-srcset="./assets/images/gallery/inside-the-freemasons-thumbnail.jpg 1x, ./assets/images/gallery/inside-the-freemasons-thumbnail.jpg"
-                        class="lazyload">
-                </div>
-                <noscript>
-                    <img src="./assets/images/gallery/inside-the-freemasons-thumbnail-preview.jpg" srcset="./assets/images/gallery/inside-the-freemasons-thumbnail-preview.jpg 1x, ./assets/images/gallery/inside-the-freemasons-thumbnail.jpg"
-                        class="image-fallback">
-                </noscript> -->
                 <img data-src="./assets/images/gallery/inside-the-freemasons-thumbnail2.jpg" src="./assets/images/gallery/inside-the-freemasons-thumbnail2-preview.jpg" alt="Responsive Image" class="lazyload">
             </div>
-
-
-
-            <!-- <div class="gallery-item tvandfilm casestudies"> -->
-                <!-- <div class="image loading">
-                                <img data-src="./assets/images/gallery/inside-the-freemasons-thumbnail-preview.jpg" data-srcset="./assets/images/gallery/inside-the-freemasons-thumbnail.jpg 1x, ./assets/images/gallery/inside-the-freemasons-thumbnail.jpg"
-                                    class="lazyload">
-                            </div>
-                            <noscript>
-                                <img src="./assets/images/gallery/inside-the-freemasons-thumbnail-preview.jpg" srcset="./assets/images/gallery/inside-the-freemasons-thumbnail-preview.jpg 1x, ./assets/images/gallery/inside-the-freemasons-thumbnail.jpg"
-                                    class="image-fallback">
-                            </noscript> -->
-                <!-- <img data-srcset="./assets/images/gallery/inside-the-freemasons-thumbnail2.jpg 100w, 
-                                  ./assets/images/gallery/inside-the-freemasons-thumbnail2.jpg 300w"
-                    data-src="./assets/images/gallery/inside-the-freemasons-thumbnail2.jpg" 
-                    src="./assets/images/gallery/inside-the-freemasons-thumbnail2-preview.jpg"
-                    alt="Responsive Image" class="lazyload">
-            </div> -->
         </div>
     </div>
     
