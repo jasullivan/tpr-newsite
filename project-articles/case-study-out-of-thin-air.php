@@ -22,47 +22,8 @@
 </head>
 
 <body>
-    <?php include 'sub-navigation.php'; ?>
     <!-- navbar -->
-    
-    <!-- <nav role="navigation" aria-label="Main navigation" class="navbar navbar-expand-lg navbar-light bg-white p-4 tpr-nav">
-        <a class="navbar-brand" href="../index.html">
-            <img src="../assets/images/logos/logo.png" alt="tpr media logo">
-        </a>
-        <div class="tpr-nav__social-icons pt-5">
-            <span class="icon icon__twitter icon-issuu" aria-hidden="true"></span>
-            <span class="icon icon__twitter icon-Twitter-black" aria-hidden="true"></span>
-            <span class="icon icon__linkedin icon-LinkedIn-black" aria-hidden="true"></span>
-        </div>
-        <button class="navbar-toggler mt-5 mr-3" type="button" data-toggle="collapse" data-target="#navbarText"
-            aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="icon icon__hamburger icon-hamburger show" aria-hidden="true"></span>
-            <span class="icon icon__cross icon-cross hide" aria-hidden="true"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarText">
-            <hr>
-            <ul class="navbar-nav mr-auto pt-lg-5">
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 pl-lg-5 tpr-nav__link" href="../about.html">About</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link active" href="../projects.html">Projects</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="../clients.html">Clients</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="../approach.html">Approach</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="../news.html">News</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="tpr-nav__link" href="../contact.html">Contact</a>
-                </li>
-            </ul>
-        </div>
-    </nav> -->
+    <?php include 'sub-navigation.php'; ?>
     <!-- navbar -->
 
     <article>
@@ -79,9 +40,32 @@
             <div class="row">
                 <div class="col-9 mx-auto">
                     <div class="tpr-article-content">
-                        <img data-sizes="auto" data-src="../assets/images/projects/out-of-thin-air.jpg" src="../assets/images/projects/out-of-thin-air-preview.jpg"
-                            data-srcset="../assets/images/projects/out-of-thin-air_400w.jpg 400w, ../assets/images/projects/out-of-thin-air.jpg 800w"
+
+                        <img 
+                            data-sizes="auto"
+                            data-srcset=" 
+                                ../assets/images/projects/out-of-thin-air-med.jpg 800w, 
+                                ../assets/images/projects/out-of-thin-air-lrg.jpg"
+                            data-src="../assets/images/projects/out-of-thin-air-med.jpg"
+                            src="../assets/images/projects/out-of-thin-air-preview.jpg" 
+                            alt="Black and white reconstruction of Icelandic crime scene" class="lazyload tpr-article-content__image"
+                        >
+
+                        <!-- <img data-sizes="auto" data-src="../assets/images/projects/out-of-thin-air.jpg" src="../assets/images/projects/out-of-thin-air-preview.jpg"
+                            data-srcset="../assets/images/projects/out-of-thin-air_800w.jpg x1, ../assets/images/projects/out-of-thin-air.jpg 1600w"
                             alt="Black and white reconstruction of Icelandic crime scene" class="lazyload tpr-article-content__image">
+
+                        <img 
+                            data-srcset="
+                                image-100.jpg 100w,
+                                image-300.jpg 300w"
+                            data-src="image.jpg"
+                            src="image-lqip.jpg"  
+                            width="300"
+                            height="200"
+                            alt="Responsive Image"
+                        > -->
+                            
 
                         <h3 class="tpr-article-content__details">Production Company: Mosaic Films</h3>
                         <h3 class="tpr-article-content__details">Channel: BBC Storyville, Netflix</h3>
@@ -118,24 +102,9 @@
     </article>
 
     <!-- footer -->
-    <footer class="container-fluid px-0">
-        <div class="row bg-dark m-0">
-            <div class="col-12">
-                <div class="tpr-footer p-5 text-center">
-                    <div class="tpr-footer__content">
-                        <img src="../assets/images/logos/logo_white.png" alt="" class="tpr-footer__logo-main">
-                        <p class="text-center px-5 pt-5">Highgate, London</p>
-                        <a href="tel:4402083477020" class="text-center tpr-footer__tel-link">+44 0208 347 7020</a>
-                        <h4 class="pt-5">tpr media consultants</h4>
-                    </div>
-                    <div class="tpr-footer__content--left">
-                        <img src="../assets/images/logos/cipr_small.jpg" alt="" class="tpr-footer__content--left">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+    <?php include 'sub-footer.php'; ?>
     <!-- footer -->
+
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>

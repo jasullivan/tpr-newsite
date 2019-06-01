@@ -193,7 +193,8 @@ a:hover {
   padding: 3rem 0 3rem; }
   .tpr-article-content__image {
     padding-bottom: 2rem;
-    width: 100%; }
+    width: 100%;
+    max-width: 825px; }
   .tpr-article-content__subtitle {
     font-size: 2rem;
     padding-top: 1rem;
