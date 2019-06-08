@@ -26,7 +26,7 @@
     <?php include 'sub-navigation.php'; ?>
     <!-- navbar -->
 
-    <article>
+    <article role="article">
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
@@ -40,14 +40,21 @@
             <div class="row">
                 <div class="col-9 mx-auto">
                     <div class="tpr-article-content">
-                        <img data-sizes="auto" data-src="../assets/images/projects/inside-the-freemasons.jpg" src="../assets/images/projects/inside-the-freemasons-preview.jpg"
-                            data-srcset="../assets/images/projects/inside-the-freemasons_400w.jpg 400w, ../assets/images/projects/inside-the-freemasons.jpg 800w"
-                            alt="Five freemasons dressed in full regalia and holding Masonic artefacts" class="lazyload tpr-article-content__image">
+                        <img 
+                            data-sizes="auto"
+                            data-srcset="
+                                ../assets/images/projects/inside-the-freemasons-med.jpg 800w, 
+                                ../assets/images/projects/inside-the-freemasons-lrg.jpg"
+                            data-src="../assets/images/projects/inside-the-freemasons-med.jpg"
+                            src="../assets/images/projects/inside-the-freemasons-preview.jpg" 
+                            alt="Five freemasons dressed in full regalia and holding Masonic artefacts" class="lazyload tpr-article-content__image"
+                        >
 
+                        <h2 class="tpr-article-content__subtitle">About: </h2>
                         <h3 class="tpr-article-content__details">Production Company: Emporium Productions</h3>
                         <h3 class="tpr-article-content__details">Channel: Sky 1</h3>
                         <h3 class="tpr-article-content__details">Date: 10/2016–05/2017</h3>
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
+                        
                         <p class="tpr-article-content__paragraph">Inside The Freemasons is a five-part documentary for Sky 1 that seeks to discover the truth behind the ancient rituals
                         and closely-guarded practices of the world’s oldest social network, taking viewers exclusively behind the scenes in the
                         run up to its 300th anniversary in 2017.</p>

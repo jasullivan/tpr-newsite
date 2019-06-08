@@ -1,8 +1,8 @@
 /* ---- .gallery-item ---- */
 .gallery-item {
   position: relative;
-  width: 98%;
-  margin: 1%;
+  width: 99%;
+  margin: 0.5%;
   // background: #888;
   color: #262524;
   z-index: 1;
@@ -49,8 +49,8 @@
       opacity: 0.5;
   }
   @include respond(md) {
-    width: 48%;
-    margin: 1%;
+    width: 49%;
+    margin: 0.5%;
   }
 }
 

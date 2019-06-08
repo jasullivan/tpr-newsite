@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">#HACKED: Syria's Electronic Armies</h1>
+                <h1 class="tpr-blue-bar__content">A Brief History of Graffiti</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,25 +43,25 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/hacked-med.jpg 800w, 
-                                ../assets/images/projects/hacked-lrg.jpg"
-                            data-src="../assets/images/projects/hacked-med.jpg"
-                            src="../assets/images/projects/hacked-preview.jpg" 
-                            alt="Screen grabs of the web-based app #HACKED" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/brief-history-of-graffiti-med.jpg 800w, 
+                                ../assets/images/projects/brief-history-of-graffiti-lrg.jpg"
+                            data-src="../assets/images/projects/brief-history-of-graffiti-med.jpg"
+                            src="../assets/images/projects/brief-history-of-graffiti-preview.jpg" 
+                            alt="Wall covered in brightly coloured graffiti" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Client: Al Jazeera</h3>
-                        <h3 class="tpr-article-content__details">Date: 09/2016–11/2016</p>
+                        <h3 class="tpr-article-content__details">Production Company: Kaboom Film &amp; TV</h3>
+                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
+                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
                         
-                        <p class="tpr-article-content__paragraph">In the run up to its 10th anniversary in November 2016 Al Jazeera English announced the launch of an interactive mobile
-                        web-based app #HACKED: Syria’s Electronic Armies, which takes the user deep inside the country’s cyber war, a conflict
-                        that has proven it can be just as deadly as the ground war.</p>
+                        <p class="tpr-article-content__paragraph">From elegant line drawings in the 30,000-year-old Caves D’Arcy in central France to the triumphal graffiti of Russian
+                        troops who captured the Reichstag in 1945, people we have scratched, etched and painted from time immemorial. In A
+                        Brief History of Graffiti – part of BBC’s pop art season – Richard Clay explores the cave art, revolutionary posters
+                        and contemporary street-art to unravel the enigma of graffiti.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">#HACKED was based on a People &amp; Power documentary of the same name by senior Al Jazeera correspondent, Juliana
-                        Ruhfus, but presents the film’s investigative journalism in a game format, targeting a younger, mobile generation that
-                        increasingly shuns traditional news websites. Working with a social media specialist, we targeted tech sites and
-                        national technology correspondents as well gaming editors and bloggers. We also joined the debate about engaging young
-                        people in the changing media landscape by putting forward Juliana Ruhfus as an expert panellist and media interviewee.</p>
+                        <p class="tpr-article-content__paragraph">tpr media designed and implemented a targeted, reputational media campaign around the TX of A Brief History of Graffiti
+                        to begin to build visibility of presenter Dr Richard Clay and drive an audience to the documentary. Coverage included
+                        authored pieces in Shortlist and blanket previews and reviews.</p>
                         
                     </div>
                 </div>

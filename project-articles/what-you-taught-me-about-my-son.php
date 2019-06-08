@@ -26,7 +26,7 @@
     <?php include 'sub-navigation.php'; ?>
     <!-- navbar -->
 
-    <article>
+    <article role="article">
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
@@ -40,13 +40,20 @@
             <div class="row">
                 <div class="col-9 mx-auto">
                     <div class="tpr-article-content">
-                        <img data-sizes="auto" data-src="../assets/images/projects/what-you-taught-me-about-my-son.jpg" src="../assets/images/projects/what-you-taught-me-about-my-son-preview.jpg"
-                            data-srcset="../assets/images/projects/what-you-taught-me-about-my-son_400w.jpg 400w, ../assets/images/projects/what-you-taught-me-about-my-son.jpg 800w"
-                            alt="Front of the Curzon Bloomsbury cinema in London" class="lazyload tpr-article-content__image">
 
+                        <img 
+                            data-sizes="auto"
+                            data-srcset="
+                                ../assets/images/projects/what-you-taught-me-about-my-son-med.jpg 800w, 
+                                ../assets/images/projects/what-you-taught-me-about-my-son-lrg.jpg"
+                            data-src="../assets/images/projects/what-you-taught-me-about-my-son-med.jpg"
+                            src="../assets/images/projects/what-you-taught-me-about-my-son-preview.jpg" 
+                            alt="Front of the Curzon Bloomsbury cinema in London" class="lazyload tpr-article-content__image"
+                        >
+                        <h2 class="tpr-article-content__subtitle">About: </h2>
                         <h3 class="tpr-article-content__details">Client: NHK WORLD TV</h3>
                         <h3 class="tpr-article-content__details">Date: 02/2017–04/2017</h3>
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
+                        
                         <p class="tpr-article-content__paragraph">What You Taught Me About My Son is an award-winning documentary about Naoki Higashida, a Japanese boy with severe
                         autism, who wrote one of the most extraordinarily candid books on life with the condition, championed by the acclaimed
                         British author, David Mitchell.</p>

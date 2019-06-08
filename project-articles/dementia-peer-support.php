@@ -26,7 +26,7 @@
     <?php include 'sub-navigation.php'; ?>
     <!-- navbar -->
 
-    <article>
+    <article role="article">
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
@@ -41,13 +41,19 @@
                 <div class="col-9 mx-auto">
                     <div class="tpr-article-content">
 
-                        <img data-sizes="auto" data-src="../assets/images/projects/dementia-peer-support.jpg" src="../assets/images/projects/dementia-peer-support-preview.jpg"
-                            data-srcset="../assets/images/projects/dementia-peer-support_400w.jpg 400w, ../assets/images/projects/dementia-peer-support.jpg 800w"
-                            alt="Older adult members holding hands and dancing in a circle" class="lazyload tpr-article-content__image">
-
+                        <img 
+                            data-sizes="auto"
+                            data-srcset="
+                                ../assets/images/projects/dementia-peer-support-med.jpg 800w, 
+                                ../assets/images/projects/dementia-peer-support-lrg.jpg"
+                            data-src="../assets/images/projects/dementia-peer-support-med.jpg"
+                            src="../assets/images/projects/dementia-peer-support-preview.jpg" 
+                            alt="Older adult members holding hands and dancing in a circle" class="lazyload tpr-article-content__image"
+                        >
+                        <h2 class="tpr-article-content__subtitle">About: </h2>
                         <h3 class="tpr-article-content__details">Client: Ashford Place</h3>
                         <h3 class="tpr-article-content__details">Date: 03/2017–05/2017</h3>
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
+                        
                         <p class="tpr-article-content__paragraph">Community centre, Ashford Place, spent two years working with the charity, Community Action on Dementia (CAD) Brent, to
                         develop a ground-breaking new service designed to change the way people live with dementia. The project was developed
                         by people with dementia, for people with dementia, and is aided by professional support staff.</p>

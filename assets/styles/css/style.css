@@ -197,7 +197,7 @@ a:hover {
     max-width: 825px; }
   .tpr-article-content__subtitle {
     font-size: 2rem;
-    padding: 1rem;
+    padding: 1rem 0 0.5rem;
     text-align: center; }
   .tpr-article-content__details {
     font-size: 1.6rem;
@@ -260,8 +260,8 @@ a:hover {
 /* ---- .gallery-item ---- */
 .gallery-item {
   position: relative;
-  width: 98%;
-  margin: 1%;
+  width: 99%;
+  margin: 0.5%;
   color: #262524;
   z-index: 1;
   cursor: pointer; }
@@ -303,8 +303,8 @@ a:hover {
     opacity: 0.5; }
   @media (min-width: 48em) {
     .gallery-item {
-      width: 48%;
-      margin: 1%; } }
+      width: 49%;
+      margin: 0.5%; } }
 
 .tpr-news-row__content {
   background-color: #92d4e9;

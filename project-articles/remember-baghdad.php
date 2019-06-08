@@ -26,7 +26,7 @@
     <?php include 'sub-navigation.php'; ?>
     <!-- navbar -->
 
-    <article>
+    <article role="article">
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
@@ -40,13 +40,19 @@
             <div class="row">
                 <div class="col-9 mx-auto">
                     <div class="tpr-article-content">
-                        <img data-sizes="auto" data-src="../assets/images/projects/remember-baghdad.jpg" src="../assets/images/projects/remember-baghdad-preview.jpg"
-                            data-srcset="../assets/images/projects/remember-baghdad_400w.jpg 400w, ../assets/images/projects/remember-baghdad.jpg 800w"
-                            alt="Black and white reconstruction of Icelandic crime scene" class="lazyload tpr-article-content__image">
-
+                        <img 
+                            data-sizes="auto"
+                            data-srcset="
+                                ../assets/images/projects/remember-baghdad-med.jpg 800w, 
+                                ../assets/images/projects/remember-baghdad-lrg.jpg"
+                            data-src="../assets/images/projects/remember-baghdad-med.jpg"
+                            src="../assets/images/projects/remember-baghdad-preview.jpg" 
+                            alt="Coloured tinted skyline of Baghdad in the 1950s" class="lazyload tpr-article-content__image"
+                        >
+                        <h2 class="tpr-article-content__subtitle">About: </h2>
                         <h3 class="tpr-article-content__details">Production Company: Spring Films &amp; Echodocs</h3>
                         <h3 class="tpr-article-content__details">Date: 2016–2017</h3>
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
+                        
                         <p class="tpr-article-content__paragraph">Remember Baghdad is a documentary about Iraq through the eyes of the Jews who lived there for 2,600 years until only a
                         generation ago. In 1917, a third of Baghdad’s population was Jewish.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
@@ -64,9 +70,9 @@
         <!-- article content -->
     </article>
 
-    <!-- navbar -->
+    <!-- footer -->
     <?php include 'sub-footer.php'; ?>
-    <!-- navbar -->
+    <!-- footer -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>

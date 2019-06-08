@@ -119,7 +119,7 @@
                     alt="Supermodel Bella Hadid on catwalk with other models" class="lazyload">
             </div>
             <div class="gallery-item tvandfilm technology socialimpact">
-                <a href="project-articles/hacked" class="gallery-item__details">
+                <a href="project-articles/hacked-syrias-electronic-armies" class="gallery-item__details">
                     <p>#HACKED: Syria’s Electronic Armies</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -127,7 +127,7 @@
                     alt="Screen grabs of the web-based app #HACKED" class="lazyload">
             </div>
             <div class="gallery-item casestudies tvandfilm">
-                <a href="project-articles/last-whites-of-the-east-end" class="gallery-item__details">
+                <a href="project-articles/case-study-last-whites-of-east-end" class="gallery-item__details">
                     <p>Case Study: Last Whites of the East End</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -151,7 +151,7 @@
                     alt="Lead cast members of the Night Manager in luxury setting" class="lazyload">
             </div>
             <div class="gallery-item casestudies tvandfilm socialimpact">
-                <a href="project-articles/no-fire-zone" class="gallery-item__details">
+                <a href="project-articles/case-study-no-fire-zone" class="gallery-item__details">
                     <p>Case Study: No Fire Zone - The Killing Fields of Sri Lanka</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -191,7 +191,7 @@
                     alt="Two cameramen in foreground filming a presenter at a news event" class="lazyload">
             </div>
             <div class="gallery-item casestudies socialimpact">
-                <a href="project-articles/justice-for-health" class="gallery-item__details">
+                <a href="project-articles/case-study-justice-for-health" class="gallery-item__details">
                     <p>Case Study: Justice for Health</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -199,7 +199,7 @@
                     alt="Five Junior Doctors standing in a row in front of the Royal Courts of Justice" class="lazyload">
             </div>
             <div class="gallery-item casestudies tvandfilm">
-                <a href="project-articles/tales-of-the-grim-sleeper" class="gallery-item__details">
+                <a href="project-articles/case-study-tales-of-grim-sleeper" class="gallery-item__details">
                     <p>Case Study: Tales of the Grim Sleeper</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -363,7 +363,7 @@
                     <p>Case Study: All in the Best Possible Taste with Grayson Perry</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
-                <img data-src="./assets/images/gallery/grayson-perry-thumbnail.jpg" src="./assets/images/gallery/grayson-perry--thumbnail-preview.jpg"
+                <img data-src="./assets/images/gallery/grayson-perry-thumbnail.jpg" src="./assets/images/gallery/grayson-perry-thumbnail-preview.jpg"
                     alt="Grayson Perry tapestry" class="lazyload">
             </div>
             <div class="gallery-item casestudies technology">

@@ -50,11 +50,11 @@
                             src="../assets/images/projects/born-to-be-different-preview.jpg" 
                             alt="Five teenage participants photographed together" class="lazyload tpr-article-content__image"
                         >
-
+                        <h2 class="tpr-article-content__subtitle">About: </h2>
                         <h3 class="tpr-article-content__details">Production Company: Ricochet</h3>
                         <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
                         <h3 class="tpr-article-content__details">Date: 01/2016–03/2016</h3>
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
+                        
                         <p class="tpr-article-content__paragraph">A candid portrait of the pressures and joys of bringing up a disabled child, this series reveals the bittersweet
                         challenges faced by six families as they raise their children.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>

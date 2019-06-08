@@ -51,11 +51,11 @@
                             alt="Black and white reconstruction of Icelandic crime scene" class="lazyload tpr-article-content__image"
                         >
                             
-
+                        <h2 class="tpr-article-content__subtitle">Project: </h2>
                         <h3 class="tpr-article-content__details">Production Company: Mosaic Films</h3>
                         <h3 class="tpr-article-content__details">Channel: BBC Storyville, Netflix</h3>
                         <h3 class="tpr-article-content__details">Date: May – September 2017</h3>
-                        <h2 class="tpr-article-content__subtitle">Project: </h2>
+                        
                         <p class="tpr-article-content__paragraph">tpr media consultants were engaged from May 2017 by Mosaic Films to create and deliver a PR strategy for the
                         documentary Out of Thin Air. We positioned the feature-length film as a compelling true crime story, a successor to
                         Making a Murderer with stylish, Nordic Noir appeal. The campaign tied in with its broadcast on BBC Storyville (pushed
