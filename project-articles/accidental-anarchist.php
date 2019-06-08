@@ -26,7 +26,7 @@
     <?php include 'sub-navigation.php'; ?>
     <!-- navbar -->
 
-    <article>
+    <article role="article">
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
@@ -49,11 +49,13 @@
                             src="../assets/images/projects/accidental-anarchist-preview.jpg" 
                             alt="Presenter Carne Ross standing in front of an anarchist mural" class="lazyload tpr-article-content__image"
                         >
-                            
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
                         <h3 class="tpr-article-content__details">Production Company: Hopscotch Films</h3>
                         <h3 class="tpr-article-content__details">Channel: Storyville, BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 05/2017–07/2017</p>
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
+                        <h3 class="tpr-article-content__details">Date: 05/2017&ndash;07/2017</h3>
+
+                        
+                        
                         <p class="tpr-article-content__paragraph">Accidental Anarchist follows the remarkable journey of Carne Ross, which saw the high-flying diplomat turn to anarchism
                         and ideas of participatory democracy.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>

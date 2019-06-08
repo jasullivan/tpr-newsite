@@ -1,5 +1,5 @@
 <!-- footer -->
-    <footer class="container-fluid px-0">
+    <footer class="container-fluid px-0" role="footer">
         <div class="row bg-dark m-0">
             <div class="container">
                 <div class="row">

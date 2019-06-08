@@ -197,7 +197,7 @@ a:hover {
     max-width: 825px; }
   .tpr-article-content__subtitle {
     font-size: 2rem;
-    padding-top: 1rem;
+    padding: 1rem;
     text-align: center; }
   .tpr-article-content__details {
     font-size: 1.6rem;
@@ -268,7 +268,7 @@ a:hover {
   .gallery-item:hover .gallery-item__details {
     opacity: 1; }
   .gallery-item__details {
-    opacity: 0;
+    opacity: 1;
     position: absolute;
     top: 0;
     left: 0;
@@ -277,13 +277,17 @@ a:hover {
     background-color: none;
     z-index: 20;
     transition: all .5s; }
+    @media (min-width: 62em) {
+      .gallery-item__details {
+        opacity: 0; } }
     .gallery-item__details p {
       position: absolute;
       color: #fff;
       z-index: 21;
       top: 50%;
       left: 50%;
-      transform: translate(-50%, -50%); }
+      transform: translate(-50%, -50%);
+      text-align: center; }
   .gallery-item img {
     display: block;
     width: 100%;

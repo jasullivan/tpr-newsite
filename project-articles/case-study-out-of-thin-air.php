@@ -50,21 +50,6 @@
                             src="../assets/images/projects/out-of-thin-air-preview.jpg" 
                             alt="Black and white reconstruction of Icelandic crime scene" class="lazyload tpr-article-content__image"
                         >
-
-                        <!-- <img data-sizes="auto" data-src="../assets/images/projects/out-of-thin-air.jpg" src="../assets/images/projects/out-of-thin-air-preview.jpg"
-                            data-srcset="../assets/images/projects/out-of-thin-air_800w.jpg x1, ../assets/images/projects/out-of-thin-air.jpg 1600w"
-                            alt="Black and white reconstruction of Icelandic crime scene" class="lazyload tpr-article-content__image">
-
-                        <img 
-                            data-srcset="
-                                image-100.jpg 100w,
-                                image-300.jpg 300w"
-                            data-src="image.jpg"
-                            src="image-lqip.jpg"  
-                            width="300"
-                            height="200"
-                            alt="Responsive Image"
-                        > -->
                             
 
                         <h3 class="tpr-article-content__details">Production Company: Mosaic Films</h3>
