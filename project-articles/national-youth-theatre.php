@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">National Youth Theatre</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,21 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/national-youth-theatre-med.jpg 800w, 
+                                ../assets/images/projects/national-youth-theatre-lrg.jpg"
+                            data-src="../assets/images/projects/national-youth-theatre-med.jpg"
+                            src="../assets/images/projects/national-youth-theatre-preview.jpg" 
+                            alt="Performance at the National Youth Theatre" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Production Company: National Youth Theatre</h3>
+                        <h3 class="tpr-article-content__details">Date: 2006</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
+                        
+                        <p class="tpr-article-content__paragraph">We worked with the National Youth Theatre on two occasions, when they took part in the Shakespeare Schools’ Festival and to celebrate their 50th anniversary year.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        <p class="tpr-article-content__paragraph">The focus was on achieving reputational coverage across a range of media, from arts pages to TV and radio through the voices of 'National Youth Theatre People' (written by alumni including Hugh Bonneville, NYT director Paul Roseby and chairman, Lord Waheed Alli). Coverage included a feature in the Financial Times and an ensemble interview on BBC Radio 4’s Front Row.</p>
                         
                     </div>
                 </div>

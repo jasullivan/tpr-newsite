@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">Top Boy</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,23 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/top-boy-med.jpg 800w, 
+                                ../assets/images/projects/top-boy-lrg.jpg"
+                            data-src="../assets/images/projects/top-boy-med.jpg"
+                            src="../assets/images/projects/top-boy-preview.jpg" 
+                            alt="Four Top Boy cast members including Ashley Walters and Kane Robinson on an urban rooftop with a dog" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Production Company: Cowboy Films &amp; Easter Partisan Films</h3>
+                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
+                        <h3 class="tpr-article-content__details">Date: 11/2011 &amp; 08/2013 (series 1 & 2)</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
+                        
+                        <p class="tpr-article-content__paragraph"> Top Boy is Ronan Bennett’s award-winning drama about young people living on the edge and out of sight in east London today. The series stars Ashley Walters and Kane Robinson together with a dynamic ensemble cast of first-time actors, brought together through extensive talent searches across London.</p>
+                        <h3 class="tpr-article-content__details">Awards: BAFTA and RTS</h3>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        <p class="tpr-article-content__paragraph">tpr media implemented a major national publicity campaign across print, broadcast, online and new media, positioning the series as a major television event and reinforcing Channel 4’s reputation for delivering contemporary, cutting-edge drama that tackles controversial issues – in this case gang culture. We also organised a cast and crew screening at the BFI in London for 450 people.</p>
                         
                     </div>
                 </div>

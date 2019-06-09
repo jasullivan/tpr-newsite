@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">The Mill</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,22 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/the-mill-med.jpg 800w, 
+                                ../assets/images/projects/the-mill-lrg.jpg"
+                            data-src="../assets/images/projects/the-mill-med.jpg"
+                            src="../assets/images/projects/the-mill-preview.jpg" 
+                            alt="Lead actors Kerrie Hayes and Matthew McNulty dressed in costume" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Production Company: Darlow Smithson Productions</h3>
+                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
+                        <h3 class="tpr-article-content__details">Date:  04/2013&ndash;07/2013 &amp; 04/2014&ndash;07/2014</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
+                        
+                        <p class="tpr-article-content__paragraph">Based on historical archive, The Mill is a historical drama set in rural England at a time when the industrial revolution was changing the country beyond recognition. The story is told from the perspectives of young apprentices.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        <p class="tpr-article-content__paragraph"> tpr media organised press screenings at the BFI in London and at Quarry Bank Mill in Cheshire, engaging with stories from its exhaustive National Trust archive. We also designed a media campaign which positioned the drama as a refreshing antidote to costume drama, and promoted its pool of young talent. The first series was the highest rating Channel 4 drama series since Shane Meadows’ This is England.</p>
                         
                     </div>
                 </div>

@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">Matt Shepard Is a Friend of Mine</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,21 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/matt-shepard-med.jpg 800w, 
+                                ../assets/images/projects/matt-shepard-lrg.jpg"
+                            data-src="../assets/images/projects/matt-shepard-med.jpg"
+                            src="../assets/images/projects/matt-shepard-preview.jpg" 
+                            alt="Matt Shepard lying on a beach" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Production Company: Logo Documentary Films</h3>
+                        <h3 class="tpr-article-content__details">Outlet: IDFA International Film Festival</h3>
+                        <h3 class="tpr-article-content__details">Date: 10/2013&ndash;12/2013</h3>
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
-                        <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        <p class="tpr-article-content__paragraph">Matt Shepard Is a Friend of Mine explores the life and death of Matthew Shepard, the gay student murdered in Laramie, Wyoming through a personal lens. His tragic case helped change Hate Crime Law in America. The film, by a first time director, was in the top 20 IDFA documentaries and later went on to win an Emmy.</p>
+                        <h3 class="tpr-article-content__details">Awards: Daytime Emmy</h3>
+                        <h2 class="tpr-article-content__subtitle">Projects</h2>
+                        <p class="tpr-article-content__paragraph">tpr media organised press screenings at IDFA in Amsterdam and coordinated a marketing campaign in gay bars across the city, liaising with gay campaigning groups. We achieved coverage in Dutch and UK outlets, in both the gay and mainstream media, working with Matt’s parents and the director.</p>
                         
                     </div>
                 </div>

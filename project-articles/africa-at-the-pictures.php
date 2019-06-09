@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">Africa at the Pictures</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,22 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/africa-at-the-pictures-med.jpg 800w, 
+                                ../assets/images/projects/africa-at-the-pictures-lrg.jpg"
+                            data-src="../assets/images/projects/africa-at-the-pictures-med.jpg"
+                            src="../assets/images/projects/africa-at-the-pictures-preview.jpg" 
+                            alt="Image of African woman wearing retro sunglasses and smiling" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Client: Africa at the Pictures, Royal African Society</h3>
+                        <h3 class="tpr-article-content__details">Venues: BFI Southbank, Barbican, Rich Mix and arthouse cinemas around the UK</h3>
+                        <h3 class="tpr-article-content__details">Date: 2003&ndash;2010</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
+                        
+                        <p class="tpr-article-content__paragraph">For nearly a decade tpr media promoted Africa at the Pictures which brought a rich programme of African film to London and the UK. We worked with some of the foremost African filmmakers, including the father of African film, Ousmane Sembene and Abderrahmane Sissako.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        <p class="tpr-article-content__paragraph">Our brief was to drive audience to screenings and festivals and raise the profile of African film among UK audiences. Working with programmer Keith Shiri, who we positioned as a thought leader in this field, we arranged interviews with filmmakers, articles on African film and extensive radio coverage on BBC Radio 3, Radio 4 and World Service. Our primary focus was broadsheet and specialist film outlets.</p>
                         
                     </div>
                 </div>

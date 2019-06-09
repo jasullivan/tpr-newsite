@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">Case Study: Don’t Stop The Music</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,27 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/james-rhodes-med.jpg 800w, 
+                                ../assets/images/projects/james-rhodes-lrg.jpg"
+                            data-src="../assets/images/projects/james-rhodes-med.jpg"
+                            src="../assets/images/projects/james-rhodes-preview.jpg" 
+                            alt="Classical pianist James Rhodes sitting at a grand piano" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Production Company: Fresh One Productions</h3>
+                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
+                        <h3 class="tpr-article-content__details">Date: July to December 2014</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
-                        <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        
+                        <p class="tpr-article-content__paragraph">tpr media was commissioned to design and implement a visible, dynamic six-month media campaign around the different elements of Don’t Stop The Music, the passionate campaign of internationally renowned pianist James Rhodes highlighting the decline of musical education in primary schools.</p>
+
+                        <p class="tpr-article-content__paragraph">The aim of the campaign – which complemented a two-part Channel 4 TV series on James’s battle to improve music education in the UK – was to encourage the public to donate unused instrument to charity shops in a nationwide ‘instrument amnesty’. The instruments were then given a new lease of life before being distributed to selected primary schools in need.</p>
+
+                        <p class="tpr-article-content__paragraph">Our brief was to support the drive for school registration and instrument donations as well as the wider political campaign engendered by the project, supported by celebrity ambassadors including Paul McCartney, Tinie Tempah, Tom Jones and Jessie J and Labrinth.</p>
+
+                        <p class="tpr-article-content__paragraph">The campaign required a strong, national profile coupled with regional grassroots coverage in print, online and broadcast. We invested considerable resources liaising with 20 key primary schools, creating resource packs, which included a template release and clear instructions on how to place stories. Interest was enormous and helped influence mainstream audiences, galvinising political opinion and debate. Coverage encompassed broadcast, nationals and regionals, as well as specialist education and music press.</p>
+                        
                         
                     </div>
                 </div>

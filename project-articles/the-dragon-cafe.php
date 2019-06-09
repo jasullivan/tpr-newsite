@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">The Dragon Caf&#233;</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,18 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/the-dragon-cafe-med.jpg 800w, 
+                                ../assets/images/projects/the-dragon-cafe-lrg.jpg"
+                            data-src="../assets/images/projects/the-dragon-cafe-med.jpg"
+                            src="../assets/images/projects/the-dragon-cafe-preview.jpg" 
+                            alt="Female artist demonstrates how to upholster a chair to three onlookers" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
-                        
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Client: Mental Fight Club</h3>
+                        <h3 class="tpr-article-content__details">Date: 12/2014–02/2015</h3>
+                        <p class="tpr-article-content__paragraph">Based in the crypt of St George's Church in Borough High Street, The Dragon Café is a weekly pop-up cafe with a packed programme of creative activities and events. All are welcome but the VIPs at The Dragon Café are those who are struggling through vulnerability, mental illness and recovery.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        <p class="tpr-article-content__paragraph">tpr media were commissioned to design and implement a targeted strategic campaign around the 100<sup>th</sup> Dragon Café in February 2015 and the launch of DRAGONCAFE100, a fund-raising and awareness project which aimed to raise £100,000 and invite one hundred creative ambassadors and advocates to visit and support the project.</p>
                         
                     </div>
                 </div>

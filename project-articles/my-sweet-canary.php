@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">My Sweet Canary</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,24 +43,24 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/my-sweet-canary-med.jpg 800w, 
+                                ../assets/images/projects/my-sweet-canary-lrg.jpg"
+                            data-src="../assets/images/projects/my-sweet-canary-med.jpg"
+                            src="../assets/images/projects/my-sweet-canary-preview.jpg" 
+                            alt="‘Greek Blues’ singer Roza Eskenazi holding tambourine with two musicians either side" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Production Company: Sher Film and Music</h3>
+                        <h3 class="tpr-article-content__details">Outlet: Cineworld</h3>
+                        <h3 class="tpr-article-content__details">Date: 09/2014&ndash;11/2014</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
+                        
+                        <p class="tpr-article-content__paragraph">My Sweet Canary is an international feature documentary about the life of Greek-Jewish singer Roza Eskenazi. Directed by Roy Sher, the film follows the exuberant musical journey of three young musicians as they explore the history of rembetiko music and travel to London, Jerusalem, Istanbul, Thessaloniki and Athens, tracing the musical journey that Roza Eskenazi made in her life.</p>
+                        <h2 class="tpr-article-content__subtitle">Awards: </h2>
+                        <p class="tpr-article-content__paragraph">The documentary was the opening night film at the Thessonaliki Documentary Festival 2011.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
-                        
+                        <p class="tpr-article-content__paragraph">tpr media consultants were commissioned to design and implement a dynamic, visible media campaign around the three key events, including the UK release of the film. tpr liaised with the Leukaemia Cancer Society and Cineworld teams to maximise coverage on all elements of the campaign, and to raise the profile of all parties involved. We also produced marketing materials and coordinated a social media campaign. Coverage included the Guardian G2, BBC World Service and Radio 4’s Midweek.</p>
                     </div>
                 </div>
             </div>

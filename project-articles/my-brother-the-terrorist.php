@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">My Brother the Terrorist</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,22 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/my-brother-the-terrorist-med.jpg 800w, 
+                                ../assets/images/projects/my-brother-the-terrorist-lrg.jpg"
+                            data-src="../assets/images/projects/my-brother-the-terrorist-med.jpg"
+                            src="../assets/images/projects/my-brother-the-terrorist-preview.jpg" 
+                            alt="Presenter/director Robb Leech interviews his brother who became a radical Muslim" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Production Company: GRACE Productions</h3>
+                        <h3 class="tpr-article-content__details">Channel: BBC Three</h3>
+                        <h3 class="tpr-article-content__details">Date: 04/2014</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
+                        
+                        <p class="tpr-article-content__paragraph">Filmmaker Robb Leech attempts to understand his stepbrother’s journey from middle-class boy to convicted terrorist.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        <p class="tpr-article-content__paragraph">The media campaign focused on filmmaker Robb Leech’s own personal journey and included an interview with him on BBC Breakfast as well as features in the Sunday Mirror and Sunday Times. There were comprehensive previews and reviews.</p>
                         
                     </div>
                 </div>

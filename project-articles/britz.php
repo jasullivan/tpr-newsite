@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">Britz</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,22 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/britz-med.jpg 800w, 
+                                ../assets/images/projects/britz-lrg.jpg"
+                            data-src="../assets/images/projects/britz-med.jpg"
+                            src="../assets/images/projects/britz-preview.jpg" 
+                            alt="Close-up of male lead Riz Ahmed" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Production Company: Daybreak Pictures</h3>
+                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
+                        <h3 class="tpr-article-content__details">Date: 06/2007&ndash;11/2007</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
+                        
+                        <p class="tpr-article-content__paragraph">Britz is a gripping two-part thriller about a young brother and sister, both British-born and Muslim, who are pulled in radically different directions by their conflicting personal experiences in post 9/11 Britain. Written and directed by the acclaimed Peter Kosminsky, the series starred Riz Ahmed and Majinder Virk.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        <p class="tpr-article-content__paragraph">Working with colleagues at Channel 4, tpr media was involved in a high-profile media campaign with coverage in print and online, TV and radio. There interviews with leads Riz Ahmed and Manjinder Virk as well as behind-the-scenes pieces with director Peter Kosminsky about his vision for the series. A key part of tpr media’s role was to tap in the topical debates about radicalisation in society today. A special screening of the film was organised for key commentators in this field.</p>
                         
                     </div>
                 </div>

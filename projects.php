@@ -41,10 +41,10 @@
                 <div class="gallery-nav gallery-nav-filter">
                     <button class="gallery-nav__button is-checked" data-filter="*">All</button>
                     <button class="gallery-nav__button" data-filter=".casestudies">Case Studies</button>
-                    <button class="gallery-nav__button" data-filter=".tvandfilm">TV & Film</button>
-                    <button class="gallery-nav__button" data-filter=".artsandculture">Arts & Culture</button>
+                    <button class="gallery-nav__button" data-filter=".tvandfilm">TV &amp; Film</button>
+                    <button class="gallery-nav__button" data-filter=".artsandculture">Arts &amp; Culture</button>
                     <button class="gallery-nav__button" data-filter=".technology">Technology</button>
-                    <button class="gallery-nav__button" data-filter=".awardsandfestivals">Awards & Festivals</button>
+                    <button class="gallery-nav__button" data-filter=".awardsandfestivals">Awards &amp; Festivals</button>
                     <button class="gallery-nav__button" data-filter=".socialimpact">Social Impact</button>
                 </div>
             </div>
@@ -223,7 +223,7 @@
                     alt="Female artist demonstrates how to upholster a chair to three onlookers" class="lazyload">
             </div>
             <div class="gallery-item tvandfilm">
-                <a href="project-articles/holocaust-night-will-fall" class="gallery-item__details">
+                <a href="project-articles/case-study-holocaust-night-will-fall" class="gallery-item__details">
                     <p>Case Study: Holocaust – Night Will Fall</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -231,7 +231,7 @@
                     alt="Close-up black and white picture of a soldier holding a film-camera from the 1940s" class="lazyload">
             </div>
             <div class="gallery-item casestudies tvandfilm socialimpact">
-                <a href="project-articles/james-rhodes" class="gallery-item__details">
+                <a href="project-articles/case-study-james-rhodes" class="gallery-item__details">
                     <p>Case Study: Don’t Stop The Music</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -248,14 +248,14 @@
             </div>
             <div class="gallery-item awardsandfestivals">
                 <a href="project-articles/andre-simon-awards" class="gallery-item__details">
-                    <p>André Simon Awards</p>
+                    <p>Andr&#233; Simon Awards</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
                 <img data-src="./assets/images/gallery/andre-simon-awards-thumbnail.jpg" src="./assets/images/gallery/andre-simon-awards-thumbnail-preview.jpg"
-                    alt="Celebrity Chef Jamie Oliver mingles with guests at the annual André Simon Awards" class="lazyload">
+                    alt="Celebrity Chef Jamie Oliver mingles with guests at the annual Andr&#233; Simon Awards" class="lazyload">
             </div>
             <div class="gallery-item artsandculture socialimpact">
-                <a href="project-articles/breathe-magic-camp" class="gallery-item__details">
+                <a href="project-articles/breathe-magic" class="gallery-item__details">
                     <p>Breathe Magic</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -287,7 +287,7 @@
                     alt="Presenter/director Robb Leech interviews his brother who became a radical Muslim" class="lazyload">
             </div>
             <div class="gallery-item casestudies tvandfilm socialimpact">
-                <a href="project-articles/the-undateables" class="gallery-item__details">
+                <a href="project-articles/case-study-the-undateables" class="gallery-item__details">
                     <p>Case Study: The Undateables</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -320,7 +320,7 @@
             </div>
             <div class="gallery-item tvandfilm">
                 <a href="project-articles/mum-and-dad-are-splitting-up" class="gallery-item__details">
-                    <p>Mum & Dad Are Splitting Up</p>
+                    <p>Mum &amp; Dad Are Splitting Up</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
                 <img data-src="./assets/images/gallery/mum-and-dad-are-splitting-up-thumbnail.jpg" src="./assets/images/gallery/mum-and-dad-are-splitting-up-thumbnail-preview.jpg"
@@ -359,7 +359,7 @@
                     alt="Graphic illustration in silhouette of a woman" class="lazyload">
             </div>
             <div class="gallery-item casestudies tvandfilm artsandculture">
-                <a href="project-articles/grayson-perry" class="gallery-item__details">
+                <a href="project-articles/case-study-grayson-perry" class="gallery-item__details">
                     <p>Case Study: All in the Best Possible Taste with Grayson Perry</p>
                     <div class="gallery-item--overlay"></div>
                 </a>
@@ -367,7 +367,7 @@
                     alt="Grayson Perry tapestry" class="lazyload">
             </div>
             <div class="gallery-item casestudies technology">
-                <a href="project-articles/artem-sfx" class="gallery-item__details">
+                <a href="project-articles/case-study-artem-sfx" class="gallery-item__details">
                     <p>Case Study: Artem SFX</p>
                     <div class="gallery-item--overlay"></div>
                 </a>

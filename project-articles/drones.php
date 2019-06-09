@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">Drones</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,22 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/drones-med.jpg 800w, 
+                                ../assets/images/projects/drones-lrg.jpg"
+                            data-src="../assets/images/projects/drones-med.jpg"
+                            src="../assets/images/projects/drones-preview.jpg" 
+                            alt="Father pushing children on swings" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Production Company: Whitewater Films and Khaos Digital</h3>
+                        <h3 class="tpr-article-content__details">Outlet: London Film Festival</h3>
+                        <h3 class="tpr-article-content__details">Date: 10/2013&ndash;11/2013</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
+                        
+                        <p class="tpr-article-content__paragraph">Drones is a gripping thriller by award-winning producer/director Rick Rosenthal that explores the complex issue of modern warfare. The drama presents an unflinching examination of the moral issues and collateral damage facing a U.S. military that relies ever more heavily on the use of unmanned drones to execute its strategies.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        <p class="tpr-article-content__paragraph">tpr media launched a targeted PR campaign to promote screenings of Drones at the London Film Festival, as well as build reputational PR for the film around the festival. Different angles were explored extensively with a view to placing arts-based as well as more issue-based pieces that would look at the ethical use of drones, tying in with recent media attention on drones in the UK. We also liaised closely with relevant NGOs such as Amnesty and Reprieve.</p>
                         
                     </div>
                 </div>

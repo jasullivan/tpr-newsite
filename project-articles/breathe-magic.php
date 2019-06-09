@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">Breathe Magic</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,24 +43,21 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/breathe-magic-camp-med.jpg 800w, 
+                                ../assets/images/projects/breathe-magic-camp-lrg.jpg"
+                            data-src="../assets/images/projects/breathe-magic-camp-med.jpg"
+                            src="../assets/images/projects/breathe-magic-camp-preview.jpg" 
+                            alt="A large group of children with magicians, including Dynamo, on stage" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Client: Breathe Arts Health Research</h3>
+                        <h3 class="tpr-article-content__details">Date: 07/2014&ndash;08/2014</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
+                        
+                        <p class="tpr-article-content__paragraph"> Breathe Arts Health Research have developed an award-winning programme using ‘magical therapy’ to transform the lives of children with hemiplegia – paralysis of one side of the body. During an innovative two-week ‘magic camp’ led by Magic Circle magicians working alongside occupational therapists and physiotherapists, the children are taught magic tricks as well as performance skills to improve motor skills and confidence.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
-                        
+                        <p class="tpr-article-content__paragraph"> tpr media’s campaign around the summer 2014 Breathe Magic Camp was designed to increase the reputational of Breathe Arts Health Research and create public awareness. This targeted campaign positioned Breathe as an innovative, effective and sustainable service with potential for expansion in the UK and beyond. Coverage highlights included BBC Breakfast, CBBC Newsround and features in the Guardian and Mail on Sunday.</p>
                     </div>
                 </div>
             </div>

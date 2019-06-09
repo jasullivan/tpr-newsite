@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">Case Study: All in the Best Possible Taste with Grayson Perry</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,23 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/grayson-perry-med.jpg 800w, 
+                                ../assets/images/projects/grayson-perry-lrg.jpg"
+                            data-src="../assets/images/projects/grayson-perry-med.jpg"
+                            src="../assets/images/projects/grayson-perry-preview.jpg" 
+                            alt="Grayson Perry tapestry" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Production Company: Seneca Productions</h3>
+                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
+                        <h3 class="tpr-article-content__details">Date: June 2012</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
-                        <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        
+                        <p class="tpr-article-content__paragraph">In this three-part series for Channel 4, Grayson Perry, one of Britain’s leading artists, and winner of the Turner Prize, explored the details of modern life, and the truths those details tell us about ourselves. The work that resulted was Perry’s notorious series of six imposing tapestries called ‘The Vanity of Small Differences’ – his personal but panoramic take on the taste of 21st century Britain.</p>
+
+                        <p class="tpr-article-content__paragraph">tpr media’s campaign around the series exceeded press targets, continuing to build in momentum as the series developed. Highlights include features in Sunday Times magazine, Radio Times and a picture-led Eyewitness profile by Charlotte Williamson in the Guardian. Grayson Perry appeared on Radio 4’s Start The Week, the series was reviewed on Saturday Review with Tom Sutcliffe and Perry authored pieces for i, The Times, The Sun and Royal Academy magazine. It also received overwhelmingly positive reviews in nationals and regionals.</p>
+                        
                         
                     </div>
                 </div>

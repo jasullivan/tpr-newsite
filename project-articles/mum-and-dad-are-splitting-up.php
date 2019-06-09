@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">Mum &amp; Dad Are Splitting Up</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,22 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/mum-and-dad-are-splitting-up-med.jpg 800w, 
+                                ../assets/images/projects/mum-and-dad-are-splitting-up-lrg.jpg"
+                            data-src="../assets/images/projects/mum-and-dad-are-splitting-up-med.jpg"
+                            src="../assets/images/projects/mum-and-dad-are-splitting-up-preview.jpg" 
+                            alt="Daughter sits in chair in foreground while parents sit on sofa in the background" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Production Company: Rare Day</h3>
+                        <h3 class="tpr-article-content__details">Channel: BBC Two</h3>
+                        <h3 class="tpr-article-content__details">Date:  08/2013&ndash;09/2013</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
+                        
+                        <p class="tpr-article-content__paragraph">With a third of British children living with only one biological parent, this simple but revealing film ventures into the heart of British family life to ask young people about their experience of their parents’ breakup.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        <p class="tpr-article-content__paragraph">tpr media targeted contacts across broadsheets, tabloids and broadcast to deliver a wide-ranging campaign with a broad appeal. Contributor-led features appeared in the Family Guardian and the Sun and there were blanket previews and reviews.</p>
                         
                     </div>
                 </div>

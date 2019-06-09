@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">The Year the Town Hall Shrank</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,23 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/the-year-the-town-hall-shrank-med.jpg 800w, 
+                                ../assets/images/projects/the-year-the-town-hall-shrank-lrg.jpg"
+                            data-src="../assets/images/projects/the-year-the-town-hall-shrank-med.jpg"
+                            src="../assets/images/projects/the-year-the-town-hall-shrank-preview.jpg" 
+                            alt="Close-up of female resident at old people’s home" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Production Company: Blast!</h3>
                         <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h3 class="tpr-article-content__details">Date: 10/2012&ndash;12/2012</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
+                        
+                        <p class="tpr-article-content__paragraph">The story of how Stoke-on-Trent council struggled to cope with the impact of the largest funding cuts to local government ever imposed by central government.</p>
+                        <h3 class="tpr-article-content__details">Awards: Grierson, Best Documentary Series</h3>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        <p class="tpr-article-content__paragraph">There were over 40 previews across listings magazines and nationals, including several Picks of the Day. Time Out gave it five stars and the Daily Mail gave it four. There were six national reviews. BBC Midlands Today ran a primetime news item on the eve of transmission. Director David Nath authored two pieces &ndash; a comment piece for the Independent and a feature for BBC Online.</p>
                         
                     </div>
                 </div>

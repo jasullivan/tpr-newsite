@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Bulding The Ancient City</h1>
+                <h1 class="tpr-blue-bar__content">Case Study: Artem SFX</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -43,23 +43,23 @@
                         <img 
                             data-sizes="auto"
                             data-srcset="
-                                ../assets/images/projects/building-the-ancient-city-med.jpg 800w, 
-                                ../assets/images/projects/building-the-ancient-city-lrg.jpg"
-                            data-src="../assets/images/projects/building-the-ancient-city-med.jpg"
-                            src="../assets/images/projects/building-the-ancient-city-preview.jpg" 
-                            alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
+                                ../assets/images/projects/artem-sfx-med.jpg 800w, 
+                                ../assets/images/projects/artem-sfx-lrg.jpg"
+                            data-src="../assets/images/projects/artem-sfx-med.jpg"
+                            src="../assets/images/projects/artem-sfx-preview.jpg" 
+                            alt="Two men dressed in Halo Masterchief costumes jumping with London landmarks in background" class="lazyload tpr-article-content__image"
                         >
-                        <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <h2 class="tpr-article-content__subtitle">About:</h2>  
+                        <h3 class="tpr-article-content__details">Award-winning special effects company</h3>
+                        <h3 class="tpr-article-content__details">Date: From 2012</h3>
+
                         
-                        <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
-                        how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a
-                        world without modern technology.</p>
-                        <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <p class="tpr-article-content__paragraph">tpr media created a targeted media campaign to tie in with transmission, securing a BBC online blog, a slot on BBC
-                        World Service’s Weekend Show and a podcast for BBC History Magazine as well as blanket previews.</p>
+                        
+                        <p class="tpr-article-content__paragraph">Artem is a UK-based special effects company at the forefront of physical builds and SFX over the last three decades. Today, with workshops in West London and in Glasgow, Artem continues to serve as a one-stop-shop for television, film and advertising alongside live events, exhibitions and retail display industries. The creative effects and innovative solutions team can provide props, atmospherics, prosthetics, models and miniatures, pyrotechnics, mechanical rigs, animatronics, special costume and huge media builds.</p>
+
+                        <p class="tpr-article-content__paragraph">tpr media has been working with Artem since 2012 when the company was contracted to provide a vast range of effects for the London Olympics opening and closing ceremonies, from giant puppet to a 50m inflatable octopus. Since then, we have worked to highlight the range of Artem’s work in trade media, alongside national, online, TV and radio.</p>
+
+                        <p class="tpr-article-content__paragraph">Coverage highlights have included a feature in the Mail on Sunday’s Event magazine, a video news story on the BBC News Entertainment & Arts site (‘How to blow up a car and other film special effects’), profile pieces in London-based publications, including the Evening Standard, Time Out and Stylist, and a cover story for 3D Digital.</p>
                         
                     </div>
                 </div>
