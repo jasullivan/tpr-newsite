@@ -21,44 +21,6 @@
 <body>
     <!-- navbar -->
     <?php include 'navigation.php'; ?>
-    <!-- <nav role="navigation" aria-label="Main navigation" class="navbar navbar-expand-lg navbar-light bg-white p-4 tpr-nav">
-        <a class="navbar-brand" href="index.html">
-            <img src="./assets/images/logos/logo.png" alt="tpr media logo">
-        </a>
-        <div class="tpr-nav__social-icons pt-5">
-            <span class="icon icon__twitter icon-issuu" aria-hidden="true"></span>
-            <span class="icon icon__twitter icon-Twitter-black" aria-hidden="true"></span>
-            <span class="icon icon__linkedin icon-LinkedIn-black" aria-hidden="true"></span>
-        </div>
-        <button class="navbar-toggler mt-5 mr-3" type="button" data-toggle="collapse" data-target="#navbarText"
-            aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="icon icon__hamburger icon-hamburger show" aria-hidden="true"></span>
-            <span class="icon icon__cross icon-cross hide" aria-hidden="true"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarText">
-            <hr>
-            <ul class="navbar-nav mr-auto pt-lg-5">
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 pl-lg-5 tpr-nav__link active" href="about.html">About</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="projects.html">Projects</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="clients.html">Clients</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="approach.html">Approach</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="news.html">News</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="tpr-nav__link" href="contact.html">Contact</a>
-                </li>
-            </ul>
-        </div>
-    </nav> -->
     <!-- navbar -->
     
     
@@ -73,7 +35,7 @@
     <!-- team gallery section -->
     <main class="container" role="main">
         <div class="row px-5 pt-5">
-            <div class="col-md-4">
+            <div class="col-md-4 px-2">
                 <div class="tpr-team-member" data-toggle="modal" data-target="#teammember-sophie">
                     <div class="tpr-team-member__overlay"></div>
                     <h2 class="tpr-team-member__name">Sophie Toumazis</h2>
@@ -81,7 +43,7 @@
                     <img src="./assets/images/team/portrait_sophie.jpg" alt="" class="tpr-team-member__picture">
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 px-2">
                 <div class="tpr-team-member" data-toggle="modal" data-target="#teammember-eleanor">
                     <div class="tpr-team-member__overlay"></div>
                     <h2 class="tpr-team-member__name">Eleanor Robertson</h2>
@@ -89,7 +51,7 @@
                     <img src="./assets/images/team/portrait_eleanor.jpg" alt="" class="tpr-team-member__picture">
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 px-2">
                 <div class="tpr-team-member" data-toggle="modal" data-target="#teammember-frankie">
                     <div class="tpr-team-member__overlay"></div>
                     <h2 class="tpr-team-member__name">Francesca Chater</h2>
@@ -99,7 +61,7 @@
             </div>
         </div>
         <div class="row tpr-team px-5 pb-3">
-            <div class="col-md-4 mr-auto">
+            <div class="col-md-4 mr-auto px-2">
                 <div class="tpr-team-member" data-toggle="modal" data-target="#teammember-hannah">
                     <div class="tpr-team-member__overlay"></div>
                     <h2 class="tpr-team-member__name">Hannah Maule-Finch</h2>

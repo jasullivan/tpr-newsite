@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Andr&#233; Simon Awards</h1>
+                <h1 class="tpr-blue-bar__title">Andr&#233; Simon Awards</h1>
             </div>
         </header>
         <!-- blue header bar -->

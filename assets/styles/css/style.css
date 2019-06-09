@@ -324,7 +324,7 @@ a:hover {
 
 .tpr-team-member {
   position: relative;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
   cursor: pointer;
   color: #fff; }
   .tpr-team-member:hover .tpr-team-member__overlay {

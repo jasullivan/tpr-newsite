@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">The Secret History of Our Streets</h1>
+                <h1 class="tpr-blue-bar__title">The Secret History of Our Streets</h1>
             </div>
         </header>
         <!-- blue header bar -->

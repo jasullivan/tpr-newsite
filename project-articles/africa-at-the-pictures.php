@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Africa at the Pictures</h1>
+                <h1 class="tpr-blue-bar__title">Africa at the Pictures</h1>
             </div>
         </header>
         <!-- blue header bar -->
