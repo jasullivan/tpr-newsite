@@ -23,7 +23,7 @@
 
 <body>
     <!-- navbar -->
-    <?php include 'sub-navigation.php'; ?>
+    <?php include '../sub-navigation.php'; ?>
     <!-- navbar -->
 
     <article>
@@ -71,7 +71,7 @@
     </article>
 
     <!-- footer -->
-    <?php include 'sub-footer.php'; ?>
+    <?php include '../sub-footer.php'; ?>
     <!-- footer -->
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
