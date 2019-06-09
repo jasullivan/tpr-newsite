@@ -41,8 +41,13 @@
                 <div class="col-9 mx-auto">
                     <div class="tpr-article-content">
 
-                        <img data-sizes="auto" data-src="../assets/images/news/holocaust-night-news.jpg" src="../assets/images/news/holocaust-night-news-preview.jpg"
-                            data-srcset="../assets/images/news/holocaust-night-news_400w.jpg 400w, ../assets/images/news/holocaust-night-news.jpg 800w"
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/holocaust-night-news_400w.jpg 400w, 
+                                ../assets/images/news/holocaust-night-news.jpg"
+                            data-src="../assets/images/news/holocaust-night-news.jpg" 
+                            src="../assets/images/news/holocaust-night-news-preview.jpg"
                             alt="Close-up black and white picture of a soldier holding a film-camera from the 1940s" class="lazyload tpr-article-content__image">
                     
                         <p class="tpr-article-content__paragraph">We've just returned from Sheffield Doc/Fest where we saw some inspiring films. These

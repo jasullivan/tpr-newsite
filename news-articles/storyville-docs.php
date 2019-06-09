@@ -43,10 +43,12 @@
                         <p class="tpr-article-content__paragraph">We're thrilled to be promoting two BBC Storyville documentaries this summer <a href="http://www.accidentalanarchist.net/" class="tpr-article-content__link" target="_blank" rel="nofollow noopener">Accidental Anarchist</a> (<a href="http://www.hopscotchfilms.co.uk/" class="tpr-article-content__link" target="_blank" rel="nofollow noopener">Hopscotch Films</a>) and <a href="https://www.outofthinairfilm.com/" class="tpr-article-content__link" target="_blank" rel="nofollow noopener">Out Of Thin Air</a> <a href="http://mosaicfilms.com/" class="tpr-article-content__link" target="_blank" rel="nofollow noopener">(Mosaic Films</a>). BBC Storyville consistently provides a window onto the world through its award-winning storytelling and both these documentaries fit the bill. For both campaigns, we will be using both traditional and non-traditional media to promote the films. From the Observer to Vice; Newsnight to The World Today with Tariq Ali.</p>
                         
                         <img 
-                            data-sizes="auto"
-                            data-src="../assets/images/news/accidental-anarchist-news.jpg"
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/accidental-anarchist-news_400w.jpg 400w, 
+                                ../assets/images/news/accidental-anarchist-news.jpg"
+                            data-src="../assets/images/news/accidental-anarchist-news.jpg" 
                             src="../assets/images/news/accidental-anarchist-news-preview.jpg"
-                            data-srcset="../assets/images/news/accidental-anarchist-news_400w.jpg 400w, ../assets/images/news/accidental-anarchist-news.jpg 800w"
                             alt="Presenter Carne Ross standing in front of an anarchist mural" class="lazyload tpr-article-content__image">
                     
                         <p class="tpr-article-content__paragraph"><a class="tpr-article-content__link" href="http://www.accidentalanarchist.net/" target="_blank" rel="nofollow  noopener">Accidental Anarchist</a> will be broadcast on the flagship BBC Four strand on Sunday 23 July. The documentary follows the remarkable story of Carne Ross from diplomat to anarchist and his discovery of a new form of politics for these turbulent times. Carne is described by John Le Carré as "a brave and original thinker and a man whose actions speak for his convictions".</p>
@@ -58,10 +60,12 @@
                         </p>
 
                         <img 
-                            data-sizes="auto"
-                            data-src="../assets/images/news/out-of-thin-air-news.jpg"
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/out-of-thin-air-news_400w.jpg 400w, 
+                                ../assets/images/news/out-of-thin-air-news.jpg"
+                            data-src="../assets/images/news/out-of-thin-air-news.jpg" 
                             src="../assets/images/news/out-of-thin-air-news-preview.jpg"
-                            data-srcset="../assets/images/news/out-of-thin-air-news_400w.jpg 400w, ../assets/images/news/out-of-thin-air-news.jpg 800w"
                             alt="Black and white reconstruction of Icelandic crime scene" class="lazyload tpr-article-content__image">
                     
                         <p class="tpr-article-content__tpr-article-content__paragraph"><a class="tpr-article-content__link" href="https://www.outofthinairfilm.com/" target="_blank" rel="nofollow noopener">Out

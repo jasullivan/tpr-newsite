@@ -45,17 +45,27 @@
 
                         <p class="tpr-article-content__paragraph">The app takes the user deep inside the Syria's cyber war, a conflict that has proven technology can be just as deadly as ground warfare. It's a ground-breaking project where investigative journalis is presented in a game format.</p>
 
-                        <img data-sizes="auto" data-src="../assets/images/news/aljezeera1-news.jpg" src="../assets/images/news/aljezeera1-news-preview.jpg"
-                            data-srcset="../assets/images/news/aljezeera1-news_400w.jpg 400w, ../assets/images/news/aljezeera1-news.jpg 800w"
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/aljezeera1-news_400w.jpg 400w, 
+                                ../assets/images/news/aljezeera1-news.jpg"
+                            data-src="../assets/images/news/aljezeera1-news.jpg" 
+                            src="../assets/images/news/aljezeera1-news-preview.jpg"
                             alt="Journalist and cameraman on rooftop conducting interview" class="lazyload tpr-article-content__image">
+
                         
                         <p class="tpr-article-content__paragraph">Just like the journalists who covered this story for Al Jazeera, the user is tasked with collecting as much information as possible in a limited amount of time by contacting activists, hackers an coders. In doing so, they face a number of decisions, including whether or not they should pay hackers for vital information, when they should go undercover online and whether they will allow interviewees to disguise thei identity to keep them safe. Most crucially, the players must avoid being hacked themselves. All hacks in the app, whether they involve avatars or blackmailers, are based on real hacks that have actually taken place during Syria's cyber war.</p>
 
                         <p class="tpr-article-content__paragraph">We've had an amazing time working alongside the creator of the app, award-winning senior Al Jazeera correspondent, Juliana Ruhfus. The project is based on a People &amp; Power documentary of the same name and is the follow-up to Ruhfus' ground-breaking and award-winning interactive investigation, Pirate Fishing. This innovative new project continues Al Jazeera English's quest to present its programming content in innovative ways to reaches new audiences.</p>
                         
-
-                        <img data-sizes="auto" data-src="../assets/images/news/aljezeera2-news.jpg" src="../assets/images/news/aljezeera2-news-preview.jpg"
-                            data-srcset="../assets/images/news/aljezeera2-news_400w.jpg 400w, ../assets/images/news/aljezeera2-news.jpg 800w"
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/aljezeera2-news_400w.jpg 400w, 
+                                ../assets/images/news/aljezeera2-news.jpg"
+                            data-src="../assets/images/news/aljezeera2-news.jpg" 
+                            src="../assets/images/news/aljezeera2-news-preview.jpg"
                             alt="Reporter standing with a cameraman" class="lazyload tpr-article-content__image">
 
                          <p class="tpr-article-content__paragraph">#HACKED: Syria's Electronic Armies is a web app scaled for use on mobile phones but can be played on all devices with an internet connection.</p>

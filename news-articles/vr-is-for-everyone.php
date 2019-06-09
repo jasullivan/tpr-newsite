@@ -45,20 +45,12 @@
 
                         <img 
                             data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/catherine-allen-news_400w.jpg 400w, 
+                                ../assets/images/news/catherine-allen-news.jpg"
                             data-src="../assets/images/news/catherine-allen-news.jpg" 
                             src="../assets/images/news/catherine-allen-news-preview.jpg"
-                            data-srcset="../assets/images/news/catherine-allen-news_400w.jpg 400w, ../assets/images/news/catherine-allen-news.jpg 800w"
-                            alt="Catherine Allen CEO Limina Immersive" 
-                            class="lazyload tpr-article-content__image">
-                        <!-- <img 
-                            data-sizes="auto"
-                            data-srcset="
-                                ../assets/images/projects/accidental-anarchist-med.jpg 800w, 
-                                ../assets/images/projects/accidental-anarchist-lrg.jpg"
-                            data-src="../assets/images/projects/accidental-anarchist-med.jpg"
-                            src="../assets/images/projects/accidental-anarchist-preview.jpg" 
-                            alt="Presenter Carne Ross standing in front of an anarchist mural" class="lazyload tpr-article-content__image"
-                        > -->
+                            alt="Catherine Allen CEO Limina Immersive" class="lazyload tpr-article-content__image">
                     
                         <p class="tpr-article-content__paragraph">Catherine's company, Limina Immersive, curates VR-only festivals at arts centres and cinemas throughout the UK, introducing the wider public to VR and unlocking this new medium's creative possibilities.</p>
                         <p class="tpr-article-content__paragraph">Highlights include I Saw The Future (Arte, François Vautier) in which Arthur C. Clarke, the co-writer of Stanley Kubrick's 2001: A Space Odyssey, reveals his vision of the future (it's scary how much he got right!) and Grenfell: Our Home (Parable, 59 Productions, Channel 4), an intimate portrait through the voices of its residents.</p>

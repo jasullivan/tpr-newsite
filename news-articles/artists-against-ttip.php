@@ -41,10 +41,15 @@
                 <div class="col-9 mx-auto">
                     <div class="tpr-article-content">
 
-                        <img data-sizes="auto" data-src="../../assets/images/news/artists-against-ttip-news.jpg" src="../../assets/images/news/artists-against-ttip-news-preview.jpg"
-                            data-srcset="../../assets/images/news/artists-against-ttip-news_400w.jpg 400w, ../../assets/images/news/artists-against-ttip-news.jpg 800w"
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/artists-against-ttip-news_400w.jpg 400w, 
+                                ../assets/images/news/artists-against-ttip-news.jpg"
+                            data-src="../assets/images/news/artists-against-ttip-news.jpg" 
+                            src="../assets/images/news/artists-against-ttip-news-preview.jpg"
                             alt="Artists against TTIP" class="lazyload tpr-article-content__image">
-                    
+                            
                         <p class="tpr-article-content__paragraph">At tpr, it's really important for us to work on projects that make a difference and we feel very lucky when we have the opportunity to share powerful messages that help to influence real political change.</p>
 
                         <p class="tpr-article-content__paragraph">Last year, for example, we worked on a multi-layered media campaign around classical pianist <a class="tpr-article-content__link" href="http://www.jamesrhodes.tv/" target="_blank" rel="nofollow noopener">James Rhodes</a>' two-part Channel 4 series <a class="tpr-article-content__link" href="https://youtu.be/ifarfrUviO4" target="_blank" rel="nofollow noopener">Don't Stop The Music</a>, which highlighted the decline of musical education in primary schools. Alongside <a class="tpr-article-content__link" href="http://www.theguardian.com/music/tomserviceblog/2014/oct/13/dont-stop-the-music-james-rhodes-instrument-amnesty" target="_blank" rel="nofollow noopener">a nationwide 'instrument amnesty'</a> in partnership with Oxfam shops across the country, we worked on a wider political campaign sparked by the project. This culminated in <a class="tpr-article-content__link" href="http://www.telegraph.co.uk/comment/letters/11246561/All-children-need-access-to-a-good-music-education.html" target="_blank" rel="nofollow noopener">an open letter</a> to the Government signed by over 25 highly respected names in music and education and <a class="tpr-article-content__link" href="https://www.change.org/p/the-government-must-deliver-the-promise-to-give-every-child-the-chance-to-learn-music" target="_blank" rel="nofollow noopener">a Change.org petition</a>, signed by over 75,000 member of the public. Interest was enormous and helped influence mainstream audiences, galvinising political opinion and debate. It was really exciting to be a part of this.</p>

@@ -43,8 +43,13 @@
                         <p class="tpr-article-content__paragraph">Last Tuesday evening the tpr team were involved in the screening of Fiona Murphy's new documentary-film, Remember Baghdad. This fascinating film tells the story of Iraq through the eyes of the last Jews of Baghdad, who lived there for 2,600 years until only a generation ago. With vivid home movies and footage from Iraq today, eight characters tell their remarkable story.</p>
                         <p class="tpr-article-content__paragraph">We held the event at the impressive Jewish community centre, JW3, where almost 300 people attended, including contributors with their families and friends, alongside representatives from the Iraqi Embassy. Just before the screening, journalists from Al Afaq Iraqi TV interviewed the director and key contributors.</p>
                         
-                        <img data-sizes="auto" data-src="../assets/images/news/remember-baghdad-news.jpg" src="../assets/images/news/remember-baghdad-news-preview.jpg"
-                            data-srcset="../assets/images/news/remember-baghdad-news_400w.jpg 400w, ../assets/images/news/remember-baghdad-news.jpg 800w"
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/remember-baghdad-news_400w.jpg 400w, 
+                                ../assets/images/news/remember-baghdad-news.jpg"
+                            data-src="../assets/images/news/remember-baghdad-news.jpg" 
+                            src="../assets/images/news/remember-baghdad-news-preview.jpg"
                             alt="Remember Baghdad" class="lazyload tpr-article-content__image">
 
                         <p class="tpr-article-content__paragraph">Roxane Farmanfarmaian, Cambridge professor of Political and International Studies and chair of the event, interviewed director Fiona Murphy and contributors David Dangoor and Edwin Shuker on stage. The Q&amp;A was opened up to the floor and everyone expressed how this film told an incredibly important story – including a member of the audience whose feedback was translated from Arabic – as a large proportion of the general public probably don't know that Christians, Muslims and Jews lived harmoniously in Baghdad until a generation ago. As one contributor said, "Jews, Muslims and Christians – we were all Iraqis – it was paradise".</p>

@@ -41,14 +41,17 @@
                 <div class="col-9 mx-auto">
                     <div class="tpr-article-content">
                         <p class="tpr-article-content__paragraph">Last Thursday night we had a great evening at the <a class="tpr-article-content__link" href="http://www.thegoring.com/" target="_blank" rel="nofollow noopener">Goring Hotel</a> celebrating the <a class="tpr-article-content__link" href="http://www.andresimon.co.uk/" target="_blank" rel="nofollow noopener">André Simon Food &amp; Drink Book Awards</a>, which <a class="tpr-article-content__link" href="http://www.countryandtownhouse.co.uk/features/andre-simon-jamie-oliver/" target="_blank" rel="nofollow noopener">showcase the best of contemporary food and drink writing</a>.</p>
-                        
+
+
                         <img 
                             data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/andre-simon-2018-news-2_400w.jpg 400w, 
+                                ../assets/images/news/andre-simon-2018-news-2.jpg"
                             data-src="../assets/images/news/andre-simon-2018-news-2.jpg" 
-                            src="../assets/images/news/andre-simon-2018-news-2-preview.jpg" 
-                            data-srcset="../assets/images/news/andre-simon-2018-news-2_400w.jpg 400w, ../assets/images/news/andre-simon-2018-news-2.jpg 800w" 
-                            alt="Jamie Oliver at Andre Simon Awards" 
-                            class="lazyload tpr-article-content__image">
+                            src="../assets/images/news/andre-simon-2018-news-2-preview.jpg"
+                            alt="Jamie Oliver at Andre Simon Awards" class="lazyload tpr-article-content__image">
+                        
                         
                         <p class="tpr-article-content__paragraph"><a class="tpr-article-content__link" href="https://twitter.com/jamieoliver"
                                 target="_blank" rel="nofollow noopener">Jamie Oliver</a> was among the winners, scooping the prestigious
@@ -73,9 +76,15 @@
                                 target="_blank" rel="nofollow noopener">Anna Jones</a>, a graduate of Jamie's <a class="tpr-article-content__link"
                                 href="https://www.jamieoliver.com/the-fifteen-apprentice-programme/home" target="_blank" rel="nofollow noopener">Fifteen
                                 restaurant programme</a>.</p>
+                          
                                 
-                       <img data-sizes="auto" data-src="../assets/images/news/andre-simon-2018-news-3.jpg" src="../assets/images/news/andre-simon-2018-news-3-preview.jpg"
-                            data-srcset="../assets/images/news/andre-simon-2018-news-3_400w.jpg 400w, ../assets/images/news/andre-simon-2018-news-3.jpg 800w"
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/andre-simon-2018-news-3_400w.jpg 400w, 
+                                ../assets/images/news/andre-simon-2018-news-3.jpg"
+                            data-src="../assets/images/news/andre-simon-2018-news-3.jpg" 
+                            src="../assets/images/news/andre-simon-2018-news-3-preview.jpg"
                             alt="Jamie Oliver at Andre Simon Awards" class="lazyload tpr-article-content__image">
                         
                         <p class="tpr-article-content__paragraph">Blogger and author <a class="tpr-article-content__link" href="https://twitter.com/racheleats"
@@ -91,9 +100,15 @@
                             yourself, you might like to check out <a class="tpr-article-content__link" href="http://www.theguardian.com/lifeandstyle/2016/feb/02/ragu-alla-bolognese-recipe-rachel-roddy-kitchen-sink-tales"
                                 target="_blank" rel="nofollow noopener">this recent feature in the Guardian</a>.</p>
 
-                        <img data-sizes="auto" data-src="../assets/images/news/andre-simon-2018-news-4.jpg" src="../assets/images/news/andre-simon-2018-news-4-preview.jpg"
-                            data-srcset="../assets/images/news/andre-simon-2018-news-4_400w.jpg 400w, ../assets/images/news/andre-simon-2018-news-4.jpg 800w"
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/andre-simon-2018-news-4_400w.jpg 400w, 
+                                ../assets/images/news/andre-simon-2018-news-4.jpg"
+                            data-src="../assets/images/news/andre-simon-2018-news-4.jpg" 
+                            src="../assets/images/news/andre-simon-2018-news-4-preview.jpg"
                             alt="Rachel Roddy at Andre Simon Awards" class="lazyload tpr-article-content__image">
+
                         
                         <p class="tpr-article-content__paragraph">Meanwhile, investigative journalist <a class="tpr-article-content__link"
                                 href="https://twitter.com/smustacich" target="_blank" rel="nofollow noopener">Suzanne Mustacich</a> won
@@ -105,9 +120,14 @@
                             eloquent style and fascinating cultural analysis – a real life thriller. You can catch Suzanne speaking about
                             Thirsty Dragon on <a class="tpr-article-content__link" href="http://www.bbc.co.uk/programmes/b006qtl3" target="_blank"
                                 rel="nofollow noopener">BBC Radio 4's The World Tonight</a> this Friday.</p>
-                            
-                        <img data-sizes="auto" data-src="../assets/images/news/andre-simon-2018-news-5.jpg" src="../assets/images/news/andre-simon-2018-news-5-preview.jpg"
-                            data-srcset="../assets/images/news/andre-simon-2018-news-5_400w.jpg 400w, ../assets/images/news/andre-simon-2018-news-5.jpg 800w"
+                                
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/andre-simon-2018-news-5_400w.jpg 400w, 
+                                ../assets/images/news/andre-simon-2018-news-5.jpg"
+                            data-src="../assets/images/news/andre-simon-2018-news-5.jpg" 
+                            src="../assets/images/news/andre-simon-2018-news-5-preview.jpg"
                             alt="Suzanne Mustacich at Andre Simon Awards" class="lazyload tpr-article-content__image">
                         
                         <p class="tpr-article-content__paragraph"><a class="tpr-article-content__link" href="https://www.harpercollins.co.uk/9780007549702/first-bite"
@@ -119,8 +139,13 @@
                             from food psychologists, neuroscientists and nutritionists to reveal how our food habits are shaped by family,
                             culture, memory, gender, hunger and love.</p>
 
-                        <img data-sizes="auto" data-src="../assets/images/news/andre-simon-2018-news-6.jpg" src="../assets/images/news/andre-simon-2018-news-6-preview.jpg"
-                            data-srcset="../assets/images/news/andre-simon-2018-news-6_400w.jpg 400w, ../assets/images/news/andre-simon-2018-news-6.jpg 800w"
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/andre-simon-2018-news-6_400w.jpg 400w, 
+                                ../assets/images/news/andre-simon-2018-news-6.jpg"
+                            data-src="../assets/images/news/andre-simon-2018-news-6.jpg" 
+                            src="../assets/images/news/andre-simon-2018-news-6-preview.jpg"
                             alt="Bee Wilson at Andre Simon Awards" class="lazyload tpr-article-content__image">
                         
                         <p class="tpr-article-content__paragraph">This year's shortlisted authors – selected from over 150 entries – also

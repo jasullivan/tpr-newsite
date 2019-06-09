@@ -41,8 +41,13 @@
                 <div class="col-9 mx-auto">
                     <div class="tpr-article-content">
 
-                        <img data-sizes="auto" data-src="../assets/images/news/last-whites-of-eastend-news.jpg" src="../assets/images/news/last-whites-of-eastend-news-preview.jpg"
-                            data-srcset="../assets/images/news/last-whites-of-eastend-news_400w.jpg 400w, ../assets/images/news/last-whites-of-eastend-news.jpg 800w"
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/last-whites-of-eastend-news_400w.jpg 400w, 
+                                ../assets/images/news/last-whites-of-eastend-news.jpg"
+                            data-src="../assets/images/news/last-whites-of-eastend-news.jpg" 
+                            src="../assets/images/news/last-whites-of-eastend-news-preview.jpg"
                             alt="Close-up of Peter Bell, Manager of East Ham Working Men’s Club" class="lazyload tpr-article-content__image">
 
                         <p class="tpr-article-content__paragraph"> In the usual heady rush of TV scheduling, we were contacted at the last minute a few

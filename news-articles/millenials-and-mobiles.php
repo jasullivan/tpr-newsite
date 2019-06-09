@@ -42,8 +42,13 @@
                 <div class="col-9 mx-auto">
                     <div class="tpr-article-content">
 
-                        <img data-sizes="auto" data-src="../assets/images/news/millenials-news.jpg" src="../assets/images/news/millenials-news-preview.jpg"
-                            data-srcset="../assets/images/news/millenials-news_400w.jpg 400w, ../assets/images/news/millenials-news.jpg 800w"
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/millenials-news_400w.jpg 400w, 
+                                ../assets/images/news/millenials-news.jpg"
+                            data-src="../assets/images/news/millenials-news.jpg" 
+                            src="../assets/images/news/millenials-news-preview.jpg"
                             alt="Newstag: News website" class="lazyload tpr-article-content__image">
                         
                         <p class="tpr-article-content__paragraph">This week we're celebrating our client <a class="tpr-article-content__link" href="http://www.newstag.com/" target="_blank" rel="nofollow noopener">Newstag</a>'s success at the 2015 <a class="tpr-article-content__link" href="http://dma.wan-ifra.org/" target="_blank" rel="nofollow noopener">Asian Digital Media Awards</a> in Hong Kong. The video news platform clinched an award for 'Best News Website', and we couldn't be prouder.</p>
