@@ -39,7 +39,7 @@
         <div class="container">
         
             <div class="row">
-                <div class="col-9 mx-auto">
+                <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
 
                         <img 

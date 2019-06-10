@@ -38,7 +38,7 @@
         <!-- article content -->
         <div class="container">
             <div class="row">
-                <div class="col-9 mx-auto">
+                <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
                         <p class="tpr-article-content__paragraph">Last Tuesday evening the tpr team were involved in the screening of Fiona Murphy's new documentary-film, Remember Baghdad. This fascinating film tells the story of Iraq through the eyes of the last Jews of Baghdad, who lived there for 2,600 years until only a generation ago. With vivid home movies and footage from Iraq today, eight characters tell their remarkable story.</p>
                         <p class="tpr-article-content__paragraph">We held the event at the impressive Jewish community centre, JW3, where almost 300 people attended, including contributors with their families and friends, alongside representatives from the Iraqi Embassy. Just before the screening, journalists from Al Afaq Iraqi TV interviewed the director and key contributors.</p>

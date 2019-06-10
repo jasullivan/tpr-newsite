@@ -38,7 +38,7 @@
         <!-- article content -->
         <div class="container">
             <div class="row">
-                <div class="col-9 mx-auto">
+                <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
                         <p class="tpr-article-content__paragraph">A new two-part observational documentary series starting on Thursday, 9 February at 9pm on More4.</p>
 

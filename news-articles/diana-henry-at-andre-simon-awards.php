@@ -39,7 +39,7 @@
         <!-- article content -->
         <div class="container">
             <div class="row">
-                <div class="col-9 mx-auto">
+                <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
                         <p class="tpr-article-content__paragraph">The Hubb Community Kitchen, a group of West London women whose community was affected by the Grenfell Tower fire, won a prestigious award for their book Together: Our Community Cookbook at the André Simon Food &amp; Drink Book Awards 2018 onTuesday 5 February, at the Goring Hotel in London.</p>
                         <p class="tpr-article-content__paragraph">Contributors of Together received a Special Commendation at the awards, which showcase the best of contemporary food and drink writing and are now in their 40th year. Other authors recognised this year include one of the UK's most respected food writers, Diana Henry, whose How to Eat a Peach: Menus, Stories and Places won the Food Award; Rajat Parr and Jordan Mackay, who won the Drink Award for The Sommelier's Atlas of Taste: A Field Guide to the Great Wines of Europe; and Caroline Eden, whose book Black Sea: Dispatches and Recipes – Through Darkness and Light won the John Avery Award.</p>

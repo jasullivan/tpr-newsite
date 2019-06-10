@@ -39,7 +39,7 @@
         <!-- article content -->
         <div class="container">
             <div class="row">
-                <div class="col-9 mx-auto">
+                <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
                         <p class="tpr-article-content__paragraph">In the lead up to Al Jazeera English's 10th anniversary, we've been involved in the exciting launch of their new web-based app #HACKED: Syria's Electronic Armies.</p>
 

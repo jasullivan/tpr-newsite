@@ -19,44 +19,6 @@
 <body>
     <!-- navbar -->
     <?php include 'navigation.php'; ?>
-    <!-- <nav role="navigation" aria-label="Main navigation" class="navbar navbar-expand-lg navbar-light bg-white p-4 tpr-nav">
-        <a class="navbar-brand" href="index.html">
-            <img src="./assets/images/logos/logo.png" alt="tpr media logo">
-        </a>
-        <div class="tpr-nav__social-icons pt-5">
-            <span class="icon icon__twitter icon-issuu" aria-hidden="true"></span>
-            <span class="icon icon__twitter icon-Twitter-black" aria-hidden="true"></span>
-            <span class="icon icon__linkedin icon-LinkedIn-black" aria-hidden="true"></span>
-        </div>
-        <button class="navbar-toggler mt-5 mr-3" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText"
-            aria-expanded="false" aria-label="Toggle navigation">
-            <span class="icon icon__hamburger icon-hamburger show" aria-hidden="true"></span>
-            <span class="icon icon__cross icon-cross hide" aria-hidden="true"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarText">
-            <hr>
-            <ul class="navbar-nav mr-auto pt-lg-5">
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 pl-lg-5 tpr-nav__link" href="about.html">About</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="projects.html">Projects</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="clients.html">Clients</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="approach.html">Approach</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="pr-lg-5 tpr-nav__link" href="news.html">News</a>
-                </li>
-                <li class="nav-item text-center">
-                    <a class="tpr-nav__link" href="contact.html">Contact</a>
-                </li>
-            </ul>
-        </div>
-    </nav> -->
     <!-- navbar -->
 
     <!-- carousel (bootstrap component)-->
@@ -76,9 +38,9 @@
                     </div>
                 </section>
                 <section class="carousel-item">
-                    <a href="projects/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/andre-simon-awards-slider.jpg" class="d-block w-100 lazyload" alt="Celebrity Chef Jamie Oliver mingles with guests at the annual André Simon Awards"></a>
+                    <a href="projects/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/andre-simon-awards-slider.jpg" class="d-block w-100 lazyload" alt="Celebrity Chef Jamie Oliver mingles with guests at the annual Andr&#233; Simon Awards"></a>
                     <div class="carousel-caption">
-                        <h2>Andre Simon Awards</h2>
+                        <h2>Andr&#233; Simon Awards</h2>
                     </div>
                 </section>
                 <section class="carousel-item">

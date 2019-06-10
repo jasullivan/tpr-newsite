@@ -38,7 +38,7 @@
         <!-- article content -->
         <div class="container">
             <div class="row">
-                <div class="col-9 mx-auto">
+                <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
                         <p class="tpr-article-content__paragraph">We're thrilled to be promoting two BBC Storyville documentaries this summer <a href="http://www.accidentalanarchist.net/" class="tpr-article-content__link" target="_blank" rel="nofollow noopener">Accidental Anarchist</a> (<a href="http://www.hopscotchfilms.co.uk/" class="tpr-article-content__link" target="_blank" rel="nofollow noopener">Hopscotch Films</a>) and <a href="https://www.outofthinairfilm.com/" class="tpr-article-content__link" target="_blank" rel="nofollow noopener">Out Of Thin Air</a> <a href="http://mosaicfilms.com/" class="tpr-article-content__link" target="_blank" rel="nofollow noopener">(Mosaic Films</a>). BBC Storyville consistently provides a window onto the world through its award-winning storytelling and both these documentaries fit the bill. For both campaigns, we will be using both traditional and non-traditional media to promote the films. From the Observer to Vice; Newsnight to The World Today with Tariq Ali.</p>
                         

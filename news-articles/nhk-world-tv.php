@@ -39,7 +39,7 @@
         <!-- article content -->
         <div class="container">
             <div class="row">
-                <div class="col-9 mx-auto">
+                <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
                         <p class="tpr-article-content__paragraph">Last Thursday night we had a great evening at the <a class="tpr-article-content__link" href="http://www.thegoring.com/" target="_blank" rel="nofollow noopener">Goring Hotel</a> celebrating the <a class="tpr-article-content__link" href="http://www.andresimon.co.uk/" target="_blank" rel="nofollow noopener">André Simon Food &amp; Drink Book Awards</a>, which <a class="tpr-article-content__link" href="http://www.countryandtownhouse.co.uk/features/andre-simon-jamie-oliver/" target="_blank" rel="nofollow noopener">showcase the best of contemporary food and drink writing</a>.</p>
                         

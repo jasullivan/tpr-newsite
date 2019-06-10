@@ -38,7 +38,7 @@
         <!-- article content -->
         <div class="container">
             <div class="row">
-                <div class="col-9 mx-auto">
+                <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
                         <p class="tpr-article-content__paragraph">We've just returned from Sheffield Doc/Fest where we saw some inspiring films. These included Michael Moore's witty and insightful Where to Invade Next and Kirsten Johnson's Cameraperson, which deservingly won the festival's grand prize.</p>
                         <p class="tpr-article-content__paragraph">It was great to be contacted last week by Catherine Allen, a BAFTA-winning immersive media specialist and founder of <a class="tpr-article-content__link" href="http://www.liminaimmersive.com" target="_blank" rel="nofollow noopener">Limina Immersive</a>. She approached tpr media to promote an exciting VR-only arts festival, <a class="tpr-article-content__link" href="https://spotlight.picturehouses.com/uncategorised/limina-vr-weekender-at-picturehouse-central/" target="_blank" rel="nofollow noopener">Limina VR Weekender</a>, which is taking place at <a class="tpr-article-content__link" href="https://spotlight.picturehouses.com/uncategorised/limina-vr-weekender-at-picturehouse-central/" target="_blank" rel="nofollow noopener">Picturehouse Central</a> this weekend (1&amp;2 December 2018).</p>
