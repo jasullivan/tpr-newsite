@@ -26,67 +26,67 @@
         <div id="tpr-carousel" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <section class="carousel-item active">
-                    <a href="projects/case-study-out-of-thin-air.html"><img src="./assets/images/slider/Artem-sfx-slider.jpg" class="d-block w-100 lazyload" alt="Artem: Two men dressed in Halo Masterchief costumes jumping with London landmarks in background"></a>
+                    <a href="project-articles/case-study-out-of-thin-air.html"><img src="./assets/images/slider/Artem-sfx-slider.jpg" class="d-block w-100 lazyload" alt="Artem: Two men dressed in Halo Masterchief costumes jumping with London landmarks in background"></a>
                     <div class="carousel-caption">
                         <h2>Artem</h2>
                     </div>
                 </section>
                 <section class="carousel-item">
-                    <a href="projects/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/Out-of-Thin-Air-slider.jpg" class="d-block w-100 lazyload" alt="Out of Thin Air: Black and white reconstruction of Icelandic crime scene"></a>
+                    <a href="project-articles/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/Out-of-Thin-Air-slider.jpg" class="d-block w-100 lazyload" alt="Out of Thin Air: Black and white reconstruction of Icelandic crime scene"></a>
                     <div class="carousel-caption">
                         <h2>Out of thin air</h2>
                     </div>
                 </section>
                 <section class="carousel-item">
-                    <a href="projects/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/andre-simon-awards-slider.jpg" class="d-block w-100 lazyload" alt="Celebrity Chef Jamie Oliver mingles with guests at the annual Andr&#233; Simon Awards"></a>
+                    <a href="project-articles/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/andre-simon-awards-slider.jpg" class="d-block w-100 lazyload" alt="Celebrity Chef Jamie Oliver mingles with guests at the annual Andr&#233; Simon Awards"></a>
                     <div class="carousel-caption">
                         <h2>Andr&#233; Simon Awards</h2>
                     </div>
                 </section>
                 <section class="carousel-item">
-                    <a href="projects/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/Grayson-Perry-slider.jpg" class="d-block w-100 lazyload" alt="Grayson Perry tapestry">
+                    <a href="project-articles/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/Grayson-Perry-slider.jpg" class="d-block w-100 lazyload" alt="Grayson Perry tapestry">
                     <div class="carousel-caption"></a>
                         <h2>All In The Best Possible Taste with Grayson Perry</h2>
                     </div>
                 </section>
                 <section class="carousel-item">
-                    <a href="projects/inside-dior.html"><img data-src="./assets/images/slider/inside-dior-slider.jpg" class="d-block w-100 lazyload" alt="Inside Dior: Supermodel Bella Hadid on catwalk with other models"></a>
+                    <a href="project-articles/inside-dior.html"><img data-src="./assets/images/slider/inside-dior-slider.jpg" class="d-block w-100 lazyload" alt="Inside Dior: Supermodel Bella Hadid on catwalk with other models"></a>
                     <div class="carousel-caption">
                         <h2>Inside Dior</h2>
                     </div>
                 </section>
                 <section class="carousel-item">
-                    <a href="projects/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/My-Brother-The-Terrorist-slider.jpg" class="d-block w-100 lazyload" alt="My Brother the Terrorist: Presenter/director Robb Leech with film camera interviews his brother who became a radical Muslim, both are seated"></a>
+                    <a href="project-articles/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/My-Brother-The-Terrorist-slider.jpg" class="d-block w-100 lazyload" alt="My Brother the Terrorist: Presenter/director Robb Leech with film camera interviews his brother who became a radical Muslim, both are seated"></a>
                     <div class="carousel-caption">
                         <h2>My Brother the Terrorist</h2>
                     </div>
                 </section>
                 <section class="carousel-item">
-                    <a href="projects/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/no-fire-zone-slider.jpg" class="d-block w-100 lazyload" alt="The Night Manager: Lead cast members of the Night Manager in luxury setting"></a>
+                    <a href="project-articles/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/no-fire-zone-slider.jpg" class="d-block w-100 lazyload" alt="The Night Manager: Lead cast members of the Night Manager in luxury setting"></a>
                     <div class="carousel-caption">
                         <h2>No Fire Zone: The Killing Fields of Sri Lanka</h2>
                     </div>
                 </section>
                 <section class="carousel-item">
-                    <a href="projects/case-study-tales-of-grim-sleeper.html"><img data-src="./assets/images/slider/tales-of-grim-sleeper-slider.jpg" class="d-block w-100 lazyload" alt="Tales of the Grim Sleeper: Director Nick Broomfield (left) with headphones and contributor Pam in foreground driving a car"></a>
+                    <a href="project-articles/case-study-tales-of-grim-sleeper.html"><img data-src="./assets/images/slider/tales-of-grim-sleeper-slider.jpg" class="d-block w-100 lazyload" alt="Tales of the Grim Sleeper: Director Nick Broomfield (left) with headphones and contributor Pam in foreground driving a car"></a>
                     <div class="carousel-caption">
                         <h2>Tales of the Grim Sleeper</h2>
                     </div>
                 </section>
                 <section class="carousel-item">
-                    <a href="projects/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/the-undatables-slider.jpg" class="d-block w-100 lazyload" alt="Undateables: Eight contributors of Undateables series one"></a>
+                    <a href="project-articles/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/the-undatables-slider.jpg" class="d-block w-100 lazyload" alt="Undateables: Eight contributors of Undateables series one"></a>
                     <div class="carousel-caption">
                         <h2>The Undateables</h2>
                     </div>
                 </section>
                 <section class="carousel-item">
-                    <a href="projects/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/the-year-the-town-hall-shrank-slider.jpg" class="d-block w-100 lazyload" alt="The Year the Town Hall Shrank: Close-up of female resident at old people’s home"></a>
+                    <a href="project-articles/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/the-year-the-town-hall-shrank-slider.jpg" class="d-block w-100 lazyload" alt="The Year the Town Hall Shrank: Close-up of female resident at old people’s home"></a>
                     <div class="carousel-caption">
                         <h2>The Year the Town Hall Shrank</h2>
                     </div>
                 </section>
                 <section class="carousel-item">
-                    <a href="projects/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/Top-Boy-slider.jpg" class="d-block w-100 lazyload" alt="Top Boy: Four Top Boy cast members including Ashley Walters and Kane Robinson on an urban rooftop with a dog"></a>
+                    <a href="project-articles/case-study-out-of-thin-air.html"><img data-src="./assets/images/slider/Top-Boy-slider.jpg" class="d-block w-100 lazyload" alt="Top Boy: Four Top Boy cast members including Ashley Walters and Kane Robinson on an urban rooftop with a dog"></a>
                     <div class="carousel-caption">
                         <h2>Top Boy</h2>
                     </div>
@@ -112,6 +112,31 @@
 
     <!-- footer -->
     <?php include 'footer.php'; ?>
+    <!-- <footer class="container-fluid px-0">
+        <div class="row bg-dark m-0">
+            <div class="container">
+                <div class="row">
+                    <div class="order-md-2 col-12 col-md-6 col-lg-4">
+                        <div class="tpr-footer p-5 text-center">
+                            <div class="tpr-footer__content">
+                                <img src="./assets/images/logos/logo_white.png" alt="" class="tpr-footer__logo-main">
+                                <p class="text-center px-5 pt-3">Highgate, London</p>
+                                <a href="tel:4402083477020" class="text-center tpr-footer__tel-link">+44 0208 347 7020</a>
+                                <h4 class="pt-5">tpr media consultants</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="order-md-1 col-12 col-md-3 col-lg-4">
+                        <div class="tpr-footer p-5">
+                            <div class="tpr-footer__content--left">
+                                <img src="./assets/images/logos/cipr_small.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer> -->
     <!-- footer -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"

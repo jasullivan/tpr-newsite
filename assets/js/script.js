@@ -16,11 +16,11 @@
 /*******************************
 // mob nav button
 *******************************/
-const navButton = document.querySelector(".navbar-toggler");
-const hamburger = document.querySelector(".icon-hamburger");
-const cross = document.querySelector(".icon-cross");
+var navButton = document.querySelector(".navbar-toggler");
+var hamburger = document.querySelector(".icon-hamburger");
+var cross = document.querySelector(".icon-cross");
 
-navButton.addEventListener("click", () => {
+navButton.addEventListener("click", function() {
     if (hamburger.classList.contains("show")) {
         hamburger.classList.add("hide");
         hamburger.classList.remove("show");
