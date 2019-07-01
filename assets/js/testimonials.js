@@ -2,15 +2,16 @@
 // TESTIMONIALS
 ********************************/
 $(document).ready(function () {
-    $('.testimonials').slick({
-        autoplay: true,
-        slidesToShow: 1,
-        autoplaySpeed: 10000,
-        fade: true,
+    $(".testimonials").slick({
         dots: false,
+        infinite: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 8000,
+        fade: true,
         arrows: false,
-        // adaptiveHeight: true,
-        infinite: true
+        adaptiveHeight: true
     });
 });
 

@@ -367,27 +367,16 @@ a:hover {
 .testimonial-wrapper {
   background: #E9E9E9;
   width: 100%; }
-
-.testimonials {
-  width: 90%;
-  margin: 0 auto;
-  transition: height 0.4s linear; }
-
-.testimonial {
-  vertical-align: middle;
-  text-align: center;
-  font-size: 2rem; }
-  .testimonial span {
-    color: #007397; }
-
-.height-200 {
-  height: 200px; }
-
-.height-300 {
-  height: 300px; }
-
-.height-400 {
-  height: 400px; }
+  .testimonial-wrapper .testimonials {
+    width: 90%;
+    margin: 0 auto; }
+    .testimonial-wrapper .testimonials p {
+      vertical-align: middle;
+      text-align: center;
+      transition: height 0.4s linear;
+      font-size: 2rem; }
+      .testimonial-wrapper .testimonials p span {
+        color: #007397; }
 
 ul.nav-about a.nav-about, ul.nav-approach a.nav-approach, ul.nav-clients a.nav-clients, ul.nav-contact a.nav-contact, ul.nav-projects a.nav-projects, ul.nav-news a.nav-news {
   color: #92d4e9; }
