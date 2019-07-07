@@ -13,6 +13,21 @@ $(document).ready(function () {
         arrows: false,
         adaptiveHeight: true
     });
+    $(".regular").slick({
+        // lazyLoad: 'ondemand',
+        dots: false,
+        infinite: true,
+        // adaptiveHeight: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        fade: true,
+        cssEase: 'linear',
+        speed: 1000,
+        autoplaySpeed: 5000,
+        nextArrow: '<span class="icon-arrowRight slickJ-next"></span>',
+        prevArrow: '<span class="icon-arrowLeft slickJ-prev"></span>',
+    });
 });
 
 

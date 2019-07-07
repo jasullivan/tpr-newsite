@@ -22,10 +22,12 @@
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
 </head>
 <body>
+ 
     <!-- navbar -->
     <?php include 'navigation.php'; ?>
     <!-- navbar -->
 
+   
     <!-- blue header bar -->
     <div class="container-fluid pt-4">
         <div class="tpr-blue-bar">
@@ -34,7 +36,7 @@
         </div>  
     </div>
     <!-- blue header bar -->
-    
+    <div class="fadeLoad">
     <!-- MAIN (Center website) -->
     <div class="container">
         <div class="row px-md-5 pt-5">
@@ -467,7 +469,7 @@
     <!-- footer -->
     <?php include 'footer.php'; ?>
     <!-- footer -->
-
+    </div>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
@@ -477,9 +479,9 @@
     <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
     <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
-
     <script src="./assets/js/testimonials.js"></script>
     <script src="./assets/js/script.js"></script>
+    <script src="./assets/js/isotope-script.js"></script>
 
 </body>
 </html>

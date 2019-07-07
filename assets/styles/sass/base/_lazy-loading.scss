@@ -17,10 +17,10 @@ picture.progressive img {
   height: auto;
   border: 0 none;
 }
-picture.progressive img.preview {
+// picture.progressive img.preview {
     // filter: blur(2vw);
     // transform: scale(1.05);
-}
+// }
 picture.progressive img.filter-item {
   filter: blur(2vw);
 }
