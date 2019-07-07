@@ -14,102 +14,9 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
         crossorigin="anonymous">
     <script src="./assets/js/lazysizes.min.js"></script>
-    <link rel="stylesheet" type="text/css" media="screen" href="./assets/styles/css/style.css" />
     <link rel="stylesheet" type="text/css" href="./assets/styles/css/slick.css">
     <link rel="stylesheet" type="text/css" href="./assets/styles/css/slick-theme.css">
-
-
-
-    <style type="text/css">
-        .slider {
-            width: 100%;
-            max-width: 1200px;
-            margin: 20px auto 15px;
-            text-align: center;
-        }
-        .autoHeight div {
-            width: 90%;
-            margin:  0 auto;
-        }
-        .slick-slide {
-            margin: 0px 10px;
-        }
-    
-        .slick-slide img {
-            width: 100%;
-        }
-    
-        .slick-slide h2 {
-            color: #fff;
-            font-size: 2rem;
-            position: absolute;
-            bottom: 10px;
-            left: 20px;
-            z-index: 1000;
-        }
-        .slick-prev:before,
-        .slick-next:before {
-            color: black;
-        }
-    
-    
-        .slick-slide {
-            transition: all ease-in-out .3s;
-            opacity: .2;
-        }
-    
-        .slick-active {
-            opacity: .5;
-        }
-    
-        .slick-current {
-            opacity: 1;
-        }
-        .slickJ-prev {
-    left: 10px;
-}
-.slickJ-next {
-    right: 10px;
-}
-
-.slickJ-prev, .slickJ-next {
-    /* font-size: 0;
-    line-height: 0; */
-    position: absolute;
-    top: 50%;
-    display: block;
-    /* width: 20px;
-    height: 20px; */
-    padding: 0;
-    -webkit-transform: translate(0, -50%);
-    -ms-transform: translate(0, -50%);
-    transform: translate(0, -50%);
-    cursor: pointer;
-    /* color: transparent;
-    border: none;*/
-    outline: none;
-    /*background: transparent; */
-    
-}
-.slickJ-prev:hover, .slickJ-next:hover {
-        opacity: 1;
-}
-.slick-arrow {
-    color: #fff;
-    background: rgba(0, 0, 0, 0.6);
-    width: 6rem;
-    height: 6rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: absolute;
-    z-index: 100;
-    opacity: .5;
-    transition: opacity .15s ease;
-    font-size: 3rem;
-}
-/* .slick-slide img.slick-loading { display: none; } */
-    </style>
+    <link rel="stylesheet" type="text/css" media="screen" href="./assets/styles/css/style.css" />
 </head>
 <body>
 
@@ -118,51 +25,72 @@
     <!-- navbar -->
 <div class="fadeLoad">
     
-    <section class="regular slider">
+    <section class="homepageSlider slider">
         <div>
-            <img src="./assets/images/slider/Artem-sfx-slider.jpg">
-            <h2>Artem</h2>
+            <a href="project-articles/case-study-out-of-thin-air">
+                <img src="./assets/images/slider/Artem-sfx-slider.jpg" alt="Artem: Two men dressed in Halo Masterchief costumes jumping with London landmarks in background">
+                <h2>Artem</h2>
+            </a>
         </div>
         <div>
-            <img src="./assets/images/slider/Out-of-Thin-Air-slider.jpg">
-            <h2>Out of Thin Air</h2>
+            <a href="project-articles/case-study-out-of-thin-air">    
+                <img src="./assets/images/slider/Out-of-Thin-Air-slider.jpg" alt="Out of Thin Air: Black and white reconstruction of Icelandic crime scene">
+                <h2>Out of Thin Air</h2>
+            </a>
         </div>
         <div>
-            <img src="./assets/images/slider/andre-simon-awards-slider.jpg">
-            <h2>Andre Simon Awards</h2>
+            <a href="project-articles/andre-simon-awards">
+                <img src="./assets/images/slider/andre-simon-awards-slider.jpg" alt="Celebrity Chef Jamie Oliver mingles with guests at the annual Andr&#233; Simon Awards">
+                <h2>Andr&#233; Simon Awards</h2>
+            </a>
         </div>
         <div>
-            <img src="./assets/images/slider/Grayson-Perry-slider.jpg">
-            <h2>Grayson Perry</h2>
+            <a href="project-articles/case-study-grayson-perry">
+                <img src="./assets/images/slider/Grayson-Perry-slider.jpg" alt="Grayson Perry tapestry">
+                <h2>All In The Best Possible Taste with Grayson Perry</h2>
+            </a>
         </div>
         <div>
-            <img src="./assets/images/slider/inside-dior-slider.jpg">
-            <h2>Inside Dior</h2>
+            <a href="project-articles/inside-dior">
+                <img src="./assets/images/slider/inside-dior-slider.jpg" alt="Inside Dior: Supermodel Bella Hadid on catwalk with other models">
+                <h2>Inside Dior</h2>
+            </a>
         </div>
         <div>
-            <img src="./assets/images/slider/My-Brother-The-Terrorist-slider.jpg">
-            <h2>My Brother The Terrorist</h2>
+            <a href="project-articles/my-brother-the-terrorist">
+                <img src="./assets/images/slider/My-Brother-The-Terrorist-slider.jpg" alt="My Brother the Terrorist: Presenter/director Robb Leech with film camera interviews his brother who became a radical Muslim, both are seated">
+                <h2>My Brother The Terrorist</h2>
+            </a>
         </div>
         <div>
-            <img src="./assets/images/slider/Grayson-Perry-slider.jpg">
+            <a href="project-articles/case-study-no-fire-zone">
+                <img src="./assets/images/slider/no-fire-zone-slider.jpg" alt="Close-up of three female victims of Sri Lanka’s Civil War in extreme distress">
+                <h2>No Fire Zone: The Killing Fields of Sri Lanka</h2>
+            </a>
         </div>
         <div>
-            <img src="./assets/images/slider/no-fire-zone-slider.jpg">
+            <a href="project-articles/case-study-tales-of-grim-sleeper">
+                <img src="./assets/images/slider/tales-of-grim-sleeper-slider.jpg" alt="Tales of the Grim Sleeper: Director Nick Broomfield (left) with headphones and contributor Pam in foreground driving a car">
+                <h2>Tales of the Grim Sleeper</h2>
+            </a>
         </div>
         <div>
-            <img src="./assets/images/slider/andre-simon-awards-slider.jpg">
+            <a href="project-articles/case-study-the-undateables">
+                <img src="./assets/images/slider/the-undatables-slider.jpg" alt="Undateables: Eight contributors of Undateables series one">
+                <h2>The Undateables</h2>
+            </a>
         </div>
         <div>
-            <img src="./assets/images/slider/tales-of-grim-sleeper-slider.jpg">
+            <a href="project-articles/the-year-the-townhall-shrank">
+                <img src="./assets/images/slider/the-year-the-town-hall-shrank-slider.jpg" alt="The Year the Town Hall Shrank: Close-up of female resident at old people’s home">
+                <h2>The Year the Town Hall Shrank</h2>
+            </a>
         </div>
         <div>
-            <img src="./assets/images/slider/the-undatables-slider.jpg">
-        </div>
-        <div>
-            <img src="./assets/images/slider/the-year-the-town-hall-shrank-slider.jpg">
-        </div>
-        <div>
-            <img src="./assets/images/slider/Top-Boy-slider.jpg">
+            <a href="project-articles/top-boy">
+                <img src="./assets/images/slider/Top-Boy-slider.jpg" alt="Top Boy: Four Top Boy cast members including Ashley Walters and Kane Robinson on an urban rooftop with a dog">
+                <h2>Top Boy</h2>
+            </a>
         </div>
     </section>
     <!-- carousel (bootstrap component)-->
@@ -265,7 +193,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
     <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-    <script src="./assets/js/testimonials.js"></script>
+    <script src="./assets/js/carousels.js"></script>
     <script src="./assets/js/script.js"></script>
 
 </body>

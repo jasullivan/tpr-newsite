@@ -19,6 +19,11 @@ html {
 body {
   box-sizing: border-box; }
 
+.fadeLoad {
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0;
+  pointer-events: none; }
+
 .tpr-article__title {
   font-size: 1.8rem;
   text-align: center; }
@@ -248,14 +253,69 @@ a:hover {
     background-color: #004459;
     color: #fff; }
 
-.tpr-statement-text {
-  font-size: 2.4rem;
+.slider {
+  width: 100%;
+  max-width: 1200px;
+  margin: 20px auto 15px;
   text-align: center; }
-  .tpr-statement-text--highlight {
-    color: #007397; }
-  .tpr-statement-text__tel {
-    padding-top: 1rem;
-    color: #747474; }
+
+.slick-slide {
+  margin: 0px 10px;
+  transition: all ease-in-out 0.3s;
+  opacity: 0.2; }
+  .slick-slide a {
+    outline: none; }
+  .slick-slide img {
+    width: 100%; }
+  .slick-slide h2 {
+    color: #fff;
+    font-size: 2rem;
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    z-index: 1000; }
+
+.slick-active {
+  opacity: 0.5; }
+
+.slick-current {
+  opacity: 1; }
+
+.arrow-prev {
+  left: 10px; }
+
+.arrow-prev:hover,
+.arrow-next:hover {
+  opacity: 1; }
+
+.arrow-next {
+  right: 10px; }
+
+.arrow-prev,
+.arrow-next {
+  position: absolute;
+  top: 50%;
+  display: block;
+  padding: 0;
+  -webkit-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+  cursor: pointer;
+  outline: none; }
+
+.slick-arrow {
+  color: #fff;
+  background: rgba(0, 0, 0, 0.6);
+  width: 6rem;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  z-index: 100;
+  opacity: 0.5;
+  transition: opacity 0.15s ease;
+  font-size: 3rem; }
 
 /* ---- .gallery-item ---- */
 .gallery-item {
@@ -322,6 +382,15 @@ a:hover {
 .tpr-news-row__image {
   width: 100%; }
 
+.tpr-statement-text {
+  font-size: 2.4rem;
+  text-align: center; }
+  .tpr-statement-text--highlight {
+    color: #007397; }
+  .tpr-statement-text__tel {
+    padding-top: 1rem;
+    color: #747474; }
+
 .tpr-team-member {
   position: relative;
   margin-bottom: 1rem;
@@ -368,7 +437,7 @@ a:hover {
   background: #E9E9E9;
   width: 100%; }
   .testimonial-wrapper .testimonials {
-    width: 90%;
+    max-width: 120rem;
     margin: 0 auto; }
     .testimonial-wrapper .testimonials p {
       vertical-align: middle;
@@ -448,13 +517,6 @@ ul.nav-about a.nav-about, ul.nav-approach a.nav-approach, ul.nav-clients a.nav-c
     position: absolute;
     left: 0rem;
     bottom: 0rem; }
-
-.fadeLoad {
-  transition: opacity 0.5s ease-in-out;
-  opacity: 0;
-  /*pointer-events makes this node not respond to mouse/touch events
-    Which is probably what we want while the button is invisible.*/
-  pointer-events: none; }
 
 /* ---- gallery-nav ---- */
 .gallery-nav {

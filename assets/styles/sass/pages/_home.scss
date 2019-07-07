@@ -14,11 +14,4 @@
 }
 
 
-.fadeLoad {
-    transition: opacity 0.5s ease-in-out;
-    opacity: 0;
 
-    /*pointer-events makes this node not respond to mouse/touch events
-    Which is probably what we want while the button is invisible.*/
-    pointer-events: none;
-}

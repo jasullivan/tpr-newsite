@@ -174,7 +174,7 @@
         crossorigin="anonymous"></script>
         <!-- <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script> -->
     <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-    <script src="./assets/js/testimonials.js"></script>
+    <script src="./assets/js/carousels.js"></script>
     <script src="./assets/js/script.js"></script>
     
 </body>

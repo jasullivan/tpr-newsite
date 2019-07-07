@@ -19,7 +19,11 @@ html {
 body {
     box-sizing: border-box; 
 }
-
+.fadeLoad {
+    transition: opacity 0.5s ease-in-out;
+    opacity: 0;
+    pointer-events: none;
+}
 // news/project styling
 .tpr-article {
     &__title {

@@ -1,8 +1,9 @@
 /******************************* 
-// TESTIMONIALS
+// CAROUSELS - homepage and testimonials
 ********************************/
+
 $(document).ready(function () {
-    $(".testimonials").slick({
+    $(".testimonialSlider").slick({
         dots: false,
         infinite: true,
         slidesToShow: 1,
@@ -13,7 +14,7 @@ $(document).ready(function () {
         arrows: false,
         adaptiveHeight: true
     });
-    $(".regular").slick({
+    $(".homepageSlider").slick({
         // lazyLoad: 'ondemand',
         dots: false,
         infinite: true,
@@ -25,8 +26,8 @@ $(document).ready(function () {
         cssEase: 'linear',
         speed: 1000,
         autoplaySpeed: 5000,
-        nextArrow: '<span class="icon-arrowRight slickJ-next"></span>',
-        prevArrow: '<span class="icon-arrowLeft slickJ-prev"></span>',
+        nextArrow: '<span class="icon-arrowRight arrow-next"></span>',
+        prevArrow: '<span class="icon-arrowLeft arrow-prev"></span>',
     });
 });
 
