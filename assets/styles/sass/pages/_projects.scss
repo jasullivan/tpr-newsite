@@ -8,8 +8,14 @@
         cursor: pointer;
         background: none;
         border: none;
+        outline: none;
     }
     @include clearfix();
+}
+button:active, button:focus {
+    // outline: none;
+    outline-color: $tpr-blue;
+    border: none;
 }
 /* ---- gallery-nav ---- */
 
