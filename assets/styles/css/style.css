@@ -269,11 +269,14 @@ a:hover {
     width: 100%; }
   .slick-slide h2 {
     color: #fff;
-    font-size: 2rem;
+    font-size: 1.6rem;
     position: absolute;
     bottom: 10px;
     left: 20px;
     z-index: 1000; }
+    @media (min-width: 62em) {
+      .slick-slide h2 {
+        font-size: 2rem; } }
 
 .slick-active {
   opacity: 0.5; }
@@ -306,8 +309,8 @@ a:hover {
 .slick-arrow {
   color: #fff;
   background: rgba(0, 0, 0, 0.6);
-  width: 6rem;
-  height: 6rem;
+  width: 4rem;
+  height: 4rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -315,7 +318,12 @@ a:hover {
   z-index: 100;
   opacity: 0.5;
   transition: opacity 0.15s ease;
-  font-size: 3rem; }
+  font-size: 2rem; }
+  @media (min-width: 62em) {
+    .slick-arrow {
+      width: 6rem;
+      height: 6rem;
+      font-size: 3rem; } }
 
 /* ---- .gallery-item ---- */
 .gallery-item {
@@ -383,8 +391,11 @@ a:hover {
   width: 100%; }
 
 .tpr-statement-text {
-  font-size: 2.4rem;
+  font-size: 2rem;
   text-align: center; }
+  @media (min-width: 48em) {
+    .tpr-statement-text {
+      font-size: 2.4rem; } }
   .tpr-statement-text--highlight {
     color: #007397; }
   .tpr-statement-text__tel {

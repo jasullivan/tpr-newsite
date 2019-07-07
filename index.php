@@ -177,7 +177,7 @@
     <!-- carousel -->
 
     <!-- tpr company statement -->
-    <div class="container py-5">
+    <div class="container pb-5 pt-md-4">
         <h1 class="tpr-statement-text"><span class="tpr-statement-text--highlight">Intelligent communications</span> campaigns for the creative industries and projects with a social impact</h1>
     </div>
     <!-- tpr company statement -->
