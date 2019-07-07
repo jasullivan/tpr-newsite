@@ -4,9 +4,9 @@
             <img src="./assets/images/logos/logo.png" alt="tpr media logo">
         </a>
         <div class="tpr-nav__social-icons pt-5">
-            <span class="icon icon__twitter icon-issuu" aria-hidden="true"></span>
-            <span class="icon icon__twitter icon-Twitter-black" aria-hidden="true"></span>
-            <span class="icon icon__linkedin icon-LinkedIn-black" aria-hidden="true"></span>
+            <a href="https://issuu.com/tpr-media"><span class="icon icon__twitter icon-issuu" aria-hidden="true"></span></a>
+            <a href="https://twitter.com/tpr_media_PR"><span class="icon icon__twitter icon-Twitter-black" aria-hidden="true"></span></a>
+            <a href="https://www.linkedin.com/in/stoumazis"><span class="icon icon__linkedin icon-LinkedIn-black" aria-hidden="true"></span></a>
         </div>
         <button class="navbar-toggler mt-5 mr-3" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText"
             aria-expanded="false" aria-label="Toggle navigation">
