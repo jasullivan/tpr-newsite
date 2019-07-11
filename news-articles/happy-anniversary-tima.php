@@ -57,7 +57,7 @@
             <div class="row">
                 <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
-                        <p class="tpr-article-content__paragraph">We’re very excited to announce that this week our client TIMA – The International Media Associates – is celebrating its third anniversary of their Washington, DC offices.</p>
+                        <p class="tpr-article-content__paragraph">We’re very excited to announce that this week our client TIMA – The International Media Associates - is celebrating its third anniversary of their Washington, DC offices.</p>
 
                         <p class="tpr-article-content__paragraph">Since launching its Washington bureau, TIMA has covered other landmark events from the city, including the run up to the re-election of Barack Obama, both from the studio – with its amazing roof top view of the White House for live positions – and from key locations across the city. TIMA’s Washington bureau has 5,500 square metres of fully-equipped workspace for journalists and producers, and editing facilities and a master control room. Satellite and fibre circuits connect TIMA studios across the US to London and to South America – including studio facilities and logistical support, to broadcasters and online publishers. In addition to this, TIMA’s new Flydrive satellite uplink unit can be deployed quickly to breaking news and special events across Central and South America.</p>
 
