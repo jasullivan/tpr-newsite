@@ -37,6 +37,32 @@ body {
   .tpr-article__link:hover {
     color: #92d4e9; }
 
+.next-prev-buttons {
+  font-size: 1.6rem;
+  padding: 0 1rem; }
+  .next-prev-buttons::after {
+    content: "";
+    display: table;
+    clear: both; }
+  @media (min-width: 62em) {
+    .next-prev-buttons {
+      float: right; } }
+  .next-prev-buttons__prev {
+    float: left; }
+    @media (min-width: 62em) {
+      .next-prev-buttons__prev {
+        float: none;
+        padding-right: 15px; } }
+  .next-prev-buttons__next {
+    float: right; }
+    @media (min-width: 62em) {
+      .next-prev-buttons__next {
+        float: none;
+        padding-left: 5px; } }
+  .next-prev-buttons span {
+    font-size: 1.2rem;
+    padding: 0 3px; }
+
 .red {
   background: red; }
 

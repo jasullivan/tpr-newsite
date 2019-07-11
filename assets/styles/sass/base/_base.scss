@@ -41,6 +41,34 @@ body {
         }
     }
 }
+.next-prev-buttons {
+    font-size: 1.6rem;
+    padding: 0 1rem;
+    @include clearfix;
+    @include respond(lg) {
+        float: right;
+    }
+    &__prev {
+        float: left;
+        // color: $color-light-grey;
+        @include respond(lg) {
+            float: none;
+            padding-right: 15px;
+        }
+    }
+    &__next {
+        float: right;
+        // color: $color-light-grey;
+        @include respond(lg) {
+            float: none;
+            padding-left: 5px;
+        }
+    }
+    span {
+        font-size: 1.2rem;
+        padding: 0 3px;
+    }
+}
 // news/project typography styling
 
 .red {background: red;}

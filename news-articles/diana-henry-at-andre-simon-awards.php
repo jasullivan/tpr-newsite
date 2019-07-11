@@ -36,6 +36,20 @@
         </header>
         <!-- blue header bar -->
 
+        <!-- next and prev buttons -->
+        <div class="container">
+            <div class="row">
+                <div class="col-11 col-lg-9 mx-auto">
+                    <div class="next-prev-buttons pt-4">
+                        <a href="vr-is-for-everyone" class="next-prev-buttons__prev">
+                            <span class="icon-arrowLeft"></span>previous
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- next and prev buttons -->
+
         <!-- article content -->
         <div class="container">
             <div class="row">

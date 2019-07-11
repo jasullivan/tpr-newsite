@@ -237,7 +237,7 @@
     <!-- news section -->
 
     <!-- archive -->
-    <div class="container my-5">
+    <div class="container mb-5">
         <div class="row">
             <div class="col-12">
                 <h2 class="archive-button">Archive</h2>
