@@ -268,8 +268,8 @@
                     <li class="archive-projects__link"><a href="news-articles/the-baftas-in-the-best-possible-taste">The BAFTAS – in the Best Possible Taste</a></li>
                     <li class="archive-projects__link"><a href="news-articles/the-mill">The Mill</a></li>
                     <li class="archive-projects__link"><a href="news-articles/one-mile-away">One Mile Away</a></li>
-                    <li class="archive-projects__link"><a href="news-articles/happy-anniversary-tima">The Kogi</a></li>
-                    <li class="archive-projects__link"><a href="news-articles/happy-anniversary-tima">We’re off to sunny Sheffield for Doc/Fest</a></li>
+                    <li class="archive-projects__link"><a href="news-articles/the-kogi">The Kogi</a></li>
+                    <li class="archive-projects__link"><a href="news-articles/were-off-to-sunny-sheffield-for-docfest">We’re off to sunny Sheffield for Doc/Fest</a></li>
                 </ul>
             </div>
         </div>
