@@ -265,9 +265,9 @@
                     <li class="archive-projects__link"><a href="news-articles/ars-est-celare-artem-the-art-is-to-conceal-the-art">"Ars est celare artem" the art is to conceal the art</a></li>
                     <li class="archive-projects__link"><a href="news-articles/this-week-at-tpr">This week at tpr...</a></li>
                     <li class="archive-projects__link"><a href="news-articles/busy-week-at-tpr">Busy week at tpr</a></li>
-                    <li class="archive-projects__link"><a href="news-articles/happy-anniversary-tima">The BAFTAS – in the Best Possible Taste</a></li>
-                    <li class="archive-projects__link"><a href="news-articles/happy-anniversary-tima">The Mill</a></li>
-                    <li class="archive-projects__link"><a href="news-articles/happy-anniversary-tima">One Mile Away</a></li>
+                    <li class="archive-projects__link"><a href="news-articles/the-baftas-in-the-best-possible-taste">The BAFTAS – in the Best Possible Taste</a></li>
+                    <li class="archive-projects__link"><a href="news-articles/the-mill">The Mill</a></li>
+                    <li class="archive-projects__link"><a href="news-articles/one-mile-away">One Mile Away</a></li>
                     <li class="archive-projects__link"><a href="news-articles/happy-anniversary-tima">The Kogi</a></li>
                     <li class="archive-projects__link"><a href="news-articles/happy-anniversary-tima">We’re off to sunny Sheffield for Doc/Fest</a></li>
                 </ul>
