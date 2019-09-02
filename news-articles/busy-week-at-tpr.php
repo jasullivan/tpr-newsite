@@ -40,7 +40,7 @@
             <div class="row">
                 <div class="col-11 col-lg-9 mx-auto">
                     <div class="next-prev-buttons pt-4">
-                        <a href="the-baftas-in-the-best-possible-taste class="next-prev-buttons__prev">
+                        <a href="the-baftas-in-the-best-possible-taste" class="next-prev-buttons__prev">
                             <span class="icon-arrowLeft"></span>previous
                         </a>
                         <a href="this-week-at-tpr" class="next-prev-buttons__next">
