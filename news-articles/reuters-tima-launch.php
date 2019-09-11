@@ -66,6 +66,16 @@
                         <p class="tpr-article-content__paragraph">Guests even had the opportunity to record their own news broadcast, choosing between real Reuters-TIMA city backdrops set against the skylines of London, Paris, New York or Rio. tpr’s Eleanor took full advantage of, enjoying the chance to get in front of the camera.</p>
 
                         <p class="tpr-article-content__paragraph">To learn more about the new Reuters-TIMA Location Services set up to cover every major world event, from elections to summits, sports to national celebrations and breaking news such as war, natural disasters and militant attacks, visit <a class="tpr-article-content__link" href="http://www.reuters-tima.com" target="_blank" rel="nofollow noopener">www.reuters-tima.com</a></p>
+
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/reuters-tima-launch-news_400w.jpg 400w, 
+                                ../assets/images/news/reuters-tima-launch-news.jpg"
+                            data-src="../assets/images/news/reuters-tima-launch-news.jpg" 
+                            src="../assets/images/news/reuters-tima-launch-news-preview.jpg"
+                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                        >
                         
                     </div>
                 </div>

@@ -57,6 +57,17 @@
             <div class="row">
                 <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
+
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/citizenfour-news_400w.jpg 400w, 
+                                ../assets/images/news/citizenfour-news.jpg"
+                            data-src="../assets/images/news/citizenfour-news.jpg" 
+                            src="../assets/images/news/citizenfour-news-preview.jpg"
+                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                        >
+
                         <p class="tpr-article-content__paragraph">It’s been a privilege to work on <a class="tpr-article-content__link" href="https://citizenfourfilm.com/" target="_blank" rel="noopener">CITIZENFOUR</a>, Laura Poitras' riveting documentary about Edward Snowden.</p>
 
                         <p class="tpr-article-content__paragraph">An eye-opening exposé of the dangers of government surveillance, <a class="tpr-article-content__link" href="https://citizenfourfilm.com/" target="_blank" rel="noopener">CITIZENFOUR</a> tells the inside story of Edward Snowden and of the NSA’s mass illegal invasions of privacy. It’s a real-life thriller, following Poitras and journalist Glenn Greenwald’s encounters with Snowden in Hong Kong as he hands over classified documents and prepares to pay a personal price to reveal the truth.</p>
@@ -66,6 +77,16 @@
                         <p class="tpr-article-content__paragraph">Snowden's allegations brought to light violations committed by GCHQ (ruled as unlawful last month), who shared vast streams of sensitive personal information (including international phone calls and internet traffic) with the NSA, and countless other violations of personal privacy.</p>
 
                         <p class="tpr-article-content__paragraph">It’s a striking piece of investigative work so we absolutely thrilled when the film won <a class="tpr-article-content__link" href="http://oscar.go.com/nominees" target="_blank" rel="noopener">Best Documentary Feature at the Oscars last Sunday</a>. The win not only recognises Poitras' skilful cinematography, but also her daring work with a high-stakes whistleblower and the journalism that kick-started a worldwide debate.</p>
+
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/citizenfour-group-news_400w.jpg 400w, 
+                                ../assets/images/news/citizenfour-group-news.jpg"
+                            data-src="../assets/images/news/citizenfour-group-news.jpg" 
+                            src="../assets/images/news/citizenfour-group-news-preview.jpg"
+                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                        >
                         
                     </div>
                 </div>

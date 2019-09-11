@@ -61,13 +61,43 @@
 
                         <p class="tpr-article-content__paragraph">It was great to meet some of the star presenters from NHK World TV. Visitors had the chance to enjoy live performances by J-pop superstar and host of J-MELO, May J, who sang ‘Let it Go’ for the Japanese release of Disney’s Frozen, cooking demonstrations with celebrity chef Rika Yukimasa and a fascinating Q&A session with award-winning food writer Michael Booth.</p>
 
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/hyper-japan-news_400w.jpg 400w, 
+                                ../assets/images/news/hyper-japan-news.jpg"
+                            data-src="../assets/images/news/hyper-japan-news.jpg" 
+                            src="../assets/images/news/hyper-japan-news-preview.jpg"
+                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                        >
+
                         <p class="tpr-article-content__paragraph">Rika hosts NHK World TV’s Dining with the Chef, a cookery series showcasing delicious yet simple Japanese dishes, such as Oyakodon, Japan’s most popular Donburi, (‘rice bowl dish’) that can be made in the comfort of your own home. She also specialises in translating complex Japanese recipes into easily digestible chunks.</p>
+
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/hyper-japan-news-2_400w.jpg 400w, 
+                                ../assets/images/news/hyper-japan-news-2.jpg"
+                            data-src="../assets/images/news/hyper-japan-news-2.jpg" 
+                            src="../assets/images/news/hyper-japan-news-2-preview.jpg"
+                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                        >
 
                         <p class="tpr-article-content__paragraph">Rika was also joined by acclaimed British food writer and star of his very own anime series (Sushi and Beyond) Michael Booth, in an 'East meets West' talk – it is fair to say, following all the talk of food our taste buds went into overdrive!</p>
 
                         <p class="tpr-article-content__paragraph">NHK’s famous mascot and internet sensation, Domo, was also on hand to meet and greet fans – some of them really taking the photo opportunities to show why he’s so popular outside of Japan!</p>
 
                         <p class="tpr-article-content__paragraph">Finally it was great to see the 80,000-strong attendees really embrace the festival and dress up for the occasion. The assortment of fashion-styles and cosplay costumes really help champion Japan’s colourful and distinctive culture.</p>
+
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/hyper-japan-news-3_400w.jpg 400w, 
+                                ../assets/images/news/hyper-japan-news-3.jpg"
+                            data-src="../assets/images/news/hyper-japan-news-3.jpg" 
+                            src="../assets/images/news/hyper-japan-news-3-preview.jpg"
+                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                        >
                         
                     </div>
                 </div>

@@ -70,6 +70,16 @@
                         <p class="tpr-article-content__paragraph">Winner of this year’s John Avery award was Sediment (John Blake Publishing) by Paul Keers and Charles Jennings in recognition of its humorous and wry look at the social, financial, personal and marital issues surrounding middle-class wine drinking. "It’s the funniest wine-book I’ve read in a long time," explained Julian Barnes, "Not just laugh-aloud funny but snortingly, choke-on-your-cornflakes funny – up there with Kingsley Amis and Jay McInerney."</p>
 
                         <p class="tpr-article-content__paragraph">This year’s shortlisted authors – selected from over 150 entries – also included Justin Gellatly (Bread, Cake, Doughnut, Pudding), Hattie Ellis (Spoonfuls of Honey), Sarit Parker &amp; Itamar Srulovich (Honey &amp; Co), Oliver Gladwin, Richard Gladwin &amp; Gregory Gladwin (The Shed: The Cookbook), Meera Sodha (Made in India), Isabelle Legeron (Natural Wine), Talia Baoicchi (Sherry) and Dieter Braatz, Ulrich Sautter &amp; Ingo Swoboa (Wine Atlas of Germany).</p>
+
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/andre-simon-news_400w.jpg 400w, 
+                                ../assets/images/news/andre-simon-news.jpg"
+                            data-src="../assets/images/news/andre-simon-news.jpg" 
+                            src="../assets/images/news/andre-simon-news-preview.jpg"
+                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                        >
                     </div>
                 </div>
             </div>

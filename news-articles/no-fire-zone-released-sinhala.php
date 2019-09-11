@@ -59,6 +59,16 @@
                     <div class="tpr-article-content">
                         <p class="tpr-article-content__paragraph">tpr’s Sophie and Eleanor attended a press conference in the House of Commons yesterday (Tuesday 10 March). The producers of multi-award-winning, Emmy-nominated feature documentary No Fire Zone: The Killing Fields of Sri Lanka announced the release of a new Sinhala language version of the film in a direct challenge to the new government over its commitment to a free media.</p>
 
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/no-fire-zone-news_400w.jpg 400w, 
+                                ../assets/images/news/no-fire-zone-news.jpg"
+                            data-src="../assets/images/news/no-fire-zone-news.jpg" 
+                            src="../assets/images/news/no-fire-zone-news-preview.jpg"
+                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                        >
+
                         <p class="tpr-article-content__paragraph">This controversial film exposing the war crimes and massacres committed at the end of the civil war in 2009 has been effectively banned in Sri Lanka until now – and anyone helping the film-makers threatened with prosecution.</p>
 
                         <p class="tpr-article-content__paragraph">This announcement coincides with the visit of new Sri Lankan President Maithripala Sirisena to the UK, taking place the day before he is due to have dinner with the Queen. The release of the film in Sri Lanka will allow the majority Sinhala population to see for the first time the shocking evidence of war crimes and massacres committed at the end of the war by their own government’s forces.</p>
