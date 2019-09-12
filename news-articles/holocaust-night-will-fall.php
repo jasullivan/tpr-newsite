@@ -65,6 +65,8 @@
                         <p class="tpr-article-content__paragraph">Holocaust: Night Will Fall increases our knowledge and understanding and offers an important reminder to a new generation.  Sidney Bernstein, then one of Ministry of Information’s leading men, had access to British, Soviet and American footage. He was tasked with creating a powerful and compelling documentary that would provide lasting, undeniable evidence of the Nazis’ unspeakable crimes.</p>
 
                         <p class="tpr-article-content__paragraph">Bernstein's high profile team even included his friend, Alfred Hitchcock as treatment advisor.</p>
+                        
+                        <img src="../assets/images/news/holocaust-night-news-2.jpg" alt="Alfred Hitchcock standing at a typewriter" class="" >
 
                         <p class="tpr-article-content__paragraph">Despite initial support from British and US Governments, the film was shelved before its completion as it was considered too sensitive for the rapidly changing political climate. 70 years on, Bernstein’s film has finally been restored by Imperial War Museums.</p>
 

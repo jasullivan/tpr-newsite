@@ -58,9 +58,13 @@
                 <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
 
+                        <img src="../assets/images/news/big-fat-greek-news.jpg" alt="Roza Eskenazi holding a tambourine" class="" >
+
                         <p class="tpr-article-content__paragraph">After a busy couple of weeks, we're getting ready to go to tonight's UK premiere of Roy Sher's award winning feature documentary <a class="tpr-article-content__link" href="http://www.mysweetcanary.com/" target="_blank" rel="noopener">My Sweet Canary</a>, a fascinating film about the life of the Queen of Rembetika – iconic Greek-Jewish singer Roza Eskenazi. There's lots of excitement in store from live music to a drinks' reception and tasty Greek treats.</p>
 
                         <p class="tpr-article-content__paragraph">It’s all taking place at Cineworld Enfield at 8pm. Better known for showcasing the latest Hollywood blockbusters, the cinema’s rolling out the red carpet to the local community, comprising a significant population of Greeks, Turks and Cypriots. And it’s all in aid of the  <a class="tpr-article-content__link" href="http://www.leukaemiacancersociety.org/" target="_blank" rel="noopener">Leukaemia Cancer Society</a>.</p>
+
+                        <img src="../assets/images/news/big-fat-greek-news-2.jpg" alt="‘Greek Blues’ singer Roza Eskenazi holding tambourine with two musicians either side" class="" >
 
                         <p class="tpr-article-content__paragraph">Roza's story is fascinating – a figure with the charisma of Edith Piaf or Billy Holiday, she was born in Istanbul's Jewish Quarter during the 1890s, survived the upheaval of the Greek-Turkish population exchange of 1923, became a single mother at 14 and escaped persecution by the Nazis.</p>
                             

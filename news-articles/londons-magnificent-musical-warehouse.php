@@ -66,6 +66,16 @@
 
                         <p class="tpr-article-content__paragraph">Donations range from accordions to zithers, including French horns, cellos, clarinets, violins, drumkits, and much more besides. It's really an awe-inspiring sight to see, reminiscent of the memorable army warehouse camera scan at the conclusion of Raiders of the Lost Ark (albeit significantly less sinister).</p>
 
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/dont-stop-the-music-news_400w.jpg 400w, 
+                                ../assets/images/news/dont-stop-the-music-news.jpg"
+                            data-src="../assets/images/news/dont-stop-the-music-news.jpg" 
+                            src="../assets/images/news/dont-stop-the-music-news-preview.jpg"
+                            alt="Warehouse containing many boxes" class="lazyload tpr-article-content__image"
+                        >
+
                         <p class="tpr-article-content__paragraph">For the thousands of children who'll be receiving an instrument of their own, in many cases for the first time, a comparison to Santa's workshop might be more appropriate. Not least because there’s a team of volunteers (including expert repairers and talented music specialists) working hard to give each instrument a new lease of life.</p>
 
                         <p class="tpr-article-content__paragraph">In addition to these acts of generosity, what's also been touching is the heart-warming notes of support that have come with many of the instruments. One reads: "This instrument taught me maths, literature, how to make friends and much, much more. What I learned enabled me to teach myself the guitar, which I am now teaching my twin daughters in Australia. You will get frustrated at times, but don’t give up! Have fun."</p>
