@@ -60,6 +60,16 @@
 
                         <p class="tpr-article-content__paragraph">On Thursday 15 May the UK and international news industry gathered to celebrate the 10<sup>th</sup> anniversary of the annual AIB Awards at the launch of the 2014 awards. The event was hosted by AIB member and tpr client TIMA – The International Media Associates – in the penthouse of New Zealand House, TIMA’s London HQ, with panoramic views of the London skyline.</p>
 
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/tima-london-panoramic-news_400w.jpg 400w, 
+                                ../assets/images/news/tima-london-panoramic-news.jpg"
+                            data-src="../assets/images/news/tima-london-panoramic-news.jpg" 
+                            src="../assets/images/news/tima-london-panoramic-news-preview.jpg"
+                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                        >
+
                         <p class="tpr-article-content__paragraph">Over 120 guests attended from both in front and behind the camera. Among them were AIB Personality of the Year John Suchet, BBC presenter Nelufar Hedayat, BBC World Service producer Owain Rich, Wilfred Frost from Paradine Productions, Antena 3 CEO Mihai Gadea, and Nobel Prize nominated filmmaker Callum Macrae. Representatives from Bloomberg, VOA, Channel 4 and Al Jazeera also enjoyed the opportunity to find out about this year's AIB Award categories, to meet past winners and toast fellow producers, editors, journalists and executives from the media industry worldwide.</p>
 
                         <p class="tpr-article-content__paragraph">Over the past ten years the AIB Awards have celebrated the best of factual programming, together with the technology and personalities that bring them to life. Each year they highlight the most inspiring story-telling across TV, online and radio, drawing on a shortlist from 25 countries. This year the awards will launch a new category dedicated to content specifically created for online audiences.</p>

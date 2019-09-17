@@ -66,6 +66,34 @@
 
                         <p class="tpr-article-content__paragraph">The second documentary we are working on has been revealed at the Edinburgh TV Festival last week. Produced by The Garden Productions who brought us 24 Hours in A&E, The Maudsley takes an in-depth and unprecedented look at mental health in Britain today, with exclusive access to a wide range of services, patients and staff at the South London and Maudsley NHS Foundation Trust (SLaM).  Key to the series, filmed over a year, is giving a voice to those who suffer with mental illness, from people with psychosis or manic depression to those with severe anxiety. For, although a growing number of us will experience mental illness in our lifetime, the stigma remains. The Maudsley looks to challenge this stigma by addressing it head on – it really is a must see and is due to broadcast later this autumn.</p>
 
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/insideDior-news-3_400w.jpg 400w, 
+                                ../assets/images/news/insideDior-news-3.jpg"
+                            data-src="../assets/images/news/insideDior-news-3.jpg" 
+                            src="../assets/images/news/insideDior-news-3-preview.jpg"
+                            alt="Inside Dior" class="lazyload tpr-article-content__image"
+                        >
+
+                        <p class="tpr-article-content__paragraph">We're also preparing for <a class="tpr-article-content__link" href="http://emporiumproductions.co.uk" target="_blank" rel="noopener">Emporium Productions' Inside the Freemasons</a>, a new five-part documentary series on SKY 1 about what it means to be a Freemason in the 21st century. From the regalia to the unbreakable bonds of brotherhood, just how relevant is Freemasonry in the 21st century?</p>
+
+                        <p class="tpr-article-content__paragraph">But before all that we wanted to tell you all about  <a class="tpr-article-content__link" href="http://www.channel4.com/programmes/inside-dior" target="_blank" rel="noopener">Inside Dior</a> from <a class="tpr-article-content__link" href="http://www.finestripe.com/" target="_blank" rel="noopener">Finestripe Productions</a> , a new two-part observational documentary series starting tonight at 9pm on More4. Trust us, you won’t want to miss this treat – but if you don’t believe us, read this <a class="tpr-article-content__link" href="http://www.telegraph.co.uk/fashion/brands/inside-dior-70-year-old-fashion-house-has-changed-way-dress/" target="_blank" rel="noopener">glowing feature from the Telegraph</a>.</p>
+
+                        <p class="tpr-article-content__paragraph">In the run-up to London Fashion Week (17-21 February 2017), the series takes an exclusive behind-the-scenes look at Dior’s billion-dollar brand on its 70th birthday, providing a talking point for discussions about fashion and female identity. Director Michael Waldman revealed more about the filming in a blog post for <a class="tpr-article-content__link" href="http://www.huffingtonpost.co.uk/michael-waldman1/inside-dior_b_14653016.html" target="_blank" rel="noopener">Huffington Post</a>.</p>
+
+                        <img 
+                            data-sizes="auto"
+                            data-srcset="
+                                ../assets/images/projects/inside-dior-med.jpg 800w, 
+                                ../assets/images/projects/inside-dior-lrg.jpg"
+                            data-src="../assets/images/projects/inside-dior-med.jpg"
+                            src="../assets/images/projects/inside-dior-preview.jpg" 
+                            alt="Supermodel Bella Hadid on catwalk with other models" class="lazyload tpr-article-content__image"
+                        >
+                        
+                        <p class="tpr-article-content__paragraph">With all this going on, we can still find time for exciting new campaigns. So <a class="tpr-article-content__link" href="http://mailto:sophie@tpr-media.com/?subject=Hello!" target="_blank" rel="noopener">drop us an email</a> if you’ve got projects on the horizon, large or small, that we could help with. It’s always good to plan ahead so make sure you give us enough notice. We’re always happy to chat ideas through over a coffee.</p>
+
                     </div>
                 </div>
             </div>

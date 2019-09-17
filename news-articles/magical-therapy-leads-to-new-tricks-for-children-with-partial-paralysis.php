@@ -58,6 +58,18 @@
                 <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
 
+                        <p class="tpr-article-content__paragraph">An award-winning annual programme using 'magical therapy' to transform the lives of children with hemiplegia – paralysis predominantly of one side of the body – culminated with a magic show on Friday night, with the support of leading British magician, Dynamo.</p>
+
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/breathe-magic-camp-news_400w.jpg 400w, 
+                                ../assets/images/news/breathe-magic-camp-news.jpg"
+                            data-src="../assets/images/news/breathe-magic-camp-news.jpg" 
+                            src="../assets/images/news/breathe-magic-camp-news-preview.jpg"
+                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                        >
+
                         <p class="tpr-article-content__paragraph">Based on rigorous scientific research and clinical trials, Breathe Arts Health Research has created an innovative two-week 'magic camp' lead by Magic Circle magicians who work alongside occupational therapists and physiotherapists to teach specially selected and scaled magic tricks as well as theatrical skills in order to improve the motor skills and psychosocial wellbeing of young people with hemiplegia.</p>
 
                         <p class="tpr-article-content__paragraph">This year's camp ran from 28 July – 8 August, culminating in a magic show in the prestigious Magic Circle theatre, London, where the children performed alongside professional magicians. Leading British magician Dynamo, a keen supporter of Breathe, helped the young magicians before their final performance: "I love the work that Breathe are doing to help build confidence and co-ordination in children with partial paralysis. I can’t think of a better way to use magic than to improve the quality of young people’s lives!"</p>
