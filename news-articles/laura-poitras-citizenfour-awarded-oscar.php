@@ -65,7 +65,7 @@
                                 ../assets/images/news/citizenfour-news.jpg"
                             data-src="../assets/images/news/citizenfour-news.jpg" 
                             src="../assets/images/news/citizenfour-news-preview.jpg"
-                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                            alt="Edward Snowdon in front of a house" class="lazyload tpr-article-content__image"
                         >
 
                         <p class="tpr-article-content__paragraph">It’s been a privilege to work on <a class="tpr-article-content__link" href="https://citizenfourfilm.com/" target="_blank" rel="noopener">CITIZENFOUR</a>, Laura Poitras' riveting documentary about Edward Snowden.</p>
@@ -85,7 +85,7 @@
                                 ../assets/images/news/citizenfour-group-news.jpg"
                             data-src="../assets/images/news/citizenfour-group-news.jpg" 
                             src="../assets/images/news/citizenfour-group-news-preview.jpg"
-                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                            alt="Citizen Four being awarded Oscar for best documentary" class="lazyload tpr-article-content__image"
                         >
                         
                     </div>

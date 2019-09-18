@@ -69,7 +69,7 @@
                                 ../assets/images/news/vets-in-the-disaster-zone-news.jpg"
                             data-src="../assets/images/news/vets-in-the-disaster-zone-news.jpg" 
                             src="../assets/images/news/vets-in-the-disaster-zone-news-preview.jpg"
-                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                            alt="Vets in the disaster zone" class="lazyload tpr-article-content__image"
                         >
 
                         <p class="tpr-article-content__paragraph">Next up, Channel 4's Last Chance School hit screens at 10pm on Tuesday 29 April. This observational documentary visited Muntham house School in West Sussex, home to some of the toughest to teach children in the country. Almost 60 boys, who were previously excluded from their local schools, attend this specialist boarding facility, having been expelled in the past mostly because of violent and abusive behaviour. But Principal Richard Boyle works hard with his team to inspire the boys to achieve more and live better. Filmed from the boys' perspective by director, Marc Williamson, Last Chance School is part of Channel 4's First Cut strand and is based on Boys – Williamson's award-winning student film. Both the Times and the Mail gave The Last Chance School four stars and it was 'TV Choice' in both the Metro and The Sunday Times. The Independent, i and the Daily Mail selected it as 'Critics Choice', it was highlighted by Closer as 'Amazing Real Life' and 'Don't Miss' by Total TV Guide. Additionally it was The Sunday Telegraph's 'Today's Highlight' and on TV and Satellite Weeks 'Hot List'. The determination of Richard and his team to help his pupil's turn their lives around was compelling viewing and working with him was inspirational.</p>
@@ -81,7 +81,7 @@
                                 ../assets/images/news/channel-four-last-chance-school-news.jpg"
                             data-src="../assets/images/news/channel-four-last-chance-school-news.jpg" 
                             src="../assets/images/news/channel-four-last-chance-school-news-preview.jpg"
-                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                            alt="Boy at school desk with head in his hands" class="lazyload tpr-article-content__image"
                         >
 
                         <p class="tpr-article-content__paragraph">But it's not over yet! Next week Tearing Up History is on BBC Four on Tuesday 6 May at 9pm as part of BBC Four's 18th Century Season. This documentary explores for the first time the dramatic and destructive years of the French Revolution through the extraordinary story of its art. In his TV debut, art historian Dr Richard Clay controversially argues that the destruction of art can be every bit as powerful as its creation. Examining vandalism as a political tool from Ancient Rome to modern day graffiti, Clay is a charismatic narrator and we can't wait for transmission!</p>

@@ -44,6 +44,9 @@
                         <a href="vr-is-for-everyone" class="next-prev-buttons__prev">
                             <span class="icon-arrowLeft"></span>previous
                         </a>
+                        <a href="new-slate-of-projects-for-tpr-media-this-spring" class="next-prev-buttons__next">
+                            next<span class="icon-arrowRight"></span>
+                        </a>
                     </div>
                 </div>
             </div>

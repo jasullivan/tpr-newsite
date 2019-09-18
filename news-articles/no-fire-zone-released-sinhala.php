@@ -66,7 +66,7 @@
                                 ../assets/images/news/no-fire-zone-news.jpg"
                             data-src="../assets/images/news/no-fire-zone-news.jpg" 
                             src="../assets/images/news/no-fire-zone-news-preview.jpg"
-                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                            alt="House of Commons" class="lazyload tpr-article-content__image"
                         >
 
                         <p class="tpr-article-content__paragraph">This controversial film exposing the war crimes and massacres committed at the end of the civil war in 2009 has been effectively banned in Sri Lanka until now – and anyone helping the film-makers threatened with prosecution.</p>

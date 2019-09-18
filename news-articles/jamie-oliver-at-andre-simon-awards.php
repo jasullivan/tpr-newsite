@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__title">Jamie Oliver says no reason why PM can't do right thing on childhood obesity at André Simon Awards.</h1>
+                <h1 class="tpr-blue-bar__title">Jamie Oliver says no reason why PM can't do right thing on childhood obesity at André Simon Awards</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -83,7 +83,7 @@
                                 href="http://www.dailymail.co.uk/wires/pa/article-3421884/Jamie-Oliver-says-no-reason-PM-right-thing-childhood-obesity.html?ITO=1490&amp;ns_mchannel=rss&amp;ns_campaign=1490"
                                 target="_blank" rel="nofollow noopener">He said the issue is not "rocket science" and told the press, "I
                                 honestly think that this childhood obesity strategy will set the tone of where we go in the next 100 years
-                                in public health.<br> Regardless of who you vote for, it's Cameron's legacy. There's no real reason why he
+                                in public health. Regardless of who you vote for, it's Cameron's legacy. There's no real reason why he
                                 can't do the right thing." (MailOnline)</a></p>
 
                         <p class="tpr-article-content__paragraph">During the awards, Jamie caught up with this year's food book assessor <a

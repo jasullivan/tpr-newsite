@@ -43,7 +43,7 @@
                         <a href="this-week-at-tpr" class="next-prev-buttons__prev">
                             <span class="icon-arrowLeft"></span>previous
                         </a>
-                        <a href="dont-miss-bedlam" class="next-prev-buttons__next">
+                        <a href="grierson-awards-2013" class="next-prev-buttons__next">
                             next<span class="icon-arrowRight"></span>
                         </a>
                     </div>

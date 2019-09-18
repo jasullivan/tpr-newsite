@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__title">Last Whites of the East End.</h1>
+                <h1 class="tpr-blue-bar__title">Last Whites of the East End</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -61,11 +61,11 @@
                         <img 
                             data-sizes="auto" 
                             data-srcset="
-                                ../assets/images/news/last-whites-of-eastend-news_400w.jpg 400w, 
-                                ../assets/images/news/last-whites-of-eastend-news.jpg"
-                            data-src="../assets/images/news/last-whites-of-eastend-news.jpg" 
-                            src="../assets/images/news/last-whites-of-eastend-news-preview.jpg"
-                            alt="Close-up of Peter Bell, Manager of East Ham Working Men’s Club" class="lazyload tpr-article-content__image">
+                                ../assets/images/news/last-whites-of-eastend-news-2_400w.jpg 400w, 
+                                ../assets/images/news/last-whites-of-eastend-news-2.jpg"
+                            data-src="../assets/images/news/last-whites-of-eastend-news-2.jpg" 
+                            src="../assets/images/news/last-whites-of-eastend-news-2-preview.jpg"
+                            alt="Two smiling women from the Last Whites of the East End documentary" class="lazyload tpr-article-content__image">
 
                         <p class="tpr-article-content__paragraph"> In the usual heady rush of TV scheduling, we were contacted at the last minute a few
                             weeks ago – just two weeks before transmission – to promote the thoughtful and provocative documentary Last Whites

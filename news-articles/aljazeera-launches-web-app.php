@@ -31,7 +31,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__title">Al Jazeera launches investigative journalism in game format.</h1>
+                <h1 class="tpr-blue-bar__title">Al Jazeera launches investigative journalism in game format</h1>
             </div>
         </header>
         <!-- blue header bar -->

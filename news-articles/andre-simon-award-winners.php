@@ -59,6 +59,16 @@
                     <div class="tpr-article-content">
                         <p class="tpr-article-content__paragraph">Last Tuesday evening tpr attended this year’s Andr&#233; Simon Food & Drink Book Awards, which showcase the best of contemporary food and drink writing. Man Booker winning novelist, Julian Barnes and cookery writer, Annie Bell announced the results at the Goring Hotel in London. The awards were a great indulgence for tpr’s taste buds!</p>
 
+                        <img 
+                            data-sizes="auto" 
+                            data-srcset="
+                                ../assets/images/news/andre-simon-news_400w.jpg 400w, 
+                                ../assets/images/news/andre-simon-news.jpg"
+                            data-src="../assets/images/news/andre-simon-news.jpg" 
+                            src="../assets/images/news/andre-simon-news-preview.jpg"
+                            alt="Andre Simon Awards" class="lazyload tpr-article-content__image"
+                        >
+
                         <p class="tpr-article-content__paragraph">Huge congratulations to the winners – writer and photographer Mark Diacono (known for his commitment to sustainable, ethically sourced food) scooped the prestigious prize for food writing for, A Year at Otter Farm (Bloomsbury). A truly inspiring book, which the judges commended for its vibrant celebration of growing, cooking and eating alongside high production values, charts the seasonal challenges and triumphs of rural living. The book is packed with yummy recipes through the seasons, all brimming with flavour and fresh ingredients.</p>
 
                         <p class="tpr-article-content__paragraph">Mark Diacono was over the moon: "It’s astonishing to win this award, especially considering the quality of previous winners – from Nigel Slater to Hugh Fearnley-Whittingstall. It’s such a great honour and I’m really bowled over. It’s still sinking in."</p>
@@ -71,15 +81,7 @@
 
                         <p class="tpr-article-content__paragraph">This year’s shortlisted authors – selected from over 150 entries – also included Justin Gellatly (Bread, Cake, Doughnut, Pudding), Hattie Ellis (Spoonfuls of Honey), Sarit Parker &amp; Itamar Srulovich (Honey &amp; Co), Oliver Gladwin, Richard Gladwin &amp; Gregory Gladwin (The Shed: The Cookbook), Meera Sodha (Made in India), Isabelle Legeron (Natural Wine), Talia Baoicchi (Sherry) and Dieter Braatz, Ulrich Sautter &amp; Ingo Swoboa (Wine Atlas of Germany).</p>
 
-                        <img 
-                            data-sizes="auto" 
-                            data-srcset="
-                                ../assets/images/news/andre-simon-news_400w.jpg 400w, 
-                                ../assets/images/news/andre-simon-news.jpg"
-                            data-src="../assets/images/news/andre-simon-news.jpg" 
-                            src="../assets/images/news/andre-simon-news-preview.jpg"
-                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
-                        >
+                        
                     </div>
                 </div>
             </div>

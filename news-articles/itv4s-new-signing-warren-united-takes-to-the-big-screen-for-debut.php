@@ -67,7 +67,7 @@
                                 ../assets/images/news/warren-snacks-news.jpg"
                             data-src="../assets/images/news/warren-snacks-news.jpg" 
                             src="../assets/images/news/warren-snacks-news-preview.jpg"
-                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                            alt="Warren United snacks" class="lazyload tpr-article-content__image"
                         >
 
                         <p class="tpr-article-content__paragraph">Warren United is set to broadcast to the 22 April to kick off with the UEFA Champions League semi-finals. The six parts series follows the fortunes of Warren Kingsley, an overweight kitchen salesman and fervent football fan, as he stumbles through life trying to juggle his two passions – football and family. Warren is a bloke of two halves: both a devoted husband and dad and a diehard fan of Brainsford United, a chronically struggling club, known to its long-suffering fans as "The Meringues."</p>

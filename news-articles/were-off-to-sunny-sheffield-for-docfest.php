@@ -30,7 +30,7 @@
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__title">We’re off to sunny Sheffield for Doc/Fest.</h1>
+                <h1 class="tpr-blue-bar__title">We’re off to sunny Sheffield for Doc/Fest</h1>
             </div>
         </header>
         <!-- blue header bar -->
@@ -58,7 +58,9 @@
                 <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
 
-                        <p class="tpr-article-content__paragraph">We’ll be up at Sheffield Doc/Fest with a fascinating feature length doc – Aluna – about the Kogi of Colombia, a remote South American tribe who are determined to caution the western world about environmental damage to the earth.</p>
+                        <img src="../assets/images/news/mama-manuel-young-mama-news.jpg" alt="A woman from the Kogi tribe of Colombia" class="mx-auto d-block mb-5">
+
+                        <p class="tpr-article-content__paragraph mt-3">We’ll be up at Sheffield Doc/Fest with a fascinating feature length doc – Aluna – about the Kogi of Colombia, a remote South American tribe who are determined to caution the western world about environmental damage to the earth.</p>
 
                         <p class="tpr-article-content__paragraph">Aluna’s screenings at Sheffield Doc/Fest are:</p>
 

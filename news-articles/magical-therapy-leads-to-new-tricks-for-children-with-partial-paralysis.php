@@ -67,7 +67,7 @@
                                 ../assets/images/news/breathe-magic-camp-news.jpg"
                             data-src="../assets/images/news/breathe-magic-camp-news.jpg" 
                             src="../assets/images/news/breathe-magic-camp-news-preview.jpg"
-                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                            alt="A group of around 30 children with magicians, including Dynamo, on stage after magic show" class="lazyload tpr-article-content__image"
                         >
 
                         <p class="tpr-article-content__paragraph">Based on rigorous scientific research and clinical trials, Breathe Arts Health Research has created an innovative two-week 'magic camp' lead by Magic Circle magicians who work alongside occupational therapists and physiotherapists to teach specially selected and scaled magic tricks as well as theatrical skills in order to improve the motor skills and psychosocial wellbeing of young people with hemiplegia.</p>

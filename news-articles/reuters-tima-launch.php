@@ -74,7 +74,7 @@
                                 ../assets/images/news/reuters-tima-launch-news.jpg"
                             data-src="../assets/images/news/reuters-tima-launch-news.jpg" 
                             src="../assets/images/news/reuters-tima-launch-news-preview.jpg"
-                            alt="Hyper Japan" class="lazyload tpr-article-content__image"
+                            alt="Reuters: London Skyline at night" class="lazyload tpr-article-content__image"
                         >
                         
                     </div>

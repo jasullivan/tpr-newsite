@@ -66,11 +66,13 @@
 
                         <p class="tpr-article-content__paragraph">Bernstein's high profile team even included his friend, Alfred Hitchcock as treatment advisor.</p>
                         
-                        <img src="../assets/images/news/holocaust-night-news-2.jpg" alt="Alfred Hitchcock standing at a typewriter" class="" >
+                        <img src="../assets/images/news/holocaust-night-news-2.jpg" alt="Alfred Hitchcock standing at a typewriter" class="mx-auto d-block my-5">
 
                         <p class="tpr-article-content__paragraph">Despite initial support from British and US Governments, the film was shelved before its completion as it was considered too sensitive for the rapidly changing political climate. 70 years on, Bernstein’s film has finally been restored by Imperial War Museums.</p>
 
                         <p class="tpr-article-content__paragraph">It has been a privilege for us at tpr to be a part of this process and to work on something that will touch the lives of future generations.</p>
+
+                        <p class="tpr-article-content__paragraph">Holocaust: Night Will Fall reminds us of the immense power of filmmaking and its ability to make a profound impact: possibly one of the most influential films of its kind. After 70 years, we are finally able to see the whole picture.</p>
 
                         <p class="tpr-article-content__paragraph">Holocaust: Night Will Fall is available on 4OD for a month following TX.</p>
 
