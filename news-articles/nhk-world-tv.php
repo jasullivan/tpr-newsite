@@ -58,29 +58,29 @@
             <div class="row">
                 <div class="col-11 col-lg-9 mx-auto">
                     <div class="tpr-article-content">
-                        <p class="tpr-article-content__paragraph">Last Thursday night we had a great evening at the <a class="tpr-article-content__link" href="http://www.thegoring.com/" target="_blank" rel="nofollow noopener">Goring Hotel</a> celebrating the <a class="tpr-article-content__link" href="http://www.andresimon.co.uk/" target="_blank" rel="nofollow noopener">André Simon Food &amp; Drink Book Awards</a>, which <a class="tpr-article-content__link" href="http://www.countryandtownhouse.co.uk/features/andre-simon-jamie-oliver/" target="_blank" rel="nofollow noopener">showcase the best of contemporary food and drink writing</a>.</p>
-                        
+                        <p class="tpr-article-content__paragraph">Last week, the team tpr had great fun at <a class="tpr-article-content__link" href="http://hyperjapan.co.uk/" target="_blank" rel="nofollow noopener">Hyper Japan</a>, the festival celebrating all things Japanese at Olympia, where we enjoyed learning lots about Japanese culture, from beautiful kimonos to delicious takoyaki (‘octopus balls’ – trust us, they taste better than they sound).</p>
+
+                        <p class="tpr-article-content__paragraph">We were working with <a class="tpr-article-content__link" href="http://www3.nhk.or.jp/nhkworld/" target="_blank" rel="nofollow noopener">NHK</a>, Japan’s English-language broadcaster, who were visiting London to film for <a class="tpr-article-content__link" href="http://www3.nhk.or.jp/nhkworld/en/tv/" target="_blank" rel="nofollow noopener">NHK WORLD TV’s</a> popular fashion and culture programme, <a class="tpr-article-content__link" href="http://www.nhk.or.jp/kawaii-i/" target="_blank" rel="nofollow noopener">Kawaii International</a>. Kawaii means “cute” or “innocent” and it’s a growing culture in the UK, thanks in part to stars like Gwen Stefani, Nicki Manaj and Katy Perry. It’s very iconic and quirky and young people in the UK are fast discovering the movement as a means of self-expression.</p>
+
                         <img 
                             data-sizes="auto" 
                             data-srcset="
-                                ../assets/images/news/aljezeera1-news_400w.jpg 400w, 
-                                ../assets/images/news/aljezeera1-news.jpg"
-                            data-src="../assets/images/news/aljezeera1-news.jpg" 
-                            src="../assets/images/news/aljezeera1-news-preview.jpg"
+                                ../assets/images/news/nhk2-news_400w.jpg 400w, 
+                                ../assets/images/news/nhk2-news.jpg"
+                            data-src="../assets/images/news/nhk2-news.jpg" 
+                            src="../assets/images/news/nhk2-news-preview.jpg"
                             alt="Three girls attending Hyper Japan" class="lazyload tpr-article-content__image">
                     
-                        <p class="tpr-article-content__paragraph"><a class="tpr-article-content__link" href="https://twitter.com/jamieoliver" target="_blank" rel="nofollow noopener">Jamie Oliver</a> was among the winners, scooping the prestigious <a class="tpr-article-content__link" href="http://www.andresimon.co.uk/" target="_blank" rel="nofollow noopener">John Avery Award</a> in recognition of both Jamie's influential new book <a class="tpr-article-content__link" href="https://www.penguin.co.uk/books/283951/everyday-super-food/" target="_blank" rel="nofollow noopener">Everyday Super Food</a> – described by Jamie as "his most personal book" – and his contribution to the food industry spanning nearly two decades.</p>
-                        <p class="tpr-article-content__paragraph">Jamie gave a funny and off-the-cuff acceptance speech, but also made the serious point to the press that the Prime Minister could do more to challenge childhood obesity. <a class="tpr-article-content__link" href="http://www.dailymail.co.uk/wires/pa/article-3421884/Jamie-Oliver-says-no-reason-PM-right-thing-childhood-obesity.html?ITO=1490&amp;ns_mchannel=rss&amp;ns_campaign=1490" target="_blank" rel="nofollow noopener">He said the issue is not "rocket science" and told the press, "I honestly think that this childhood obesity strategy will set the tone of where we go in the next 100 years in public health.<br> Regardless of who you vote for, it's Cameron's legacy. There's no real reason why he can't do the right thing." (MailOnline)</a></p>
-                        <p class="tpr-article-content__paragraph">During the awards, Jamie caught up with this year's food book assessor <a class="tpr-article-content__link" href="http://www.optomen.com/person/202/patricia-llewellyn" target="_blank" rel="nofollow noopener">Pat Llewellyn</a>, who launched Jamie's first series The Naked Chef with the BBC back in 1999, and shortlisted author <a class="tpr-article-content__link" href="https://twitter.com/we_are_food" target="_blank" rel="nofollow noopener">Anna Jones</a>, a graduate of Jamie's <a class="tpr-article-content__link" href="https://www.jamieoliver.com/the-fifteen-apprentice-programme/home" target="_blank" rel="nofollow noopener">Fifteen restaurant programme</a>.</p>
+                        <p class="tpr-article-content__paragraph"><a class="tpr-article-content__link" href="http://www3.nhk.or.jp/nhkworld/en/tv/" target="_blank" rel="nofollow noopener">NHK WORLD TV’s</a> London trip kicked off with the UK launch of a global art project by renowned Japanese artist and king of kawaii, <a class="tpr-article-content__link" href="https://www.facebook.com/sebastian.m.art/?fref=ts" target="_blank" rel="nofollow noopener">Sebastian Masuda</a> – the man behind the opening sequence of <a class="tpr-article-content__link" href="http://www.nhk.or.jp/kawaii-i/" target="_blank" rel="nofollow noopener">Kawaii International</a>. <a class="tpr-article-content__link" href="https://www.facebook.com/sebastian.m.art/?fref=ts" target="_blank" rel="nofollow noopener">Sebastian Masuda</a> and <a class="tpr-article-content__link" href="http://www3.nhk.or.jp/nhkworld/en/tv/" target="_blank" rel="nofollow noopener">NHK WORLD TV</a> collaborated to create a colourful <a class="tpr-article-content__link" href="https://www.facebook.com/KawaiiiOfficial/" target="_blank" rel="nofollow noopener">TIME AFTER TIME CAPSULE</a> in the shape of <a class="tpr-article-content__link" href="http://www3.nhk.or.jp/nhkworld/en/tv/" target="_blank" rel="nofollow noopener">NHK's</a> mascot <a class="tpr-article-content__link" href="https://twitter.com/domo" target="_blank" rel="nofollow noopener">Domo</a>, which was unveiled last Wednesday at Camden’s North Yard, the perfect cool London location.</p>
                     
                         <img 
                             data-sizes="auto" 
                             data-srcset="
-                                ../assets/images/news/aljezeera1-news_400w.jpg 400w, 
-                                ../assets/images/news/aljezeera1-news.jpg"
-                            data-src="../assets/images/news/aljezeera1-news.jpg" 
-                            src="../assets/images/news/aljezeera1-news-preview.jpg"
-                            alt="Journalist and cameraman on rooftop conducting interview" class="lazyload tpr-article-content__image">
+                                ../assets/images/news/nhk3-news_400w.jpg 400w, 
+                                ../assets/images/news/nhk3-news.jpg"
+                            data-src="../assets/images/news/nhk3-news.jpg" 
+                            src="../assets/images/news/nhk3-news-preview.jpg"
+                            alt="Kawaii International stand" class="lazyload tpr-article-content__image">
                     
                         <p class="tpr-article-content__paragraph">Blogger and author <a class="tpr-article-content__link" href="https://twitter.com/racheleats" target="_blank" rel="nofollow noopener">Rachel Roddy</a> won this year's <a class="tpr-article-content__link" href="http://www.andresimon.co.uk/" target="_blank" rel="nofollow noopener">Food</a> prize for her debut publication,<a class="tpr-article-content__link" href="http://www.saltyardbooks.co.uk/book/five-quarters-recipes-and-notes-from-a-kitchen-in-rome/" target="_blank" rel="nofollow noopener"> Five Quarters: Recipes and Notes from a Kitchen in Rome</a>. The book – which judges commended for its vibrant evocation of the tastes and smells of Rome, refreshing simplicity and unstyled production – charts a year in Rachel's tiny kitchen in a suburb of the Italian capital.</p>
                         <p class="tpr-article-content__paragraph">We love Five Quarters, which depicts Rachel's adventures in shopping, cooking, eating, writing and falling in love, capturing a uniquely domestic picture of her life there, with hints of nostalgia, memories of growing up in England. If you'd like to try some of Rachel's recipes at home yourself, you might like to check out <a class="tpr-article-content__link" href="http://www.theguardian.com/lifeandstyle/2016/feb/02/ragu-alla-bolognese-recipe-rachel-roddy-kitchen-sink-tales" target="_blank" rel="nofollow noopener">this recent feature in the Guardian</a>.</p>
@@ -88,11 +88,11 @@
                         <img 
                             data-sizes="auto" 
                             data-srcset="
-                                ../assets/images/news/aljezeera1-news_400w.jpg 400w, 
-                                ../assets/images/news/aljezeera1-news.jpg"
-                            data-src="../assets/images/news/aljezeera1-news.jpg" 
-                            src="../assets/images/news/aljezeera1-news-preview.jpg"
-                            alt="Journalist and cameraman on rooftop conducting interview" class="lazyload tpr-article-content__image">
+                                ../assets/images/news/nhk4-news_400w.jpg 400w, 
+                                ../assets/images/news/nhk4-news.jpg"
+                            data-src="../assets/images/news/nhk4-news.jpg" 
+                            src="../assets/images/news/nhk4-news-preview.jpg"
+                            alt="Beckii: global kawaii-leader" class="lazyload tpr-article-content__image">
                     
                         <p class="tpr-article-content__paragraph">Meanwhile, investigative journalist <a class="tpr-article-content__link" href="https://twitter.com/smustacich" target="_blank" rel="nofollow noopener">Suzanne Mustacich</a> won this year's prize in the <a class="tpr-article-content__link" href="http://www.andresimon.co.uk/" target="_blank" rel="nofollow noopener">Drink</a> for <a class="tpr-article-content__link" href="http://us.macmillan.com/thirstydragon/suzannemustacich" target="_blank" rel="nofollow noopener">Thirsty Dragon</a>, which explores China's lust for Bordeaux and its threat to the world's best wines. It's an exhaustively researched tale of business skulduggery and fierce cultural classes with a dramatic narrative, eloquent style and fascinating cultural analysis – a real life thriller. You can catch Suzanne speaking about Thirsty Dragon on <a class="tpr-article-content__link" href="http://www.bbc.co.uk/programmes/b006qtl3" target="_blank" rel="nofollow noopener">BBC Radio 4's The World Tonight</a> this Friday.</p>
                     

@@ -51,16 +51,6 @@
                 </div>
             </div>
             <div class="col-md-4 px-2">
-                <div class="tpr-team-member" data-toggle="modal" data-target="#teammember-frankie">
-                    <div class="tpr-team-member__overlay"></div>
-                    <h2 class="tpr-team-member__name">Francesca Chater</h2>
-                    <h3 class="tpr-team-member__title">Account Manager</h3>
-                    <img src="./assets/images/team/portrait_frankie.jpg" alt="" class="tpr-team-member__picture">
-                </div>
-            </div>
-        </div>
-        <div class="row tpr-team px-5 pb-3">
-            <div class="col-md-4 mr-auto px-2">
                 <div class="tpr-team-member" data-toggle="modal" data-target="#teammember-hannah">
                     <div class="tpr-team-member__overlay"></div>
                     <h2 class="tpr-team-member__name">Hannah Maule-Finch</h2>
@@ -69,6 +59,16 @@
                 </div>
             </div>
         </div>
+        <!-- <div class="row tpr-team px-5 pb-3">
+            <div class="col-md-4 mr-auto px-2">
+                <div class="tpr-team-member" data-toggle="modal" data-target="#teammember-hannah">
+                    <div class="tpr-team-member__overlay"></div>
+                    <h2 class="tpr-team-member__name">Hannah Maule-Finch</h2>
+                    <h3 class="tpr-team-member__title">Photographer</h3>
+                    <img src="./assets/images/team/portrait_hannah.jpg" alt="" class="tpr-team-member__picture">
+                </div>
+            </div>
+        </div> -->
     </main>
 
     <!-- modals -->
@@ -86,7 +86,7 @@
                 <div class="modal-body text-center">
                     <p class="text-center px-5 py-4">Founder and Director, Sophie Toumazis, has over 25 years PR experience. Career highlights before include launching BBC
                     Radio 5 and running the press office at the BBC World Service where she coordinated international campaigns in Russia
-                    and across Eastern Europe. Since setting up tpr, Sophie’s client list has included Channel 4 and the BBC, More 4,
+                    and across Eastern Europe. Since setting up tpr, Sophie's client list has included Channel 4 and the BBC, More 4,
                     Associated Press, Reuters, RSA, BRITDOC, dozens of production companies and Raindance, Europe’s foremost independent
                     film festival. tpr has a strong track-record in running campaigns that engage in the cultural and news agenda.</p>
                 </div>
@@ -107,14 +107,14 @@
                 <div class="modal-body text-center">
                     <p class="text-center px-5 py-4">Senior Account manager, Eleanor Robertson, is a multi-media professional who has been working with tpr media for four
                     years. Having cut her teeth in fashion and food and drink PR, since joining tpr she has worked on dozens of
-                    documentaries including Nick Broomfield’s Tales of the Grim Sleeper, she has run a number of campaigns for Japan’s
+                    documentaries including Nick Broomfield's Tales of the Grim Sleeper, she has run a number of campaigns for Japan's
                     Public Service broadcaster NHK WORLD TV who are seeking to raise the profile of their documentaries in the UK. She is a
                     talented writer and passionate communications expert.</p>
                 </div>
             </section>
         </div>
     </div>
-    <div class="modal fade tpr-team-modal" id="teammember-frankie" tabindex="-1" role="dialog" aria-labelledby="tprTeamMemberModal"
+    <!-- <div class="modal fade tpr-team-modal" id="teammember-frankie" tabindex="-1" role="dialog" aria-labelledby="tprTeamMemberModal"
         aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <section class="modal-content">
@@ -136,7 +136,7 @@
                 </div>
             </section>
         </div>
-    </div>
+    </div> -->
     <div class="modal fade tpr-team-modal" id="teammember-hannah" tabindex="-1" role="dialog" aria-labelledby="tprTeamMemberModal"
         aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
@@ -160,9 +160,9 @@
     <!-- team info -->
     <div class="container">
         <div class="row">
-            <div class="col-11 mx-auto">
+            <div class="col-11 mx-auto mt-3">
                 <p class="text-center">Our contacts book is our strongest asset. We have extensive knowledge of the media industries and strong, meaningful
-                relationships with influential journalists across consumer print, TV and radio, trade press and online. We’ve spent
+                relationships with influential journalists across consumer print, TV and radio, trade press and online. We've spent
                 nearly two decades identifying and building connections with the most talented and trusted writers and broadcasters in
                 the UK and overseas and the high quality of the work we promote means that journalists are highly receptive to our
                 projects.</p>
@@ -177,7 +177,7 @@
                     <li>Marketing strategy</li>
                     <li>Marketing communication</li>
                     <li>Profile building</li>
-                    <li>Issue & crisis management</li>
+                    <li>Issue &amp; crisis management</li>
                     <li>Media training</li>
                     <li>Event planning and management</li>
                     <li>Client representation</li>
@@ -190,7 +190,7 @@
                     <li>Marketing strategy</li>
                     <li>Marketing communication</li>
                     <li>Profile building</li>
-                    <li>Issue & crisis management</li>
+                    <li>Issue &amp; crisis management</li>
                     <li>Media training</li>
                     <li>Event planning and management</li>
                     <li>Client representation</li>
