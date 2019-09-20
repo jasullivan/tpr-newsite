@@ -74,6 +74,8 @@
                         
                         <p class="tpr-article-content__paragraph">Just like the journalists who covered this story for Al Jazeera, the user is tasked with collecting as much information as possible in a limited amount of time by contacting activists, hackers an coders. In doing so, they face a number of decisions, including whether or not they should pay hackers for vital information, when they should go undercover online and whether they will allow interviewees to disguise thei identity to keep them safe. Most crucially, the players must avoid being hacked themselves. All hacks in the app, whether they involve avatars or blackmailers, are based on real hacks that have actually taken place during Syria's cyber war.</p>
 
+                        <iframe class="mx-auto d-block mb-3" width="560" height="315" src="https://www.youtube.com/embed/KhP3K0uGags" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
                         <p class="tpr-article-content__paragraph">We've had an amazing time working alongside the creator of the app, award-winning senior Al Jazeera correspondent, Juliana Ruhfus. The project is based on a People &amp; Power documentary of the same name and is the follow-up to Ruhfus' ground-breaking and award-winning interactive investigation, Pirate Fishing. This innovative new project continues Al Jazeera English's quest to present its programming content in innovative ways to reaches new audiences.</p>
                         
                         <img 
