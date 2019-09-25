@@ -14,24 +14,41 @@ $(document).ready(function () {
         arrows: false,
         adaptiveHeight: true
     });
+    
     $(".homepageSlider").slick({
-        // lazyLoad: 'ondemand',
         dots: false,
         infinite: true,
-        // adaptiveHeight: true,
         slidesToShow: 1,
         slidesToScroll: 1,
-        autoplay: true,
+        // autoplay: true,
         fade: true,
+        // adaptiveHeight: true,
         cssEase: 'linear',
         speed: 1000,
         autoplaySpeed: 5000,
-        nextArrow: '<span class="icon-arrowRight arrow-next"></span>',
-        prevArrow: '<span class="icon-arrowLeft arrow-prev"></span>',
+        nextArrow: '<span class="icon-arrowRight arrow-next "></span>',
+        prevArrow: '<span class="icon-arrowLeft arrow-prev"></span>'
     });
 });
 
 
+
+
+// potential hide arrows on resize
+
+// function fadeOnResize() {
+//     console.log('test');
+//     const arrowRight = document.querySelector('.icon-arrowRight');
+//     const arrowLeft = document.querySelector('.icon-arrowLeft');
+//     arrowRight.style.opacity = 0;
+//     arrowLeft.style.opacity = 0;
+//     setTimeout(function () { 
+//         arrowRight.style.opacity = 1;
+//         arrowLeft.style.opacity = 1;
+//     }, 2000);
+// }
+
+// window.onresize = fadeOnResize;
 
 
 

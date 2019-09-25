@@ -17,9 +17,16 @@
     <!-- <link rel="stylesheet" href="./assets/styles/css/progressive-image.min.css">
     <script src="./assets/js/progressive-image.min.js"></script> -->
     <!-- for progressive lazy load -->
+
     <link rel="stylesheet" type="text/css" media="screen" href="./assets/styles/css/style.css" />
+
+    <!-- image lazy load -->
     <script src="./assets/js/lazysizes.min.js"></script>
+    <!-- image lazy load -->
+
+    <!-- testimonial carousel -->
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+    <!-- testimonial carousel -->
 </head>
 <body>
  
@@ -476,12 +483,19 @@
         crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
-    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <!-- bootstrap end -->
+
+    <!-- gallery and filter -->
     <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
     <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
-    <script src="./assets/js/carousels.js"></script>
-    <script src="./assets/js/script.js"></script>
     <script src="./assets/js/isotope-script.js"></script>
+
+    <!-- carousels -->
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script src="./assets/js/carousels.js"></script>
+    <!-- carousels end -->
+
+    <script src="./assets/js/script.js"></script>
 
 </body>
 </html>

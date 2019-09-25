@@ -1,18 +1,3 @@
-// potentially needed for lazysizes see iamsteve blog
-
-// var lazy = function lazy() {
-//     document.addEventListener('lazyloaded', function (e) {
-//         e.target.parentNode.classList.add('image-loaded');
-//         e.target.parentNode.classList.remove('loading');
-//     });
-// }
-
-// lazy();
-
-// potentially needed for lazysizes see iamsteve blog
-
-
-
 /*******************************
 // mob nav button
 *******************************/
@@ -38,7 +23,7 @@ navButton.addEventListener("click", function() {
 *******************************/
 
 /*******************************
-// slick carousel fade in
+// fade in
 ********************************/
 window.onload = function () {
     setTimeout(function () {
@@ -51,8 +36,25 @@ window.onload = function () {
     }, 100);
 };
 /*******************************
-// slick carousel fade in ends
+// fade in ends
 ********************************/
+
+
+
+
+// maybe dont need these
+// potentially needed for lazysizes see iamsteve blog
+
+// var lazy = function lazy() {
+//     document.addEventListener('lazyloaded', function (e) {
+//         e.target.parentNode.classList.add('image-loaded');
+//         e.target.parentNode.classList.remove('loading');
+//     });
+// }
+
+// lazy();
+
+// potentially needed for lazysizes see iamsteve blog
 
 /*******************************
 // carousel lazy loading - LAZYSIZES SEEMS TO WORK OK

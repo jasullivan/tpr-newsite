@@ -9,7 +9,7 @@
                                 <img src="./assets/images/logos/logo_white.png" alt="" class="tpr-footer__logo-main">
                                 <p class="text-center px-5 pt-3">Highgate, London</p>
                                 <a href="tel:4402083477020" class="text-center tpr-footer__tel-link">+44 0208 347 7020</a>
-                                <h4 class="pt-5">tpr media consultants</h4>
+                                <p class="pt-5">tpr media consultants</p>
                             </div>
                         </div>
                     </div>
