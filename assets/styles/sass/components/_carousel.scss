@@ -7,11 +7,21 @@
   text-align: center;
 }
 .carousel-control-prev, .carousel-control-next {
-  width: 40px;
-  height: 40px;
-  background: grey;
+  width: 4rem;
+  height: 4rem;
+  @include respond(lg) {
+    width: 5rem;
+    height: 5rem;
+  }
+  background: rgba(0, 0, 0, 0.6);
   position: absolute;
   top: 44%;
+}
+.arrow-prev, .arrow-next {
+  font-size: 2rem;
+  // @include respond(lg) {
+  //   font-size: 3rem;
+  // }
 }
 // .carousel-item {
 //   h2 {

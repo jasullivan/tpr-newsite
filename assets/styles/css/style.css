@@ -142,7 +142,7 @@ a:hover {
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  speak: none;
+  speak-as: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -294,11 +294,18 @@ a:hover {
   text-align: center; }
 
 .carousel-control-prev, .carousel-control-next {
-  width: 40px;
-  height: 40px;
-  background: grey;
+  width: 4rem;
+  height: 4rem;
+  background: rgba(0, 0, 0, 0.6);
   position: absolute;
   top: 44%; }
+  @media (min-width: 62em) {
+    .carousel-control-prev, .carousel-control-next {
+      width: 5rem;
+      height: 5rem; } }
+
+.arrow-prev, .arrow-next {
+  font-size: 2rem; }
 
 /* ---- .gallery-item ---- */
 .gallery-item {

@@ -15,20 +15,20 @@ $(document).ready(function () {
         adaptiveHeight: true
     });
     
-    $(".homepageSlider").slick({
-        dots: false,
-        infinite: true,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        // autoplay: true,
-        fade: true,
-        // adaptiveHeight: true,
-        cssEase: 'linear',
-        speed: 1000,
-        autoplaySpeed: 5000,
-        nextArrow: '<span class="icon-arrowRight arrow-next "></span>',
-        prevArrow: '<span class="icon-arrowLeft arrow-prev"></span>'
-    });
+    // $(".homepageSlider").slick({
+    //     dots: false,
+    //     infinite: true,
+    //     slidesToShow: 1,
+    //     slidesToScroll: 1,
+    //     autoplay: true,
+    //     fade: true,
+    //     adaptiveHeight: true,
+    //     cssEase: 'linear',
+    //     speed: 1000,
+    //     autoplaySpeed: 5000,
+    //     nextArrow: '<span class="icon-arrowRight arrow-next "></span>',
+    //     prevArrow: '<span class="icon-arrowLeft arrow-prev"></span>'
+    // });
 });
 
 
