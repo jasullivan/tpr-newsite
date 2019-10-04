@@ -23,27 +23,92 @@
 
 </head>
 <body>
+    <!-- <div>
+        <header>header</header>
+        <section>section</section>
 
+        <h1>h1</h1>
+        <footer>footer</footer>
+
+    </div> -->
     <!-- navbar -->
     <?php include 'navigation.php'; ?>
     <!-- navbar -->
 
     <div class="fadeLoad">
-
-
-        <!-- <div class="test-slider">
-            <div>
-                <img src="./assets/images/slider/Artem-sfx-slider.jpg" alt="Artem: Two men dressed in Halo Masterchief costumes jumping with London landmarks in background">
-                <h2>Artem</h2>
-            </div>
-            <div>
-                <img src="./assets/images/slider/Out-of-Thin-Air-slider.jpg" alt="Out of Thin Air: Black and white reconstruction of Icelandic crime scene">
-                <h2>Out of Thin Air</h2>
+        <div class="bd-example">
+  <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+    <!-- <ol class="carousel-indicators">
+      <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+    </ol> -->
+    <div class="carousel-inner carousel-fade">
+      <div class="carousel-item active">
+        <a href="project-articles/case-study-out-of-thin-air"><img src="./assets/images/slider/Artem-sfx-slider.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>First slide label</h5>
+          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p></a>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <a href="project-articles/case-study-out-of-thin-air"><img src="./assets/images/slider/andre-simon-awards-slider.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Second slide label</h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></a>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <a href="project-articles/case-study-out-of-thin-air"><img src="./assets/images/slider/inside-dior-slider.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Third slide label</h5>
+          <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p></a>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+        <!-- <div class="slider">
+            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img class="d-block w-100" src="./assets/images/slider/Artem-sfx-slider.jpg" alt="First slide"> -->
+                        <!-- <a href="project-articles/case-study-out-of-thin-air"> -->
+                            <!-- <img class="d-block w-100" src="./assets/images/slider/Artem-sfx-slider.jpg" alt="Artem: Two men dressed in Halo Masterchief costumes jumping with London landmarks in background">
+                            <h2>Artem</h2> -->
+                        <!-- </a> -->
+                    <!-- </div> -->
+                    <!-- <div class="carousel-item active">
+                        <img class="d-block w-100" src="./assets/images/slider/Out-of-Thin-Air-slider.jpg" alt="First slide"> -->
+                        <!-- <a href="project-articles/case-study-out-of-thin-air">     -->
+                            <!-- <img src="./assets/images/slider/Out-of-Thin-Air-slider.jpg" alt="Out of Thin Air: Black and white reconstruction of Icelandic crime scene">
+                            <h2>Out of Thin Air</h2> -->
+                        <!-- </a> -->
+                    <!-- </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
             </div>
         </div> -->
 
+    
+        
         <!-- slick slider -->
-        <section class="homepageSlider slider">
+        <!-- <div class="homepageSlider slider">
             <a href="project-articles/case-study-out-of-thin-air">
                 <img src="./assets/images/slider/Artem-sfx-slider.jpg" alt="Artem: Two men dressed in Halo Masterchief costumes jumping with London landmarks in background">
                 <h2>Artem</h2>
@@ -88,62 +153,14 @@
                 <img src="./assets/images/slider/Top-Boy-slider.jpg" alt="Top Boy: Four Top Boy cast members including Ashley Walters and Kane Robinson on an urban rooftop with a dog">
                 <h2>Top Boy</h2>
             </a>
-        </section>
-
-    <!-- <div class="fadeLoad"> -->
-        <!-- slick slider -->
-        <!-- <section class="homepageSlider slider">
-            <a href="project-articles/case-study-out-of-thin-air">
-                <img src="./assets/images/slider/Artem-sfx-slider.jpg" alt="Artem: Two men dressed in Halo Masterchief costumes jumping with London landmarks in background">
-                <h2>Artem</h2>
-            </a>
-            <a href="project-articles/case-study-out-of-thin-air">    
-                <img src="./assets/images/slider/Out-of-Thin-Air-slider.jpg" alt="Out of Thin Air: Black and white reconstruction of Icelandic crime scene">
-                <h2>Out of Thin Air</h2>
-            </a>
-            <a href="project-articles/andre-simon-awards">
-                <img src="./assets/images/slider/andre-simon-awards-slider.jpg" alt="Celebrity Chef Jamie Oliver mingles with guests at the annual Andr&#233; Simon Awards">
-                <h2>Andr&#233; Simon Awards</h2>
-            </a>
-            <a href="project-articles/case-study-grayson-perry">
-                <img src="./assets/images/slider/Grayson-Perry-slider.jpg" alt="Grayson Perry tapestry">
-                <h2>All In The Best Possible Taste with Grayson Perry</h2>
-            </a>
-            <a href="project-articles/inside-dior">
-                <img src="./assets/images/slider/inside-dior-slider.jpg" alt="Inside Dior: Supermodel Bella Hadid on catwalk with other models">
-                <h2>Inside Dior</h2>
-            </a>
-            <a href="project-articles/my-brother-the-terrorist">
-                <img src="./assets/images/slider/My-Brother-The-Terrorist-slider.jpg" alt="My Brother the Terrorist: Presenter/director Robb Leech with film camera interviews his brother who became a radical Muslim, both are seated">
-                <h2>My Brother The Terrorist</h2>
-            </a>
-            <a href="project-articles/case-study-no-fire-zone">
-                <img src="./assets/images/slider/no-fire-zone-slider.jpg" alt="Close-up of three female victims of Sri Lanka’s Civil War in extreme distress">
-                <h2>No Fire Zone: The Killing Fields of Sri Lanka</h2>
-            </a>
-            <a href="project-articles/case-study-tales-of-grim-sleeper">
-                <img src="./assets/images/slider/tales-of-grim-sleeper-slider.jpg" alt="Tales of the Grim Sleeper: Director Nick Broomfield (left) with headphones and contributor Pam in foreground driving a car">
-                <h2>Tales of the Grim Sleeper</h2>
-            </a>
-            <a href="project-articles/case-study-the-undateables">
-                <img src="./assets/images/slider/the-undatables-slider.jpg" alt="Undateables: Eight contributors of Undateables series one">
-                <h2>The Undateables</h2>
-            </a>
-            <a href="project-articles/the-year-the-townhall-shrank">
-                <img src="./assets/images/slider/the-year-the-town-hall-shrank-slider.jpg" alt="The Year the Town Hall Shrank: Close-up of female resident at old people’s home">
-                <h2>The Year the Town Hall Shrank</h2>
-            </a>
-            <a href="project-articles/top-boy">
-                <img src="./assets/images/slider/Top-Boy-slider.jpg" alt="Top Boy: Four Top Boy cast members including Ashley Walters and Kane Robinson on an urban rooftop with a dog">
-                <h2>Top Boy</h2>
-            </a>
-        </section> -->
+        </div> -->
         <!-- slick slider ends -->
+    
 
         <!-- tpr company statement -->
-        <section class="container pb-5 pt-md-4">
+        <div class="container pb-5 pt-md-4">
             <h1 class="tpr-statement-text"><span class="tpr-statement-text--highlight">Intelligent communications</span> campaigns for the creative industries and projects with a social impact</h1>
-        </section>
+        </div>
         <!-- tpr company statement -->
 
         <!-- footer -->
