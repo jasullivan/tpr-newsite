@@ -37,6 +37,8 @@
         <p><span>David Brindley, Head of Popular Factual and Factual Entertainment, BBC</span> <br>"I’ve worked with Sophie on several
         big series. She and her team provide attention to detail and you feel your films are very carefully and looked after in
         her hands. I’m looking forward to continuing to work with tpr media on many future projects."</p>
+        <p><span>Christopher Hird, Founder/Managing Director, Dartmouth Films</span> <br>"It is always a great challenge to get media attention for an independent documentary. The key is strategically focusing on the coverage which gets the attention of your target audience. tpr excel at this, helping to fill cinemas for us."</p>
+        <p><span>Paul Elson, CEO, Brave New Media</span> <br>"I have worked with Sophie and tpr media for four years now, and by choice would not work with anyone else. Sophie has the experience which gives me confidence not only that a campaign will go well, but that she will go above and beyond what a normal PR agency does to make sure the campaign is a success."</p>
 
     </div>
 </div>
