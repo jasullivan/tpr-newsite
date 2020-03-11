@@ -1,5 +1,5 @@
 <?php
-	// CHANGE THE $NAV_CLASS VARIABLE TO HOME OR ABOUT AND SEE THAT IT CHANGES WHICH LI IS ACTIVE
+	
 	$nav_class = 'nav-clients';
 ?>
 <!DOCTYPE html>
@@ -24,7 +24,7 @@
     
     
     <!-- blue header bar -->
-    <div class="container-fluid pt-4">
+    <header class="container-fluid pt-4">
         <div class="tpr-blue-bar">
             <h1 class="tpr-blue-bar__title">Our clients include film and TV production companies, international broadcasters and NGOs as well as technology
             start-ups, from Tokyo to LA and Stockholm and Jakarta.</h1>
@@ -32,9 +32,9 @@
             pride ourselves on having long-standing relationships with clients – many for over a decade. We’re never complacent and
             that’s because we love what we do. We hope it shines through in our work and what our clients say about us.</p>
         </div>  
-    </div>
+    </header>
     <!-- blue header bar -->
-<div class="fadeLoad">
+    <div class="fadeLoad">
     <!-- team section -->
     <div class="container">
         <div class="row tpr-clients p-5">

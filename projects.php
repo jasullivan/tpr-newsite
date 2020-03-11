@@ -1,5 +1,5 @@
 <?php
-	// CHANGE THE $NAV_CLASS VARIABLE TO HOME OR ABOUT AND SEE THAT IT CHANGES WHICH LI IS ACTIVE
+	
 	$nav_class = 'nav-projects';
 ?>
 <!DOCTYPE html>
@@ -36,12 +36,12 @@
 
    
     <!-- blue header bar -->
-    <div class="container-fluid pt-4">
+    <header class="container-fluid pt-4">
         <div class="tpr-blue-bar">
             <h1 class="tpr-blue-bar__title">We believe that every project is special and that’s why we create bespoke, tailored campaigns.</h1>
             <p class="tpr-blue-bar__content"> From targeted publicity for film and programme launches, to corporate retainers from major international brands, we work closely with our clients to deliver the right campaign to support their business goals. Whether it’s driving audience figures or raising reputation and business profile, we provide creative, intelligent and effective communication campaigns that get noticed.</p>
         </div>  
-    </div>
+    </header>
     <!-- blue header bar -->
     <div class="fadeLoad">
     <!-- MAIN (Center website) -->

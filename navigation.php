@@ -1,5 +1,5 @@
 <!-- navbar -->
-<header role="navigation" aria-label="Main navigation" class="navbar navbar-expand-lg navbar-light bg-white p-4 tpr-nav">
+<div role="navigation" aria-label="Main navigation" class="navbar navbar-expand-lg navbar-light bg-white p-4 tpr-nav">
     <a class="navbar-brand" href="index">
         <img src="./assets/images/logos/logo.png" alt="tpr media logo">
     </a>
@@ -36,5 +36,5 @@
             </li>
         </ul>
     </nav>
-</header>
+</div>
 <!-- navbar -->

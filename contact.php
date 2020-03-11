@@ -1,5 +1,5 @@
 <?php
-	// CHANGE THE $NAV_CLASS VARIABLE TO HOME OR ABOUT AND SEE THAT IT CHANGES WHICH LI IS ACTIVE
+	
 	$nav_class = 'nav-contact';
 ?>
 <!DOCTYPE html>
@@ -23,12 +23,12 @@
     <!-- navbar -->
 
     <!-- blue header bar -->
-    <div class="container-fluid pt-4">
+    <header class="container-fluid pt-4">
         <div class="tpr-blue-bar">
             <h1 class="tpr-blue-bar__title">We want to help you amplify your message.</h1>
             <p class="tpr-blue-bar__content">So get in touch if you’ve got a project that we could help with. We enjoy meeting new people and we’re always happy to chat ideas through over a coffee.</p>
         </div>  
-    </div>
+    </header>
     <!-- blue header bar -->
 
     <!-- contact details section -->

@@ -1,5 +1,5 @@
 <?php
-	// CHANGE THE $NAV_CLASS VARIABLE TO HOME OR ABOUT AND SEE THAT IT CHANGES WHICH LI IS ACTIVE
+	
 	$nav_class = 'nav-news';
 ?>
 <!DOCTYPE html>
@@ -26,11 +26,11 @@
     <?php include '../sub-navigation.php'; ?>
     <!-- navbar -->
 
-    <article role="article">
+    <article>
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">
-                <h1 class="tpr-blue-bar__content">Dartmouth Films' new documentary The Ballymurphy Precedent</h1>
+                <h1 class="tpr-blue-bar__title">Dartmouth Films' new documentary The Ballymurphy Precedent</h1>
             </div>
         </header>
         <!-- blue header bar -->

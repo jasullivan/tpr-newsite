@@ -1,5 +1,5 @@
 <?php
-	// CHANGE THE $NAV_CLASS VARIABLE TO HOME OR ABOUT AND SEE THAT IT CHANGES WHICH LI IS ACTIVE
+	
 	$nav_class = 'nav-projects';
 ?>
 <!DOCTYPE html>
@@ -26,7 +26,7 @@
     <?php include '../sub-navigation.php'; ?>
     <!-- navbar -->
 
-    <article role="article">
+    <article>
         <!-- blue header bar -->
         <header class="container-fluid pt-4">
             <div class="tpr-blue-bar">

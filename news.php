@@ -1,5 +1,5 @@
 <?php
-	// CHANGE THE $NAV_CLASS VARIABLE TO HOME OR ABOUT AND SEE THAT IT CHANGES WHICH LI IS ACTIVE
+	
 	$nav_class = 'nav-news';
 ?>
 <!DOCTYPE html>
@@ -24,11 +24,11 @@
    
 
     <!-- blue header bar -->
-    <div class="container-fluid pt-4">
+    <header class="container-fluid pt-4">
         <div class="tpr-blue-bar">
             <h1 class="tpr-blue-bar__title">We’re always working on something exciting – here’s a glimpse of what we’ve been up to lately.</h1>
         </div>  
-    </div>
+    </header>
     <!-- blue header bar -->
     <div class="fadeLoad">
     <!-- news section -->

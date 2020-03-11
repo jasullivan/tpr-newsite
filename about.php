@@ -1,5 +1,5 @@
 <?php
-	// CHANGE THE $NAV_CLASS VARIABLE TO HOME OR ABOUT AND SEE THAT IT CHANGES WHICH LI IS ACTIVE
+	
 	$nav_class = 'nav-about';
 ?>
 
@@ -24,11 +24,12 @@
     <!-- navbar -->
     
     <!-- blue header bar -->
-    <div class="container-fluid pt-4">
+    <header class="container-fluid pt-4">
         <div class="tpr-blue-bar">
-            <h1 class="tpr-blue-bar__title">Media relations, event management and strategic consultancy to branding.</h1> <p class="tpr-blue-bar__content">tpr media is a London-based communications agency committed to creating intelligent campaigns for the creative industries and projects with a social impact. We are passionate about compelling story telling and love to stimulate conversation and debate, offering profile and positioning that sets our clients apart from the crowd.</p>
+            <h1 class="tpr-blue-bar__title">Media relations, event management and strategic consultancy to branding.</h1>
+            <p class="tpr-blue-bar__content">tpr media is a London-based communications agency committed to creating intelligent campaigns for the creative industries and projects with a social impact. We are passionate about compelling story telling and love to stimulate conversation and debate, offering profile and positioning that sets our clients apart from the crowd.</p>
         </div>
-    </div>
+    </header>
     <!-- blue header bar -->
 
     <!-- team gallery section -->
@@ -215,8 +216,11 @@
         crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
+
+    <!-- testimonials     -->
     <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script src="./assets/js/carousels.js"></script>
+    <!-- testimonials  ends   -->
     <script src="./assets/js/script.js"></script>
 </body>
 </html>

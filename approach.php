@@ -1,5 +1,5 @@
 <?php
-	// CHANGE THE $NAV_CLASS VARIABLE TO HOME OR ABOUT AND SEE THAT IT CHANGES WHICH LI IS ACTIVE
+	
 	$nav_class = 'nav-approach';
 ?>
 <!DOCTYPE html>
@@ -23,13 +23,13 @@
     <!-- navbar -->
 
     <!-- blue header bar -->
-    <div class="container-fluid pt-4">
+    <header class="container-fluid pt-4">
         <div class="tpr-blue-bar">
             <h1 class="tpr-blue-bar__title">The breadth of our experience – working across news, arts and culture – means clients get a specialist service.</h1>
             <p class="tpr-blue-bar__content">With a proven track record over nearly 20 years and the endorsements to back it up, we’re small enough to be passionate, and well connected enough to deliver big results. If you work with us you can expect commitment, creativity
             and outstanding communication delivered with energy and enthusiasm.</p>
         </div>  
-    </div>
+    </header>
     <!-- blue header bar -->
 
     <!-- approach content -->
