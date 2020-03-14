@@ -5,6 +5,15 @@
         padding-bottom: 2rem;
         width: 100%;
         max-width:825px;
+        &--nopad {
+            padding-bottom: 0;
+        }
+    }
+    &__img-caption {
+        text-align: center;
+        margin-bottom: 0;
+        padding-bottom: 1rem;
+        font-style: italic;
     }
     &__subtitle {
         font-size: 2rem;

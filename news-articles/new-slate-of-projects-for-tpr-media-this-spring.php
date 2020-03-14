@@ -43,9 +43,9 @@
                         <a href="diana-henry-at-andre-simon-awards" class="next-prev-buttons__prev">
                             <span class="icon-arrowLeft"></span>previous
                         </a>
-                        <!-- <a href="diana-henry-at-andre-simon-awards" class="next-prev-buttons__next">
+                        <a href="nhs-film-under-the-knife-premier" class="next-prev-buttons__next">
                             next<span class="icon-arrowRight"></span>
-                        </a> -->
+                        </a>
                     </div>
                 </div>
             </div>
