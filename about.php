@@ -26,7 +26,7 @@
     <!-- blue header bar -->
     <header class="container-fluid pt-4">
         <div class="tpr-blue-bar">
-            <h1 class="tpr-blue-bar__title">Media relations, event management and strategic consultancy to branding.</h1>
+            <h1 class="tpr-blue-bar__title">Delivering media relations, event management and strategic consultancy to branding.</h1>
             <p class="tpr-blue-bar__content">tpr media is a London-based communications agency committed to creating intelligent campaigns for the creative industries and projects with a social impact. We are passionate about compelling story telling and love to stimulate conversation and debate, offering profile and positioning that sets our clients apart from the crowd.</p>
         </div>
     </header>

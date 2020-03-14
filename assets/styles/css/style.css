@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Amiri");
-@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap");
 /* reset for different browsers - normalize and reset not really needed anymore */
 *,
 *::after,
@@ -81,12 +81,6 @@ body {
 body {
   font-family: 'Open Sans', Arial, sans-serif;
   color: #333333; }
-
-h1 {
-  font-size: 6rem; }
-
-h2 {
-  font-size: 5rem; }
 
 p, ul {
   font-size: 1.6rem; }
@@ -271,11 +265,15 @@ a:hover {
     line-height: 1.4;
     margin: 0 auto;
     text-align: center;
-    max-width: 110rem; }
+    max-width: 110rem;
+    font-weight: 400; }
+    .tpr-blue-bar__title--no-content {
+      padding-bottom: 0rem; }
   .tpr-blue-bar__content {
     display: none; }
     @media (min-width: 75em) {
       .tpr-blue-bar__content {
+        font-weight: 300;
         display: block;
         font-size: 2rem;
         line-height: 1.4;
