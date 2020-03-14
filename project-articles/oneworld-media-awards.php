@@ -50,8 +50,8 @@
                             alt="Close-up of Jon Snow speaking at the One World Media Awards" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Client: One World Media Trust</h3>
-                        <h3 class="tpr-article-content__details">Date: 2001&ndash;2011</h3>
+                        <p class="tpr-article-content__details">Client: One World Media Trust</p>
+                        <p class="tpr-article-content__details">Date: 2001&ndash;2011</p>
 
                         
                         

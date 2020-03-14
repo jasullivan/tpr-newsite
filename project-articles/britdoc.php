@@ -50,8 +50,8 @@
                             alt="Cameraman shooting documentary" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Client: BRITDOC Foundation (now called the Doc Society)</h3>
-                        <h3 class="tpr-article-content__details">Date: 2009&ndash;2012</h3>
+                        <p class="tpr-article-content__details">Client: BRITDOC Foundation (now called the Doc Society)</p>
+                        <p class="tpr-article-content__details">Date: 2009&ndash;2012</p>
 
                         
                         

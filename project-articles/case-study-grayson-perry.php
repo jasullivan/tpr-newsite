@@ -50,9 +50,9 @@
                             alt="Grayson Perry tapestry" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Seneca Productions</h3>
-                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
-                        <h3 class="tpr-article-content__details">Date: June 2012</h3>
+                        <p class="tpr-article-content__details">Production Company: Seneca Productions</p>
+                        <p class="tpr-article-content__details">Channel: Channel 4</p>
+                        <p class="tpr-article-content__details">Date: June 2012</p>
 
                         
                         

@@ -50,8 +50,8 @@
                             alt="Coloured tinted skyline of Baghdad in the 1950s" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Spring Films &amp; Echodocs</h3>
-                        <h3 class="tpr-article-content__details">Date: 2016–2017</h3>
+                        <p class="tpr-article-content__details">Production Company: Spring Films &amp; Echodocs</p>
+                        <p class="tpr-article-content__details">Date: 2016–2017</p>
                         
                         <p class="tpr-article-content__paragraph">Remember Baghdad is a documentary about Iraq through the eyes of the Jews who lived there for 2,600 years until only a
                         generation ago. In 1917, a third of Baghdad’s population was Jewish.</p>

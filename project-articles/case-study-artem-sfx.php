@@ -50,8 +50,8 @@
                             alt="Two men dressed in Halo Masterchief costumes jumping with London landmarks in background" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Award-winning special effects company</h3>
-                        <h3 class="tpr-article-content__details">Date: From 2012</h3>
+                        <p class="tpr-article-content__details">Award-winning special effects company</p>
+                        <p class="tpr-article-content__details">Date: From 2012</p>
 
                         
                         

@@ -50,9 +50,9 @@
                             alt="Eight contributors of Undateables series one" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Betty TV</h3>
-                        <h3 class="tpr-article-content__details">Channel: Channel 4 Series 1&ndash;3</h3>
-                        <h3 class="tpr-article-content__details">Date: 2012&ndash;2014</h3>
+                        <p class="tpr-article-content__details">Production Company: Betty TV</p>
+                        <p class="tpr-article-content__details">Channel: Channel 4 Series 1&ndash;3</p>
+                        <p class="tpr-article-content__details">Date: 2012&ndash;2014</p>
 
                         
                         

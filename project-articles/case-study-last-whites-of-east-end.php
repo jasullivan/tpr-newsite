@@ -51,9 +51,9 @@
                         >
 
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Lambent Productions</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC One</h3>
-                        <h3 class="tpr-article-content__details">Date: May 2016</h3>
+                        <p class="tpr-article-content__details">Production Company: Lambent Productions</p>
+                        <p class="tpr-article-content__details">Channel: BBC One</p>
+                        <p class="tpr-article-content__details">Date: May 2016</p>
                         
                         <p class="tpr-article-content__paragraph">In the usual heady rush of TV scheduling, we were contacted at the last minute – just two weeks before transmission –
                         to promote the thoughtful and provocative documentary Last Whites of the East End.</p>

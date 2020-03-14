@@ -50,14 +50,14 @@
                             alt="Close-up of female resident at old people’s home" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Blast!</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 10/2012&ndash;12/2012</h3>
+                        <p class="tpr-article-content__details">Production Company: Blast!</p>
+                        <p class="tpr-article-content__details">Channel: BBC Four</p>
+                        <p class="tpr-article-content__details">Date: 10/2012&ndash;12/2012</p>
 
                         
                         
                         <p class="tpr-article-content__paragraph">The story of how Stoke-on-Trent council struggled to cope with the impact of the largest funding cuts to local government ever imposed by central government.</p>
-                        <h3 class="tpr-article-content__details">Awards: Grierson, Best Documentary Series</h3>
+                        <p class="tpr-article-content__details">Awards: Grierson, Best Documentary Series</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
                         <p class="tpr-article-content__paragraph">There were over 40 previews across listings magazines and nationals, including several Picks of the Day. Time Out gave it five stars and the Daily Mail gave it four. There were six national reviews. BBC Midlands Today ran a primetime news item on the eve of transmission. Director David Nath authored two pieces &ndash; a comment piece for the Independent and a feature for BBC Online.</p>
                         

@@ -50,7 +50,7 @@
                             alt="Five Junior Doctors standing in a row in front of the Royal Courts of Justice" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Date: From March – July 2015</h3>
+                        <p class="tpr-article-content__details">Date: From March – July 2015</p>
                         
                         <p class="tpr-article-content__paragraph">Justice for Health is led by an independent group of five NHS doctors, speaking out on behalf of the public and brought
                         together by their passion for a safer and better NHS. Dr Ben White, Dr Marie-Estella McVeigh, Dr Amar Mashru, Dr Fran

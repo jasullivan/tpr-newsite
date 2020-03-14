@@ -50,9 +50,9 @@
                             alt="Presenter/director Robb Leech interviews his brother who became a radical Muslim" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: GRACE Productions</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Three</h3>
-                        <h3 class="tpr-article-content__details">Date: 04/2014</h3>
+                        <p class="tpr-article-content__details">Production Company: GRACE Productions</p>
+                        <p class="tpr-article-content__details">Channel: BBC Three</p>
+                        <p class="tpr-article-content__details">Date: 04/2014</p>
 
                         
                         

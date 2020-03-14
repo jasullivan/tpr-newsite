@@ -50,9 +50,9 @@
                             alt="Supermodel Bella Hadid on catwalk with other models" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Finestripe</h3>
-                        <h3 class="tpr-article-content__details">Channel: More4</h3>
-                        <h3 class="tpr-article-content__details">Date: 01/2017–02/2017</h3>
+                        <p class="tpr-article-content__details">Production Company: Finestripe</p>
+                        <p class="tpr-article-content__details">Channel: More4</p>
+                        <p class="tpr-article-content__details">Date: 01/2017–02/2017</p>
                         
                         <p class="tpr-article-content__paragraph">In the run-up to London Fashion Week 2017, More4 screened Inside Dior, a two-part observational documentary series
                         which took an exclusive behind-the-scenes look at the fashion house on its 70th birthday and the appointment of its

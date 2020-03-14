@@ -51,8 +51,8 @@
                             alt="Front of the Curzon Bloomsbury cinema in London" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Client: NHK WORLD TV</h3>
-                        <h3 class="tpr-article-content__details">Date: 02/2017–04/2017</h3>
+                        <p class="tpr-article-content__details">Client: NHK WORLD TV</p>
+                        <p class="tpr-article-content__details">Date: 02/2017–04/2017</p>
                         
                         <p class="tpr-article-content__paragraph">What You Taught Me About My Son is an award-winning documentary about Naoki Higashida, a Japanese boy with severe
                         autism, who wrote one of the most extraordinarily candid books on life with the condition, championed by the acclaimed

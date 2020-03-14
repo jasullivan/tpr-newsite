@@ -51,7 +51,7 @@
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
                         
-                        <h3 class="tpr-article-content__details">Date: 2012</h3>
+                        <p class="tpr-article-content__details">Date: 2012</p>
 
                         
                         

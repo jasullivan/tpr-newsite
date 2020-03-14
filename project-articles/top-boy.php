@@ -50,14 +50,14 @@
                             alt="Four Top Boy cast members including Ashley Walters and Kane Robinson on an urban rooftop with a dog" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Cowboy Films &amp; Easter Partisan Films</h3>
-                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
-                        <h3 class="tpr-article-content__details">Date: 11/2011 &amp; 08/2013 (series 1 & 2)</h3>
+                        <p class="tpr-article-content__details">Production Company: Cowboy Films &amp; Easter Partisan Films</p>
+                        <p class="tpr-article-content__details">Channel: Channel 4</p>
+                        <p class="tpr-article-content__details">Date: 11/2011 &amp; 08/2013 (series 1 & 2)</p>
 
                         
                         
                         <p class="tpr-article-content__paragraph"> Top Boy is Ronan Bennett’s award-winning drama about young people living on the edge and out of sight in east London today. The series stars Ashley Walters and Kane Robinson together with a dynamic ensemble cast of first-time actors, brought together through extensive talent searches across London.</p>
-                        <h3 class="tpr-article-content__details">Awards: BAFTA and RTS</h3>
+                        <p class="tpr-article-content__details">Awards: BAFTA and RTS</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
                         <p class="tpr-article-content__paragraph">tpr media implemented a major national publicity campaign across print, broadcast, online and new media, positioning the series as a major television event and reinforcing Channel 4’s reputation for delivering contemporary, cutting-edge drama that tackles controversial issues – in this case gang culture. We also organised a cast and crew screening at the BFI in London for 450 people.</p>
                         

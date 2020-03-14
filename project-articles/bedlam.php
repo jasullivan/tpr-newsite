@@ -50,9 +50,9 @@
                             alt="Exterior of the Victorian Maudsley hospital in London" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Garden Productions</h3>
-                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
-                        <h3 class="tpr-article-content__details">Date:  09/2013&ndash;11/2013</h3>
+                        <p class="tpr-article-content__details">Production Company: Garden Productions</p>
+                        <p class="tpr-article-content__details">Channel: Channel 4</p>
+                        <p class="tpr-article-content__details">Date:  09/2013&ndash;11/2013</p>
 
                         
                         

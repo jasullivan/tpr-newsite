@@ -50,9 +50,9 @@
                             alt="Father pushing children on swings" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Whitewater Films and Khaos Digital</h3>
-                        <h3 class="tpr-article-content__details">Outlet: London Film Festival</h3>
-                        <h3 class="tpr-article-content__details">Date: 10/2013&ndash;11/2013</h3>
+                        <p class="tpr-article-content__details">Production Company: Whitewater Films and Khaos Digital</p>
+                        <p class="tpr-article-content__details">Outlet: London Film Festival</p>
+                        <p class="tpr-article-content__details">Date: 10/2013&ndash;11/2013</p>
 
                         
                         

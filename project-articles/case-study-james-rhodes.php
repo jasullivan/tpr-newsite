@@ -50,9 +50,9 @@
                             alt="Classical pianist James Rhodes sitting at a grand piano" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Fresh One Productions</h3>
-                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
-                        <h3 class="tpr-article-content__details">Date: July to December 2014</h3>
+                        <p class="tpr-article-content__details">Production Company: Fresh One Productions</p>
+                        <p class="tpr-article-content__details">Channel: Channel 4</p>
+                        <p class="tpr-article-content__details">Date: July to December 2014</p>
 
                         
                         

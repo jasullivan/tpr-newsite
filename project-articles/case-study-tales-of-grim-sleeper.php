@@ -50,9 +50,9 @@
                             alt="Director Nick Broomfield and contributor Pam in foreground driving a car" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: HBO Documentary Films, in association with Sky Atlantic & Lafayette Films</h3>
+                        <p class="tpr-article-content__details">Production Company: HBO Documentary Films, in association with Sky Atlantic & Lafayette Films</p>
                         
-                        <h3 class="tpr-article-content__details">Date: February to March 2015</h3>
+                        <p class="tpr-article-content__details">Date: February to March 2015</p>
                         
                         <p class="tpr-article-content__paragraph">Legendary British filmmaker Nick Bromfield’s documentary, Tales of the Grim Sleeper, looks at the arrest of
                         Lonnie Franklin Jr in July 2010 after a 25-year killing spree in which it is thought he could have killed over 100

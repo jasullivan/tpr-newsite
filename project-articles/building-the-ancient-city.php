@@ -50,9 +50,9 @@
                             alt="Ancient Greek building surrounded by trees" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Brave New Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <p class="tpr-article-content__details">Production Company: Brave New Media</p>
+                        <p class="tpr-article-content__details">Channel: BBC Four</p>
+                        <p class="tpr-article-content__details">Date: 07/2015–08/2015</p>
                         
                         <p class="tpr-article-content__paragraph">Building the Ancient City is a two-part series exploring how the Athenians and Romans fed their burgeoning populations,
                         how they housed them, got them to work without buses or trains, and coped with sanitation and waste disposal, all in a

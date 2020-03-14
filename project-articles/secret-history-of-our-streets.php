@@ -50,9 +50,9 @@
                             alt="Eight participants of Secret History of our Streets sit in front of their homes" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Century Films</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Two</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2014</h3>
+                        <p class="tpr-article-content__details">Production Company: Century Films</p>
+                        <p class="tpr-article-content__details">Channel: BBC Two</p>
+                        <p class="tpr-article-content__details">Date: 07/2014</p>
 
                         
                         

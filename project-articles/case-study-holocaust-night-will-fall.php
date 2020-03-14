@@ -50,9 +50,9 @@
                             alt="Close-up black and white picture of a soldier holding a film-camera from the 1940s" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Client: Spring Films & Angel TV</h3>
-                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
-                        <h3 class="tpr-article-content__details">Date: January 2015</h3>
+                        <p class="tpr-article-content__details">Client: Spring Films & Angel TV</p>
+                        <p class="tpr-article-content__details">Channel: Channel 4</p>
+                        <p class="tpr-article-content__details">Date: January 2015</p>
                         <p class="tpr-article-content__paragraph">Holocaust: Night Will Fall is André Singer’s powerful documentary about the liberation of the Nazi concentration camps and how combat and newsreel cameramen filmed the almost unbelievable scenes encountered there. Acclaimed by the 2014 Sheffield Doc/Fest jury, this deeply moving film ‘reveals the power of documentary and why it matters.</p>
                         <p class="tpr-article-content__paragraph">When Allied forces liberated the Nazi concentration camps in 1944-45, their terrible discoveries revealed for the first time the full horror of what had happened. Making use of British, Soviet and American footage, the Ministry of Information’s Sidney Bernstein (later founder of Granada Television) aimed to create a documentary that would provide lasting, undeniable evidence of the Nazis’ unspeakable crimes. He commissioned a wealth of British talent, including writer and future cabinet minister Richard Crossman – and, as treatment advisor, his friend Alfred Hitchcock.</p>
                         <p class="tpr-article-content__paragraph">Yet, despite initial support from the British and US Governments, the film was shelved before it could be completed. It was considered too sensitive for the rapidly changing political climate as reconciliation with Germany was now imperative and the Soviet Union was emerging as a new post-war enemy.</p>

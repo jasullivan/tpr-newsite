@@ -50,8 +50,8 @@
                             alt="A large group of children with magicians, including Dynamo, on stage" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Client: Breathe Arts Health Research</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2014&ndash;08/2014</h3>
+                        <p class="tpr-article-content__details">Client: Breathe Arts Health Research</p>
+                        <p class="tpr-article-content__details">Date: 07/2014&ndash;08/2014</p>
 
                         
                         

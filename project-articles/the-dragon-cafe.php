@@ -50,8 +50,8 @@
                             alt="Female artist demonstrates how to upholster a chair to three onlookers" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Client: Mental Fight Club</h3>
-                        <h3 class="tpr-article-content__details">Date: 12/2014–02/2015</h3>
+                        <p class="tpr-article-content__details">Client: Mental Fight Club</p>
+                        <p class="tpr-article-content__details">Date: 12/2014–02/2015</p>
                         <p class="tpr-article-content__paragraph">Based in the crypt of St George's Church in Borough High Street, The Dragon Café is a weekly pop-up cafe with a packed programme of creative activities and events. All are welcome but the VIPs at The Dragon Café are those who are struggling through vulnerability, mental illness and recovery.</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
                         <p class="tpr-article-content__paragraph">tpr media were commissioned to design and implement a targeted strategic campaign around the 100<sup>th</sup> Dragon Café in February 2015 and the launch of DRAGONCAFE100, a fund-raising and awareness project which aimed to raise £100,000 and invite one hundred creative ambassadors and advocates to visit and support the project.</p>

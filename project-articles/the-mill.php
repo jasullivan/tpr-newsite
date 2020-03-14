@@ -50,9 +50,9 @@
                             alt="Lead actors Kerrie Hayes and Matthew McNulty dressed in costume" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Darlow Smithson Productions</h3>
-                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
-                        <h3 class="tpr-article-content__details">Date:  04/2013&ndash;07/2013 &amp; 04/2014&ndash;07/2014</h3>
+                        <p class="tpr-article-content__details">Production Company: Darlow Smithson Productions</p>
+                        <p class="tpr-article-content__details">Channel: Channel 4</p>
+                        <p class="tpr-article-content__details">Date:  04/2013&ndash;07/2013 &amp; 04/2014&ndash;07/2014</p>
 
                         
                         

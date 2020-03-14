@@ -50,9 +50,9 @@
                             alt="Lead cast members of the Night Manager in luxury setting" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: The Ink Factory</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC One</h3>
-                        <h3 class="tpr-article-content__details">Date: 01/2016–02/2016</h3>
+                        <p class="tpr-article-content__details">Production Company: The Ink Factory</p>
+                        <p class="tpr-article-content__details">Channel: BBC One</p>
+                        <p class="tpr-article-content__details">Date: 01/2016–02/2016</p>
                         
                         <p class="tpr-article-content__paragraph">The Night Manager is a six-part drama series directed by Susanne Bier and starring Tom Hiddleston, Hugh Laurie, Olivia
                         Colman, David Harewood, Tom Hollander, and Elizabeth Debicki. It is based on the 1993 novel of the same name by John Le

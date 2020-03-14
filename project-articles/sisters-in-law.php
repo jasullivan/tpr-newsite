@@ -50,11 +50,11 @@
                             alt="Two female lawyers from Cameroon in full legal attire" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Vixen Films</h3>
-                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2005&ndash;10/2005</h3> 
+                        <p class="tpr-article-content__details">Production Company: Vixen Films</p>
+                        <p class="tpr-article-content__details">Channel: Channel 4</p>
+                        <p class="tpr-article-content__details">Date: 07/2005&ndash;10/2005</p> 
                         <p class="tpr-article-content__paragraph">Sisters in Law: Stories from a Cameroon Court is a feature-length documentary film by Kim Longinotto and Florence Ayisi portraying aspects of women’s lives and work in the judicial system in West Africa. It has won many film awards including the prestigious Prix Art et Essai at the Cannes Film Festival in May 2005.</p>
-                        <h3 class="tpr-article-content__details">Awards: Prix Art et Essai (Cannes Film Festival)</h3>
+                        <p class="tpr-article-content__details">Awards: Prix Art et Essai (Cannes Film Festival)</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
                         <p class="tpr-article-content__paragraph">tpr media coordinated a comprehensive campaign targeting film critics and broadcast slots as well as features, working closely with contributors and filmmakers. We were also responsible for client management at the BFI London Film Festival.</p>
                         

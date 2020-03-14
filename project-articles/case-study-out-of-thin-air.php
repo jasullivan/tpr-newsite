@@ -52,9 +52,9 @@
                         >
                             
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Mosaic Films</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Storyville, Netflix</h3>
-                        <h3 class="tpr-article-content__details">Date: May – September 2017</h3>
+                        <p class="tpr-article-content__details">Production Company: Mosaic Films</p>
+                        <p class="tpr-article-content__details">Channel: BBC Storyville, Netflix</p>
+                        <p class="tpr-article-content__details">Date: May – September 2017</p>
                         
                         <p class="tpr-article-content__paragraph">tpr media consultants were engaged from May 2017 by Mosaic Films to create and deliver a PR strategy for the
                         documentary Out of Thin Air. We positioned the feature-length film as a compelling true crime story, a successor to

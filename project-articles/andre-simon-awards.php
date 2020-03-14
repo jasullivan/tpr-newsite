@@ -50,8 +50,8 @@
                             alt="Celebrity Chef Jamie Oliver mingles with guests at the annual Andr&#233; Simon Awards" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Client: Andr&#233; Simon Memorial Fund</h3>
-                        <h3 class="tpr-article-content__details">Date: 2014&ndash;ongoing</h3>
+                        <p class="tpr-article-content__details">Client: Andr&#233; Simon Memorial Fund</p>
+                        <p class="tpr-article-content__details">Date: 2014&ndash;ongoing</p>
 
                         
                         

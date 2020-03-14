@@ -50,9 +50,9 @@
                             alt="Image of African woman wearing retro sunglasses and smiling" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Client: Africa at the Pictures, Royal African Society</h3>
-                        <h3 class="tpr-article-content__details">Venues: BFI Southbank, Barbican, Rich Mix and arthouse cinemas around the UK</h3>
-                        <h3 class="tpr-article-content__details">Date: 2003&ndash;2010</h3>
+                        <p class="tpr-article-content__details">Client: Africa at the Pictures, Royal African Society</p>
+                        <p class="tpr-article-content__details">Venues: BFI Southbank, Barbican, Rich Mix and arthouse cinemas around the UK</p>
+                        <p class="tpr-article-content__details">Date: 2003&ndash;2010</p>
 
                         
                         

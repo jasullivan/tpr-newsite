@@ -50,8 +50,8 @@
                             alt="Close-up shot of cow in truck" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Bertha Foundation</h3>
-                        <h3 class="tpr-article-content__details">Date: 06/2015–08/2015</h3>
+                        <p class="tpr-article-content__details">Production Company: Bertha Foundation</p>
+                        <p class="tpr-article-content__details">Date: 06/2015–08/2015</p>
                         
                         <p class="tpr-article-content__paragraph">The Bertha DocHouse screen in Curzon Bloomsbury is the UK’s first and only dedicated documentary centre. The screen
                         aims to celebrate documentary through themed seasons and by showcasing new films from festivals around the world.</p>

@@ -50,8 +50,8 @@
                             alt="Presenter Carne Ross standing in front of an anarchist mural" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: TIMA</h3>
-                        <h3 class="tpr-article-content__details">Date: 02/2015–04/2015</h3>
+                        <p class="tpr-article-content__details">Production Company: TIMA</p>
+                        <p class="tpr-article-content__details">Date: 02/2015–04/2015</p>
                         
                         <p class="tpr-article-content__paragraph">Reuters, the world’s largest international multimedia news agency, and TIMA, a global content service provider, came
                         together to launch a major new global partnership designed to offer location services including studio facilities and

@@ -50,8 +50,8 @@
                             alt="Screen grabs of the web-based app #HACKED" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Client: Al Jazeera</h3>
-                        <h3 class="tpr-article-content__details">Date: 09/2016–11/2016</p>
+                        <p class="tpr-article-content__details">Client: Al Jazeera</p>
+                        <p class="tpr-article-content__details">Date: 09/2016–11/2016</p>
                         
                         <p class="tpr-article-content__paragraph">In the run up to its 10th anniversary in November 2016 Al Jazeera English announced the launch of an interactive mobile
                         web-based app #HACKED: Syria’s Electronic Armies, which takes the user deep inside the country’s cyber war, a conflict

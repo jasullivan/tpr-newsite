@@ -50,8 +50,8 @@
                             alt="Performance at the National Youth Theatre" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: National Youth Theatre</h3>
-                        <h3 class="tpr-article-content__details">Date: 2006</h3>
+                        <p class="tpr-article-content__details">Production Company: National Youth Theatre</p>
+                        <p class="tpr-article-content__details">Date: 2006</p>
 
                         
                         

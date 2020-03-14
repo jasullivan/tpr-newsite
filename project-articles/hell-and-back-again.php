@@ -50,15 +50,15 @@
                             alt="Soldier shouting orders in the field in Afghanistan" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: BRITDOC &amp; Roast Beef Productions</h3>
-                        <h3 class="tpr-article-content__details">Channel: Storyville, BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 01/2011&ndash;03/2011</h3>
+                        <p class="tpr-article-content__details">Production Company: BRITDOC &amp; Roast Beef Productions</p>
+                        <p class="tpr-article-content__details">Channel: Storyville, BBC Four</p>
+                        <p class="tpr-article-content__details">Date: 01/2011&ndash;03/2011</p>
 
                         
                         
                         <p class="tpr-article-content__paragraph">Hell and Back Again is a documentary film produced, shot, and directed by Danfung Dennis, a photojournalist covering the war in Afghanistan. It is about a sergeant in the United States Marines Corps who returns from the Afghanistan conflict with a badly broken leg and post-traumatic stress disorder.</p>
 
-                        <h3 class="tpr-article-content__details">Awards: Double Sundance winner and Oscar nominee</h3>
+                        <p class="tpr-article-content__details">Awards: Double Sundance winner and Oscar nominee</p>
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
                         <p class="tpr-article-content__paragraph">tpr media placed press coverage celebrating the film’s success at the Sundance awards. We also organised a press screening for film critics and key film trades ahead of the Academy Awards. Alongside this, we raised the profile of Roast Beef Productions in key film trades from Screen International to Variety.</p>
                         

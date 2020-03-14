@@ -50,9 +50,9 @@
                             alt="‘Greek Blues’ singer Roza Eskenazi holding tambourine with two musicians either side" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Sher Film and Music</h3>
-                        <h3 class="tpr-article-content__details">Outlet: Cineworld</h3>
-                        <h3 class="tpr-article-content__details">Date: 09/2014&ndash;11/2014</h3>
+                        <p class="tpr-article-content__details">Production Company: Sher Film and Music</p>
+                        <p class="tpr-article-content__details">Outlet: Cineworld</p>
+                        <p class="tpr-article-content__details">Date: 09/2014&ndash;11/2014</p>
 
                         
                         

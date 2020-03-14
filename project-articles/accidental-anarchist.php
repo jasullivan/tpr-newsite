@@ -50,9 +50,9 @@
                             alt="Presenter Carne Ross standing in front of an anarchist mural" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Hopscotch Films</h3>
-                        <h3 class="tpr-article-content__details">Channel: Storyville, BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 05/2017&ndash;07/2017</h3>
+                        <p class="tpr-article-content__details">Production Company: Hopscotch Films</p>
+                        <p class="tpr-article-content__details">Channel: Storyville, BBC Four</p>
+                        <p class="tpr-article-content__details">Date: 05/2017&ndash;07/2017</p>
 
                         
                         

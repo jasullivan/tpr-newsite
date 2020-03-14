@@ -50,9 +50,9 @@
                             alt="Close-up of three female victims of Sri Lanka’s Civil War in extreme distress" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Outsider TV</h3>
-                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
-                        <h3 class="tpr-article-content__details">Date: 2012 - 2016</h3>
+                        <p class="tpr-article-content__details">Production Company: Outsider TV</p>
+                        <p class="tpr-article-content__details">Channel: Channel 4</p>
+                        <p class="tpr-article-content__details">Date: 2012 - 2016</p>
                         
                         <p class="tpr-article-content__paragraph">Since 2012, we’ve been working on Callum Macrae’s Emmy and Nobel-nominated documentary film No Fire Zone. The
                         product of a three-year investigation, the film documents the horrific human rights abuses committed in the closing

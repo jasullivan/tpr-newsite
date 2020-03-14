@@ -50,9 +50,9 @@
                             alt="Close-up of male lead Riz Ahmed" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Daybreak Pictures</h3>
-                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
-                        <h3 class="tpr-article-content__details">Date: 06/2007&ndash;11/2007</h3>
+                        <p class="tpr-article-content__details">Production Company: Daybreak Pictures</p>
+                        <p class="tpr-article-content__details">Channel: Channel 4</p>
+                        <p class="tpr-article-content__details">Date: 06/2007&ndash;11/2007</p>
 
                         
                         

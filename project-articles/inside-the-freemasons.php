@@ -51,9 +51,9 @@
                         >
 
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Emporium Productions</h3>
-                        <h3 class="tpr-article-content__details">Channel: Sky 1</h3>
-                        <h3 class="tpr-article-content__details">Date: 10/2016–05/2017</h3>
+                        <p class="tpr-article-content__details">Production Company: Emporium Productions</p>
+                        <p class="tpr-article-content__details">Channel: Sky 1</p>
+                        <p class="tpr-article-content__details">Date: 10/2016–05/2017</p>
                         
                         <p class="tpr-article-content__paragraph">Inside The Freemasons is a five-part documentary for Sky 1 that seeks to discover the truth behind the ancient rituals
                         and closely-guarded practices of the world’s oldest social network, taking viewers exclusively behind the scenes in the

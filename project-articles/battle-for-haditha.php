@@ -50,9 +50,9 @@
                             alt="Soldier shouting orders in combat, surrounded by smoke" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Lafayette Films</h3>
-                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
-                        <h3 class="tpr-article-content__details">Date: 11/2007&ndash;03/2008</h3>
+                        <p class="tpr-article-content__details">Production Company: Lafayette Films</p>
+                        <p class="tpr-article-content__details">Channel: Channel 4</p>
+                        <p class="tpr-article-content__details">Date: 11/2007&ndash;03/2008</p>
 
                         
                         

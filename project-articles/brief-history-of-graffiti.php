@@ -50,9 +50,9 @@
                             alt="Wall covered in brightly coloured graffiti" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Kaboom Film &amp; TV</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Four</h3>
-                        <h3 class="tpr-article-content__details">Date: 07/2015–08/2015</h3>
+                        <p class="tpr-article-content__details">Production Company: Kaboom Film &amp; TV</p>
+                        <p class="tpr-article-content__details">Channel: BBC Four</p>
+                        <p class="tpr-article-content__details">Date: 07/2015–08/2015</p>
                         
                         <p class="tpr-article-content__paragraph">From elegant line drawings in the 30,000-year-old Caves D’Arcy in central France to the triumphal graffiti of Russian
                         troops who captured the Reichstag in 1945, people we have scratched, etched and painted from time immemorial. In A

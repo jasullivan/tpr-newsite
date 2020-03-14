@@ -50,8 +50,8 @@
                             alt="Poster of woman holding a camera for Raindance Film Festival" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Client: Raindance Film Festival</h3>
-                        <h3 class="tpr-article-content__details">Date: 2011</h3>
+                        <p class="tpr-article-content__details">Client: Raindance Film Festival</p>
+                        <p class="tpr-article-content__details">Date: 2011</p>
 
                         
                         

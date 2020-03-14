@@ -51,8 +51,8 @@
                             alt="Older adult members holding hands and dancing in a circle" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Client: Ashford Place</h3>
-                        <h3 class="tpr-article-content__details">Date: 03/2017–05/2017</h3>
+                        <p class="tpr-article-content__details">Client: Ashford Place</p>
+                        <p class="tpr-article-content__details">Date: 03/2017–05/2017</p>
                         
                         <p class="tpr-article-content__paragraph">Community centre, Ashford Place, spent two years working with the charity, Community Action on Dementia (CAD) Brent, to
                         develop a ground-breaking new service designed to change the way people live with dementia. The project was developed

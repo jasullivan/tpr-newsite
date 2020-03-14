@@ -50,8 +50,8 @@
                             alt="Animation master, Hayao Miyazaki, drawing by hand in his studio" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Client: NHK WORLD TV</h3>
-                        <h3 class="tpr-article-content__details">Date: 02/2017–04/2017</h3>
+                        <p class="tpr-article-content__details">Client: NHK WORLD TV</p>
+                        <p class="tpr-article-content__details">Date: 02/2017–04/2017</p>
                         
                         <p class="tpr-article-content__paragraph">Never-Ending Man: Hayao Miyazaki follows Japanese animation maestro and Studio Ghibli co-founder for two years as he
                         comes out of retirement to work on his first-ever CGI film. This intimate behind-the-scenes portrait provides a

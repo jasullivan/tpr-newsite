@@ -50,9 +50,9 @@
                             alt="Daughter sits in chair in foreground while parents sit on sofa in the background" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Rare Day</h3>
-                        <h3 class="tpr-article-content__details">Channel: BBC Two</h3>
-                        <h3 class="tpr-article-content__details">Date:  08/2013&ndash;09/2013</h3>
+                        <p class="tpr-article-content__details">Production Company: Rare Day</p>
+                        <p class="tpr-article-content__details">Channel: BBC Two</p>
+                        <p class="tpr-article-content__details">Date:  08/2013&ndash;09/2013</p>
 
                         
                         

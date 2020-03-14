@@ -50,9 +50,9 @@
                             alt="Edward Snowdon in front of a house" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About: </h2>
-                        <h3 class="tpr-article-content__details">Production Company: Participant Media</h3>
-                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
-                        <h3 class="tpr-article-content__details">Date: 02/2015–03/2015</h3>
+                        <p class="tpr-article-content__details">Production Company: Participant Media</p>
+                        <p class="tpr-article-content__details">Channel: Channel 4</p>
+                        <p class="tpr-article-content__details">Date: 02/2015–03/2015</p>
                         
                         <p class="tpr-article-content__paragraph">Oscar-nominated documentary Citizenfour is a real-life thriller, unfolding by the minute, giving audiences
                         unprecedented access to filmmaker Laura Poitras and journalist Glenn Greenwald’s encounters with Edward Snowden in Hong

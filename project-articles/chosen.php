@@ -50,14 +50,14 @@
                             alt="Black and white picture of children playing rugby in the 1970s" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: True Vison</h3>
-                        <h3 class="tpr-article-content__details">Channel: Channel 4</h3>
-                        <h3 class="tpr-article-content__details">Date: 09/2008&ndash;12/2008</h3>
+                        <p class="tpr-article-content__details">Production Company: True Vison</p>
+                        <p class="tpr-article-content__details">Channel: Channel 4</p>
+                        <p class="tpr-article-content__details">Date: 09/2008&ndash;12/2008</p>
 
                         
                         
                         <p class="tpr-article-content__paragraph">Chosen is a powerful documentary about sexual abuse in the British public school system from director Brian Woods, funded by BRITDOC.</p>
-                        <h3 class="tpr-article-content__details">Awards: BAFTA</h3>
+                        <p class="tpr-article-content__details">Awards: BAFTA</p>
 
                         <h2 class="tpr-article-content__subtitle">Project: </h2>
                         <p class="tpr-article-content__paragraph">tpr media coordinated a campaign designed to give the contributors a voice decades after suffering sexual abuse. The aim was to do this in a sensitive and intelligent way while ensuring maximum impact. The wide-ranging campaign included features and education pieces together with a 'back to school' campaign with the Lucy Faithfull Foundation. High-profile columnists including David Aaronovitch, Deborah Orr and Barbara Ellen covered the documentary.</p>

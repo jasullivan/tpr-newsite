@@ -50,12 +50,12 @@
                             alt="Matt Shepard lying on a beach" class="lazyload tpr-article-content__image"
                         >
                         <h2 class="tpr-article-content__subtitle">About:</h2>  
-                        <h3 class="tpr-article-content__details">Production Company: Logo Documentary Films</h3>
-                        <h3 class="tpr-article-content__details">Outlet: IDFA International Film Festival</h3>
-                        <h3 class="tpr-article-content__details">Date: 10/2013&ndash;12/2013</h3>
+                        <p class="tpr-article-content__details">Production Company: Logo Documentary Films</p>
+                        <p class="tpr-article-content__details">Outlet: IDFA International Film Festival</p>
+                        <p class="tpr-article-content__details">Date: 10/2013&ndash;12/2013</p>
                         
                         <p class="tpr-article-content__paragraph">Matt Shepard Is a Friend of Mine explores the life and death of Matthew Shepard, the gay student murdered in Laramie, Wyoming through a personal lens. His tragic case helped change Hate Crime Law in America. The film, by a first time director, was in the top 20 IDFA documentaries and later went on to win an Emmy.</p>
-                        <h3 class="tpr-article-content__details">Awards: Daytime Emmy</h3>
+                        <p class="tpr-article-content__details">Awards: Daytime Emmy</p>
                         <h2 class="tpr-article-content__subtitle">Projects</h2>
                         <p class="tpr-article-content__paragraph">tpr media organised press screenings at IDFA in Amsterdam and coordinated a marketing campaign in gay bars across the city, liaising with gay campaigning groups. We achieved coverage in Dutch and UK outlets, in both the gay and mainstream media, working with Matt’s parents and the director.</p>
                         
