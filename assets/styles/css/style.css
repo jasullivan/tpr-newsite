@@ -186,6 +186,10 @@ a:hover {
   margin-top: 10rem; }
 
 .archive-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
   margin: 0;
   padding: 1rem 1rem 1rem 2rem;
   background: #007397;
@@ -193,10 +197,22 @@ a:hover {
   font-size: 2rem;
   cursor: pointer;
   transition: all 0.25s ease-in; }
+  .archive-button h2 {
+    margin-bottom: 0; }
+  .archive-button__icon {
+    width: 2.5rem;
+    height: 2.5rem;
+    transition: all 0.25s ease-in; }
 
 .archive-active, .archive-button:hover {
   background: #0086af;
   color: #ffffff; }
+
+.archive-active {
+  background: #0086af;
+  color: #ffffff; }
+  .archive-active .archive-button__icon {
+    transform: rotate(45deg); }
 
 .archive-projects {
   background: #eee;

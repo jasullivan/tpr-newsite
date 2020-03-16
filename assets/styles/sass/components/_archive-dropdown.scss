@@ -1,16 +1,36 @@
 
 .archive-button {
-  margin: 0;
-  padding: 1rem 1rem 1rem 2rem;
-  background: #007397;
-  color:#ffffff;
-  font-size: 2rem;
-  cursor: pointer;
-  transition: all 0.25s ease-in;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    margin: 0;
+    padding: 1rem 1rem 1rem 2rem;
+    background: #007397;
+    color:#ffffff;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: all 0.25s ease-in;
+    h2 {
+        margin-bottom: 0;
+    }
+    &__icon {
+        width: 2.5rem;
+        height: 2.5rem;
+    transition: all 0.25s ease-in;
+    }
 }
 .archive-active, .archive-button:hover {
   background: #0086af;
   color:#ffffff;
+}
+.archive-active {
+  background: #0086af;
+  color:#ffffff;
+  .archive-button__icon {
+      transform: rotate(45deg);
+  }
 }
 .archive-projects {
     background: #eee;

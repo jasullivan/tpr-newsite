@@ -294,8 +294,10 @@
     <div class="container mb-5">
         <div class="row">
             <div class="col-12">
-                <h2 class="archive-button">Archive</h2>
-                
+                <div class="archive-button">
+                    <h2>Archive</h2>
+                    <img class="archive-button__icon" src="./assets/images/news/plus-icon.png" alt="plus-icon">
+                </div>
                 <ul class="archive-projects">
                     <li class="archive-projects__link"><a href="news-articles/happy-anniversary-tima">Happy anniversary TIMA, marking three years in Washington DC</a></li>
                     <li class="archive-projects__link"><a href="news-articles/tpr-at-hyper-japan">tpr media at Hyper Japan 2015</a></li>
