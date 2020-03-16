@@ -250,6 +250,8 @@ a:hover {
     color: #007397; }
     .tpr-article-content__link:hover {
       color: #92d4e9; }
+  .tpr-article-content iframe {
+    width: 100%; }
 
 .tpr-blue-bar {
   background-color: #92d4e9;
