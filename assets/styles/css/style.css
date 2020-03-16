@@ -203,24 +203,23 @@ a:hover {
   overflow: hidden;
   max-height: 0;
   list-style: disc;
-  list-style-position: inside;
+  list-style-position: outside;
   vertical-align: middle;
-  transition: max-height .5s ease-in; }
+  transition: max-height .5s ease-in;
+  box-sizing: border-box; }
   .archive-projects__link {
-    padding: 0.5rem 1rem 0px 4rem;
+    margin: 0 3rem;
     text-decoration: none;
     color: #222;
     width: 90%; }
     @media (min-width: 75em) {
       .archive-projects__link {
+        margin: 0 3rem 0 5rem;
         width: 100%; } }
     .archive-projects__link:first-of-type {
       padding-top: 3rem; }
     .archive-projects__link:last-of-type {
       padding-bottom: 3rem; }
-    .archive-projects__link h3 {
-      display: inline-block;
-      vertical-align: middle; }
 
 .tpr-article-content {
   padding: 3rem 0 3rem; }
