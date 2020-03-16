@@ -18,7 +18,7 @@
     &__icon {
         width: 2.5rem;
         height: 2.5rem;
-    transition: all 0.25s ease-in;
+        transition: all 0.25s ease-in;
     }
 }
 .archive-active, .archive-button:hover {
@@ -29,7 +29,9 @@
   background: #0086af;
   color:#ffffff;
   .archive-button__icon {
-      transform: rotate(45deg);
+      -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+            transform: rotate(45deg);
   }
 }
 .archive-projects {

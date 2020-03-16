@@ -212,6 +212,8 @@ a:hover {
   background: #0086af;
   color: #ffffff; }
   .archive-active .archive-button__icon {
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
     transform: rotate(45deg); }
 
 .archive-projects {
